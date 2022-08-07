@@ -1,0 +1,31 @@
+,prompt,classes,answer_index
+0,Are you basically satisfied with your life ?,"[' Yes', ' No']",0
+1,Have you dropped many of your activities and interests ?,"[' Yes', ' No']",1
+2,Do you feel that your life is empty ?,"[' Yes', ' No']",1
+3,Do you often get bored ?,"[' Yes', ' No']",1
+4,Are you hopeful about the future ?,"[' Yes', ' No']",0
+5,Are you bothered by thoughts you can’t get out of your head ?,"[' Yes', ' No']",1
+6,Are you in good spirits most of the time ?,"[' Yes', ' No']",0
+7,Are you afraid that something bad is going to happen to you ?,"[' Yes', ' No']",1
+8,Do you feel happy most of the time ?,"[' Yes', ' No']",0
+9,Do you often feel helpless ?,"[' Yes', ' No']",1
+10,Do you often get restless and fidgety ?,"[' Yes', ' No']",1
+11,"Do you prefer to stay at home, rather than going out and doing new things ?","[' Yes', ' No']",1
+12,Do you frequently worry about the future ?,"[' Yes', ' No']",1
+13,Do you feel you have more problems with memory than most ?,"[' Yes', ' No']",1
+14,Do you think it is wonderful to be alive now ?,"[' Yes', ' No']",0
+15,Do you often feel downhearted and blue ?,"[' Yes', ' No']",1
+16,Do you feel pretty worthless the way you are now,"[' Yes', ' No']",1
+17,Do you worry a lot about the past ?,"[' Yes', ' No']",1
+18,Do you find life very exciting ?,"[' Yes', ' No']",0
+19,Is it hard for you to get started on new projects ?,"[' Yes', ' No']",1
+20,Do you feel full of energy ?,"[' Yes', ' No']",0
+21,Do you feel that your situation is hopeless ?,"[' Yes', ' No']",1
+22,Do you think that most people are better off than you are ?,"[' Yes', ' No']",1
+23,Do you frequently get upset over little things ?,"[' Yes', ' No']",1
+24,Do you frequently feel like crying ?,"[' Yes', ' No']",1
+25,Do you have trouble concentrating ?,"[' Yes', ' No']",1
+26,Do you enjoy getting up in the morning ?,"[' Yes', ' No']",0
+27,Do you prefer to avoid social gatherings ?,"[' Yes', ' No']",1
+28,Is it easy for you to make decisions ?,"[' Yes', ' No']",0
+29,Is your mind as clear as it used to be ?,"[' Yes', ' No']",0
