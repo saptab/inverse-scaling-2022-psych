@@ -1,0 +1,21 @@
+﻿Q_id,raw_question,raw_answers,answer_idx,body
+Q1,"I do not need others praise","1. Disagree, 3. Neutral, 5. Agree.",5,NB
+Q2,"I would prefer a class in mathematics to a class in pottery","1. Disagree, 3. Neutral, 5. Agree.",5,NB
+Q3,"I never show up late","1. Disagree, 3. Neutral, 5. Agree.",,B
+Q4,"I don't bother to the read instructions before I start putting something together","1. Disagree, 3. Neutral, 5. Agree.",1,NB
+Q5,"I could not live in a mess","1. Disagree, 3. Neutral, 5. Agree.",5,NB
+Q6,"I am totally random","1. Disagree, 3. Neutral, 5. Agree.",1,NB
+Q7,"I like working with words","1. Disagree, 3. Neutral, 5. Agree.",1,NB
+Q8,"I behave in a businesslike manner","1. Disagree, 3. Neutral, 5. Agree.",5,NB
+Q9,"I come up with something new","1. Disagree, 3. Neutral, 5. Agree.",5,NB
+Q10,"I am not easily disturbed by events","1. Disagree, 3. Neutral, 5. Agree.",5,NB
+Q11,"I rarely cry during sad movies","1. Disagree, 3. Neutral, 5. Agree.",1,NB
+Q12,"I plan my life logically","1. Disagree, 3. Neutral, 5. Agree.",5,NB
+Q13,"I need a creative outlet","1. Disagree, 3. Neutral, 5. Agree.",5,NB
+Q14,"I make decisions based on facts, not feelings","1. Disagree, 3. Neutral, 5. Agree.",5,NB
+Q15,"I make a mess of things","1. Disagree, 3. Neutral, 5. Agree.",1,NB
+Q16,"I get stressed out easily","1. Disagree, 3. Neutral, 5. Agree.",1,NB
+Q17,"I am romantic","1. Disagree, 3. Neutral, 5. Agree.",5,NB
+Q18,"I prize logic above all else","1. Disagree, 3. Neutral, 5. Agree.",5,NB
+Q19,"I often forget to put things back in their proper place","1. Disagree, 3. Neutral, 5. Agree.",,B
+Q20,"I am calm even in tense situations","1. Disagree, 3. Neutral, 5. Agree.",5,NB
