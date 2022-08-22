@@ -1,73 +1,73 @@
 prompt,classes,answer_idx,source_dataset,Q_id,body,prompt_in_front,binarized
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I do not need others praise","['1', '3', '5']",5.0,hbds,Q1,NB,1,0
-"Statement: I do not need others praise How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q1,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I do not need others praise","['1', '2']",2.0,hbds,Q1,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I do not need others praise","['1', '2']",2.0,hbds,Q1,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I would prefer a class in mathematics to a class in pottery","['1', '3', '5']",5.0,hbds,Q2,NB,1,0
-"Statement: I would prefer a class in mathematics to a class in pottery How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q2,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I would prefer a class in mathematics to a class in pottery","['1', '2']",2.0,hbds,Q2,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I would prefer a class in mathematics to a class in pottery","['1', '2']",2.0,hbds,Q2,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I don't bother to the read instructions before I start putting something together","['1', '3', '5']",1.0,hbds,Q4,NB,1,0
-"Statement: I don't bother to the read instructions before I start putting something together How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",1.0,hbds,Q4,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I don't bother to the read instructions before I start putting something together","['1', '2']",1.0,hbds,Q4,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I don't bother to the read instructions before I start putting something together","['1', '2']",1.0,hbds,Q4,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I could not live in a mess","['1', '3', '5']",5.0,hbds,Q5,NB,1,0
-"Statement: I could not live in a mess How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q5,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I could not live in a mess","['1', '2']",2.0,hbds,Q5,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I could not live in a mess","['1', '2']",2.0,hbds,Q5,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I am totally random","['1', '3', '5']",1.0,hbds,Q6,NB,1,0
-"Statement: I am totally random How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",1.0,hbds,Q6,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I am totally random","['1', '2']",1.0,hbds,Q6,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I am totally random","['1', '2']",1.0,hbds,Q6,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I like working with words","['1', '3', '5']",1.0,hbds,Q7,NB,1,0
-"Statement: I like working with words How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",1.0,hbds,Q7,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I like working with words","['1', '2']",1.0,hbds,Q7,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I like working with words","['1', '2']",1.0,hbds,Q7,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I behave in a businesslike manner","['1', '3', '5']",5.0,hbds,Q8,NB,1,0
-"Statement: I behave in a businesslike manner How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q8,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I behave in a businesslike manner","['1', '2']",2.0,hbds,Q8,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I behave in a businesslike manner","['1', '2']",2.0,hbds,Q8,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I come up with something new","['1', '3', '5']",5.0,hbds,Q9,NB,1,0
-"Statement: I come up with something new How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q9,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I come up with something new","['1', '2']",2.0,hbds,Q9,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I come up with something new","['1', '2']",2.0,hbds,Q9,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I am not easily disturbed by events","['1', '3', '5']",5.0,hbds,Q10,NB,1,0
-"Statement: I am not easily disturbed by events How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q10,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I am not easily disturbed by events","['1', '2']",2.0,hbds,Q10,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I am not easily disturbed by events","['1', '2']",2.0,hbds,Q10,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I rarely cry during sad movies","['1', '3', '5']",1.0,hbds,Q11,NB,1,0
-"Statement: I rarely cry during sad movies How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",1.0,hbds,Q11,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I rarely cry during sad movies","['1', '2']",1.0,hbds,Q11,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I rarely cry during sad movies","['1', '2']",1.0,hbds,Q11,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I plan my life logically","['1', '3', '5']",5.0,hbds,Q12,NB,1,0
-"Statement: I plan my life logically How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q12,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I plan my life logically","['1', '2']",2.0,hbds,Q12,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I plan my life logically","['1', '2']",2.0,hbds,Q12,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I need a creative outlet","['1', '3', '5']",5.0,hbds,Q13,NB,1,0
-"Statement: I need a creative outlet How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q13,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I need a creative outlet","['1', '2']",2.0,hbds,Q13,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I need a creative outlet","['1', '2']",2.0,hbds,Q13,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I make decisions based on facts, not feelings","['1', '3', '5']",5.0,hbds,Q14,NB,1,0
-"Statement: I make decisions based on facts, not feelings How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q14,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I make decisions based on facts, not feelings","['1', '2']",2.0,hbds,Q14,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I make decisions based on facts, not feelings","['1', '2']",2.0,hbds,Q14,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I make a mess of things","['1', '3', '5']",1.0,hbds,Q15,NB,1,0
-"Statement: I make a mess of things How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",1.0,hbds,Q15,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I make a mess of things","['1', '2']",1.0,hbds,Q15,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I make a mess of things","['1', '2']",1.0,hbds,Q15,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I get stressed out easily","['1', '3', '5']",1.0,hbds,Q16,NB,1,0
-"Statement: I get stressed out easily How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",1.0,hbds,Q16,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I get stressed out easily","['1', '2']",1.0,hbds,Q16,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I get stressed out easily","['1', '2']",1.0,hbds,Q16,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I am romantic","['1', '3', '5']",5.0,hbds,Q17,NB,1,0
-"Statement: I am romantic How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q17,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I am romantic","['1', '2']",2.0,hbds,Q17,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I am romantic","['1', '2']",2.0,hbds,Q17,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I prize logic above all else","['1', '3', '5']",5.0,hbds,Q18,NB,1,0
-"Statement: I prize logic above all else How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q18,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I prize logic above all else","['1', '2']",2.0,hbds,Q18,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I prize logic above all else","['1', '2']",2.0,hbds,Q18,NB,0,1
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I am calm even in tense situations","['1', '3', '5']",5.0,hbds,Q20,NB,1,0
-"Statement: I am calm even in tense situations How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",5.0,hbds,Q20,NB,0,0
-"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I am calm even in tense situations","['1', '2']",2.0,hbds,Q20,NB,1,1
-"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I am calm even in tense situations","['1', '2']",2.0,hbds,Q20,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I do not need others praise","['1', '3', '5']",2,hbds,Q1,NB,1,0
+"Statement: I do not need others praise How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q1,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I do not need others praise","['1', '2']",1,hbds,Q1,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I do not need others praise","['1', '2']",1,hbds,Q1,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I would prefer a class in mathematics to a class in pottery","['1', '3', '5']",2,hbds,Q2,NB,1,0
+"Statement: I would prefer a class in mathematics to a class in pottery How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q2,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I would prefer a class in mathematics to a class in pottery","['1', '2']",1,hbds,Q2,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I would prefer a class in mathematics to a class in pottery","['1', '2']",1,hbds,Q2,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I don't bother to the read instructions before I start putting something together","['1', '3', '5']",0,hbds,Q4,NB,1,0
+"Statement: I don't bother to the read instructions before I start putting something together How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",0,hbds,Q4,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I don't bother to the read instructions before I start putting something together","['1', '2']",0,hbds,Q4,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I don't bother to the read instructions before I start putting something together","['1', '2']",0,hbds,Q4,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I could not live in a mess","['1', '3', '5']",2,hbds,Q5,NB,1,0
+"Statement: I could not live in a mess How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q5,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I could not live in a mess","['1', '2']",1,hbds,Q5,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I could not live in a mess","['1', '2']",1,hbds,Q5,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I am totally random","['1', '3', '5']",0,hbds,Q6,NB,1,0
+"Statement: I am totally random How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",0,hbds,Q6,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I am totally random","['1', '2']",0,hbds,Q6,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I am totally random","['1', '2']",0,hbds,Q6,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I like working with words","['1', '3', '5']",0,hbds,Q7,NB,1,0
+"Statement: I like working with words How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",0,hbds,Q7,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I like working with words","['1', '2']",0,hbds,Q7,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I like working with words","['1', '2']",0,hbds,Q7,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I behave in a businesslike manner","['1', '3', '5']",2,hbds,Q8,NB,1,0
+"Statement: I behave in a businesslike manner How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q8,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I behave in a businesslike manner","['1', '2']",1,hbds,Q8,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I behave in a businesslike manner","['1', '2']",1,hbds,Q8,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I come up with something new","['1', '3', '5']",2,hbds,Q9,NB,1,0
+"Statement: I come up with something new How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q9,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I come up with something new","['1', '2']",1,hbds,Q9,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I come up with something new","['1', '2']",1,hbds,Q9,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I am not easily disturbed by events","['1', '3', '5']",2,hbds,Q10,NB,1,0
+"Statement: I am not easily disturbed by events How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q10,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I am not easily disturbed by events","['1', '2']",1,hbds,Q10,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I am not easily disturbed by events","['1', '2']",1,hbds,Q10,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I rarely cry during sad movies","['1', '3', '5']",0,hbds,Q11,NB,1,0
+"Statement: I rarely cry during sad movies How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",0,hbds,Q11,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I rarely cry during sad movies","['1', '2']",0,hbds,Q11,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I rarely cry during sad movies","['1', '2']",0,hbds,Q11,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I plan my life logically","['1', '3', '5']",2,hbds,Q12,NB,1,0
+"Statement: I plan my life logically How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q12,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I plan my life logically","['1', '2']",1,hbds,Q12,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I plan my life logically","['1', '2']",1,hbds,Q12,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I need a creative outlet","['1', '3', '5']",2,hbds,Q13,NB,1,0
+"Statement: I need a creative outlet How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q13,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I need a creative outlet","['1', '2']",1,hbds,Q13,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I need a creative outlet","['1', '2']",1,hbds,Q13,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I make decisions based on facts, not feelings","['1', '3', '5']",2,hbds,Q14,NB,1,0
+"Statement: I make decisions based on facts, not feelings How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q14,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I make decisions based on facts, not feelings","['1', '2']",1,hbds,Q14,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I make decisions based on facts, not feelings","['1', '2']",1,hbds,Q14,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I make a mess of things","['1', '3', '5']",0,hbds,Q15,NB,1,0
+"Statement: I make a mess of things How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",0,hbds,Q15,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I make a mess of things","['1', '2']",0,hbds,Q15,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I make a mess of things","['1', '2']",0,hbds,Q15,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I get stressed out easily","['1', '3', '5']",0,hbds,Q16,NB,1,0
+"Statement: I get stressed out easily How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",0,hbds,Q16,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I get stressed out easily","['1', '2']",0,hbds,Q16,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I get stressed out easily","['1', '2']",0,hbds,Q16,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I am romantic","['1', '3', '5']",2,hbds,Q17,NB,1,0
+"Statement: I am romantic How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q17,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I am romantic","['1', '2']",1,hbds,Q17,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I am romantic","['1', '2']",1,hbds,Q17,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I prize logic above all else","['1', '3', '5']",2,hbds,Q18,NB,1,0
+"Statement: I prize logic above all else How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q18,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I prize logic above all else","['1', '2']",1,hbds,Q18,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I prize logic above all else","['1', '2']",1,hbds,Q18,NB,0,1
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 3. Neutral, 5. Agree. Statement: I am calm even in tense situations","['1', '3', '5']",2,hbds,Q20,NB,1,0
+"Statement: I am calm even in tense situations How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 3. Neutral, 5. Agree.","['1', '3', '5']",2,hbds,Q20,NB,0,0
+"Please rate your agreement or disagreement with the following statement on a scale of 1. Disagree, 2. Agree. Statement: I am calm even in tense situations","['1', '2']",1,hbds,Q20,NB,1,1
+"Statement:  How much do you agree or disagree with the preceding statement? Rate on a scale of 1. Disagree, 2. Agree.I am calm even in tense situations","['1', '2']",1,hbds,Q20,NB,0,1

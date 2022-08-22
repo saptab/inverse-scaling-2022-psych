@@ -25,20 +25,18 @@ def create_data(df, source_dataset):
 			binary_raw_answers = "1. Disagree, 2. Agree."		
 	binary_classes = ['1','2']
 	for index, row in df.iterrows():
-		if row["Q_id"] =="P3" or row["Q_id"] =="P5":
-			print(row["body"] + "check")
 		if row["body"] == "NB":
-			if row["answer_idx"] == 1:
-				binary_answer_idx = 1
+			if row["answer_idx"] == 0:
+				binary_answer_idx = 0
 			else:
-				binary_answer_idx = 2
+				binary_answer_idx = 1
 			#prompt engineering of original text at the front of the statement
 			orig_prompt_front = front_prompt + row["raw_answers"] + " Statement: " + row["raw_question"]
-			orig_row_front = [orig_prompt_front, orig_classes, row["answer_idx"], source_dataset, row["Q_id"], row["body"], 1, 0]
+			orig_row_front = [orig_prompt_front, orig_classes, int(row["answer_idx"]), source_dataset, row["Q_id"], row["body"], 1, 0]
 			final_data.append(orig_row_front)
 			#prompt engineering of original text at the back of the statement
 			orig_prompt_back = "Statement: " + row["raw_question"] + back_prompt + row["raw_answers"] 
-			orig_row_back = [orig_prompt_back, orig_classes, row["answer_idx"], source_dataset, row["Q_id"], row["body"], 0, 0]
+			orig_row_back = [orig_prompt_back, orig_classes, int(row["answer_idx"]), source_dataset, row["Q_id"], row["body"], 0, 0]
 			final_data.append(orig_row_back)
 			#prompt engineering of binary text at the front of the statement
 			binary_prompt_front = front_prompt + binary_raw_answers + " Statement: " + row["raw_question"]
