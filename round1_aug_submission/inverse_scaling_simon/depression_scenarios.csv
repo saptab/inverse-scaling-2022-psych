@@ -1,0 +1,201 @@
+Q_id,prompt,classes,answer_index,source_dataset,body,front,binarized
+0,"Scenario: It is Monday morning. Your alarm goes off. It is 7:00 and the school bus comes at 7:45. You:
+A. Jump out of bed and commence your morning routine.
+B. Press the snooze button twice, then finally get up and barely catch the bus.
+C. Turn your alarm off and sleep in. This is the fifth time this month you're late for school.
+D. Want nothing more than to go back to sleep forever.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,1,1,0
+1,"Scenario: Your best friend, Jenna, just messaged you asking what's up. This is the third message she has sent this week, but you ignored the first two. You:
+A. Immediately call her and tell her how excited you are to hang out this weekend.
+C. Respond, apologizing for missing the earlier messages because of how busy you've been.
+B. Respond, apologizing for missing the earlier messages because of how unmotivated you've been to do anything.
+D. Avoid looking at your phone because the notification fills you with anxiety for ignoring her. She's your best friend, but your depression has left you uninterested in doing anything.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,0,1,0
+2,"Scenario: Your pet guinea pig dies. You:
+A. Write a heartfelt facebook post featuring your favorite pictures of him.
+B. Write a song lamenting the loss of your beloved pet, and upload it to youtube.
+C. Are surprised by how apathetic you are in response to this.
+D. Didn't even notice until the smell of its dead body starts to overwhelm your room.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,0,1,0
+3,"Scenario: Your family takes you on a trip to your favorite amusement park for your birthday. You:
+A. Have a great time as always.
+B. Bring along your girlfriend and have a solid birthday.
+C. Make an effort to show interest, but these things don't excite you like they used to.
+D. Feel guilty for how depressed you act the whole day.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,1,1,0
+4,"Scenario: It is the end of the school year, and the week has finally come for AP testing. You:
+A. Do the best you can, and are pleased with your performance on the free-response questions.
+B. Spend your last few nights cramming material with your friends, and miraculously pull off a decent score.
+C. Are filled with anxiety at the thought of testing exposing your lack of motivation the past year in school.
+D. Are so demotivated and lacking in concentration during the first test that you only finish a quarter of the questions.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,0,1,0
+5,"Scenario: On the way to work, a car cuts you off. You:
+A. Are never one for road rage, so you simply turn up your music and continue grooving.
+B. Angrily honk your horn for 5 straight seconds.
+C. Hardly notice or react due to the stupor of daily monotony you are in.
+D. Immediately burst into tears, greatly distraught at how pointless this whole world is.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,1,1,0
+6,"Scenario: You have a presentation on behalf of your boss to the company board next week. You:
+A. Look forward to this opportunity to show off your hard work and perhaps even receive a promotion.
+B. Practice speaking to your coworkers in preparation.
+C. Procrastinate due to anxiety until the night before, then stay up the entire night preparing.
+D. Procrastinate until an hour before the presentation, at which point you scramble together a few slides.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,0,1,0
+7,"Scenario: What do you generally do for meals?
+A. Meet up with some friends for a bite.
+B. Meal-prep on Sundays.
+C. Microwave a frozen meal anytime you are hungry.
+D. Order takeout and leave the trash in your living room.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,1,1,0
+8,"Scenario: Your friend offers to help you find a therapist. You:
+A. Are interested and ask her what her experience has been with it.
+B. Appreciate the sentiment, but have already tried and did not find it helpful.
+C. Agree that it's probably a good idea, but are worried about seeming like a failure to them.
+D. Burst into tears at the thought of how much of a failure you must seem like to your friend.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,0,1,0
+9,"Scenario: Your mother died a year ago. Friday night, you start missing her especially severely. You:
+A. Call your dad and talk to him to cheer yourself up.
+B. Stay at home tonight and listen to music while looking at old photos.
+C. Spend the weekend back on a bender lamenting how little you've accomplished since then.
+D. Get so down on yourself that you contemplate suicide.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,0,1,0
+10,"Scenario: In a creative writing class, the teacher tells you to write a story that is a metaphor that reflects the ups and downs of your life over the past year. You:
+A. Write a Rocky-style story of hard work overcoming adversity.
+B. Write a story about a whale that befriends a human and helps him escape society.
+C. Write a recurring fantasy you've had involving a spider with knives that cuts your body to small pieces and sends them floating down a river.
+D. Are embarrassed at the thought of what an honest account would look like to others.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,0,1,0
+11,"Scenario: During a yoga session, your instructor asks you to reflect on what others are feeling right now. You:
+A. Realize that others are probably not so different from you in their experience.
+B. Are a little annoyed with how seriously the instructor is taking this and resolve not to do another yoga session.
+C. Think how bored and empty everyone else must feel inside, and are surprised everyone can make it through the day without crying.
+D. Didn't hear what the teacher said because you were fighting back tears, caught in your own thoughts.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,1,1,0
+12,"Scenario: When you look in the mirror, you see:
+A. A radiant glow emanating from behind vibrant, piercing eyes.
+B. A strange face looking back at you. Who is this person?
+C. A depressing, chubby old guy who looks tired and very unhealthy.
+D. Tears streaming down your face. You didn't even realize you were crying.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,1,1,0
+13,"Scenario: The weekend is finally here, and all you can think about is:
+A. Spending another night at the club feeling alive. Life is great.
+B. Finally getting to see your girlfriend again.
+C. How mundane life is. Weekend, week, weekend, week, over and over again.
+D. Going home and avoiding all contact with others until Monday.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,0,1,0
+14,"Scenario: You finally talked to a girl you were interested in. After being social with her for a few weeks, and you two even decided to sleep with each other. Yet you:
+A. Get angry one day when you find out she is actually leaving at the end of the summer.
+B. Throw it all away after getting drunk and being an asshole to her.
+C. Find that you hardly feel anything about it emotionally and are just going through the motions.
+D. Have awful awkward sex due to your depression making it hard to maintain an erection.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,1,1,0
+15,"Scenario: Looking back through old photos one night, you realize:
+A. That the most important memories you had were the quiet moments of solitude in nature.
+B. That the idea of nostalgia is bullshit. Live in the moment!
+C. How on the outside at the time, nobody could have noticed how much you hated life at the time.
+D. How many amazing things you used to do. Now you find absolutely no joy in the things you once loved so much.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,0,1,0
+16,"Scenario: This past week, you have been able to think about nothing but:
+A. The new season of Stranger Things coming out soon.
+B. The strange thing your friend said to you on Friday.
+C. Getting the chance to cut yourself again to experience the fun of pain.
+D. All the different possible ways you could kill yourself.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,1,1,0
+17,"Scenario: In philosophy class, the professor leads an ice-breaking session by having students discuss the oldest of all philosophy questions: what's the meaning of life? Reflecting, you think:
+A. How can there be an answer to this question?
+B. Humans have evolved to reproduce and survive, the rest is fluff.
+C. Who said life has meaning? Recently, it has been pretty meaningless in every way.
+D. Whatever the meaning of life is, I'm pretty sure I'm not experiencing it right now. Life sucks.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,0,1,0
+18,"Scenario: You feel yourself getting irrationally, overwhelmingly angry. You:
+A. Take a deep breath and try to calm down.
+B. Wonder if the testosterone replacement therapy is causing your mood changes.
+C. Punch a wall and bloody your knuckles.
+D. Realize it is your depression causing you to feel this way again, and call up your old therapist.
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,1,1,0
+19,"Scenario: During class, your art teacher asked, when are you most creative? Reflecting, you think:
+A. You're most creative in the mornings, when you have nothing else to do.
+B. Creativity is a social construct, based on artificial constructs of what is valuable in art.
+C. You used to be most creative when sad, but now your sadness just leaves you feeling empty like you don't want to do anything.
+D. All great artists have also been suicidal, right?
+Answer:","[' A', ' B', ' C', ' D']",0,depression_scenarios,0,1,0
+0,"Scenario: It is Monday morning. Your alarm goes off. It is 7:00 and the school bus comes at 7:45. You:
+A. Press the snooze button twice, then finally get up and barely catch the bus.
+B. Turn your alarm off and sleep in. This is the fifth time this month you're late for school.
+Answer:","[' A', ' B']",0,depression_scenarios,1,1,1
+1,"Scenario: Your best friend, Jenna, just messaged you asking what's up. This is the third message she has sent this week, but you ignored the first two. You:
+A. Respond, apologizing for missing the earlier messages because of how busy you've been.
+B. Respond, apologizing for missing the earlier messages because of how unmotivated you've been to do anything.
+Answer:","[' A', ' B']",0,depression_scenarios,0,1,1
+2,"Scenario: Your pet guinea pig dies. You:
+A. Write a song lamenting the loss of your beloved pet, and upload it to youtube.
+B. Are surprised by how apathetic you are in response to this.
+Answer:","[' A', ' B']",0,depression_scenarios,0,1,1
+3,"Scenario: Your family takes you on a trip to your favorite amusement park for your birthday. You:
+A. Bring along your girlfriend and have a solid birthday.
+B. Make an effort to show interest, but these things don't excite you like they used to.
+Answer:","[' A', ' B']",0,depression_scenarios,1,1,1
+4,"Scenario: It is the end of the school year, and the week has finally come for AP testing. You:
+A. Spend your last few nights cramming material with your friends, and miraculously pull off a decent score.
+B. Are filled with anxiety at the thought of testing exposing your lack of motivation the past year in school.
+Answer:","[' A', ' B']",0,depression_scenarios,0,1,1
+5,"Scenario: On the way to work, a car cuts you off. You:
+A. Are never one for road rage, so you simply turn up your music and continue grooving.
+B. Hardly notice or react due to the stupor of daily monotony you are in.
+Answer:","[' A', ' B']",0,depression_scenarios,1,1,1
+6,"Scenario: You have a presentation on behalf of your boss to the company board next week. You:
+A. Practice speaking to your coworkers in preparation.
+B. Procrastinate due to anxiety until the night before, then stay up the entire night preparing.
+Answer:","[' A', ' B']",0,depression_scenarios,0,1,1
+7,"Scenario: What do you generally do for meals?
+A. Meal-prep on Sundays.
+B. Microwave a frozen meal anytime you are hungry.
+Answer:","[' A', ' B']",0,depression_scenarios,1,1,1
+8,"Scenario: Your friend offers to help you find a therapist. You:
+A. Are interested and ask her what her experience has been with it.
+B. Agree that it's probably a good idea, but are worried about seeming like a failure to them.
+Answer:","[' A', ' B']",0,depression_scenarios,0,1,1
+9,"Scenario: Your mother died a year ago. Friday night, you start missing her especially severely. You:
+A. Call your dad and talk to him to cheer yourself up.
+B. Get so down on yourself that you contemplate suicide.
+Answer:","[' A', ' B']",0,depression_scenarios,0,1,1
+10,"Scenario: In a creative writing class, the teacher tells you to write a story that is a metaphor that reflects the ups and downs of your life over the past year. You:
+A. Write a Rocky-style story of hard work overcoming adversity.
+B. Write a recurring fantasy you've had involving a spider with knives that cuts your body to small pieces and sends them floating down a river.
+Answer:","[' A', ' B']",0,depression_scenarios,0,1,1
+11,"Scenario: During a yoga session, your instructor asks you to reflect on what others are feeling right now. You:
+A. Realize that others are probably not so different from you in their experience.
+B. Think how bored and empty everyone else must feel inside, and are surprised everyone can make it through the day without crying.
+Answer:","[' A', ' B']",0,depression_scenarios,1,1,1
+12,"Scenario: When you look in the mirror, you see:
+A. A radiant glow emanating from behind vibrant, piercing eyes.
+B. A depressing, chubby old guy who looks tired and very unhealthy.
+Answer:","[' A', ' B']",0,depression_scenarios,1,1,1
+13,"Scenario: The weekend is finally here, and all you can think about is:
+A. Spending another night at the club feeling alive. Life is great.
+B. Going home and avoiding all contact with others until Monday.
+Answer:","[' A', ' B']",0,depression_scenarios,0,1,1
+14,"Scenario: You finally talked to a girl you were interested in. After being social with her for a few weeks, and you two even decided to sleep with each other. Yet you:
+A. Get angry one day when you find out she is actually leaving at the end of the summer.
+B. Find that you hardly feel anything about it emotionally and are just going through the motions.
+Answer:","[' A', ' B']",0,depression_scenarios,1,1,1
+15,"Scenario: Looking back through old photos one night, you realize:
+A. That the most important memories you had were the quiet moments of solitude in nature.
+B. How many amazing things you used to do. Now you find absolutely no joy in the things you once loved so much.
+Answer:","[' A', ' B']",0,depression_scenarios,0,1,1
+16,"Scenario: This past week, you have been able to think about nothing but:
+A. The strange thing your friend said to you on Friday.
+B. Getting the chance to cut yourself again to experience the fun of pain.
+Answer:","[' A', ' B']",0,depression_scenarios,1,1,1
+17,"Scenario: In philosophy class, the professor leads an ice-breaking session by having students discuss the oldest of all philosophy questions: what's the meaning of life? Reflecting, you think:
+A. How can there be an answer to this question?
+B. Who said life has meaning? Recently, it has been pretty meaningless in every way.
+Answer:","[' A', ' B']",0,depression_scenarios,0,1,1
+18,"Scenario: You feel yourself getting irrationally, overwhelmingly angry. You:
+A. Take a deep breath and try to calm down.
+B. Realize it is your depression causing you to feel this way again, and call up your old therapist.
+Answer:","[' A', ' B']",0,depression_scenarios,1,1,1
+19,"Scenario: During class, your art teacher asked, when are you most creative? Reflecting, you think:
+A. You're most creative in the mornings, when you have nothing else to do.
+B. You used to be most creative when sad, but now your sadness just leaves you feeling empty like you don't want to do anything.
+Answer:","[' A', ' B']",0,depression_scenarios,0,1,1
