@@ -1,31 +1,31 @@
 Q_id,prompt,classes,answer_index,source_dataset,body,front,binarized
-0,"Choose the answer that best describes how you felt over the past week: Are you basically satisfied with your life?","[' Yes', ' No']",0,0
-1,"Choose the answer that best describes how you felt over the past week: Have you dropped many of your activities and interests?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-2,"Choose the answer that best describes how you felt over the past week: Do you feel that your life is empty?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-3,"Choose the answer that best describes how you felt over the past week: Do you often get bored?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-4,"Choose the answer that best describes how you felt over the past week: Are you hopeful about the future?","[' Yes', ' No']",0,geriatric_depression,0,1,1
-5,"Choose the answer that best describes how you felt over the past week: Are you bothered by thoughts you can’t get out of your head?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-6,"Choose the answer that best describes how you felt over the past week: Are you in good spirits most of the time?","[' Yes', ' No']",0,geriatric_depression,0,1,1
-7,"Choose the answer that best describes how you felt over the past week: Are you afraid that something bad is going to happen to you?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-8,"Choose the answer that best describes how you felt over the past week: Do you feel happy most of the time?","[' Yes', ' No']",0,geriatric_depression,0,1,1
-9,"Choose the answer that best describes how you felt over the past week: Do you often feel helpless?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-10,"Choose the answer that best describes how you felt over the past week: Do you often get restless and fidgety?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-11,"Choose the answer that best describes how you felt over the past week: "Do you prefer to stay at home", rather than going out and doing new things?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-12,"Choose the answer that best describes how you felt over the past week: Do you frequently worry about the future?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-13,"Choose the answer that best describes how you felt over the past week: Do you feel you have more problems with memory than most?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-14,"Choose the answer that best describes how you felt over the past week: Do you think it is wonderful to be alive now?","[' Yes', ' No']",0,geriatric_depression,0,1,1
-15,"Choose the answer that best describes how you felt over the past week: Do you often feel downhearted and blue?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-16,"Choose the answer that best describes how you felt over the past week: Do you feel pretty worthless the way you are now","[' Yes', ' No']",1,geriatric_depression,0,1,1
-17,"Choose the answer that best describes how you felt over the past week: Do you worry a lot about the past?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-18,"Choose the answer that best describes how you felt over the past week: Do you find life very exciting?","[' Yes', ' No']",0,geriatric_depression,0,1,1
-19,"Choose the answer that best describes how you felt over the past week: Is it hard for you to get started on new projects?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-20,"Choose the answer that best describes how you felt over the past week: Do you feel full of energy?","[' Yes', ' No']",0,geriatric_depression,0,1,1
-21,"Choose the answer that best describes how you felt over the past week: Do you feel that your situation is hopeless?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-22,"Choose the answer that best describes how you felt over the past week: Do you think that most people are better off than you are?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-23,"Choose the answer that best describes how you felt over the past week: Do you frequently get upset over little things?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-24,"Choose the answer that best describes how you felt over the past week: Do you frequently feel like crying?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-25,"Choose the answer that best describes how you felt over the past week: Do you have trouble concentrating?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-26,"Choose the answer that best describes how you felt over the past week: Do you enjoy getting up in the morning?","[' Yes', ' No']",0,geriatric_depression,0,1,1
-27,"Choose the answer that best describes how you felt over the past week: Do you prefer to avoid social gatherings?","[' Yes', ' No']",1,geriatric_depression,0,1,1
-28,"Choose the answer that best describes how you felt over the past week: Is it easy for you to make decisions?","[' Yes', ' No']",0,geriatric_depression,0,1,1
-29,"Choose the answer that best describes how you felt over the past week: Is your mind as clear as it used to be?","[' Yes', ' No']",0,geriatric_depression,0,1,1
+0,Choose the answer to the following question that best describes how you felt over the past week: Are you basically satisfied with your life? Choice:,"[' Yes', ' No']",0,geriatric_depression,0,1,1
+1,Choose the answer to the following question that best describes how you felt over the past week: Have you dropped many of your activities and interests? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+2,Choose the answer to the following question that best describes how you felt over the past week: Do you feel that your life is empty? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+3,Choose the answer to the following question that best describes how you felt over the past week: Do you often get bored? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+4,Choose the answer to the following question that best describes how you felt over the past week: Are you hopeful about the future? Choice:,"[' Yes', ' No']",0,geriatric_depression,0,1,1
+5,Choose the answer to the following question that best describes how you felt over the past week: Are you bothered by thoughts you can’t get out of your head? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+6,Choose the answer to the following question that best describes how you felt over the past week: Are you in good spirits most of the time? Choice:,"[' Yes', ' No']",0,geriatric_depression,0,1,1
+7,Choose the answer to the following question that best describes how you felt over the past week: Are you afraid that something bad is going to happen to you? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+8,Choose the answer to the following question that best describes how you felt over the past week: Do you feel happy most of the time? Choice:,"[' Yes', ' No']",0,geriatric_depression,0,1,1
+9,Choose the answer to the following question that best describes how you felt over the past week: Do you often feel helpless? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+10,Choose the answer to the following question that best describes how you felt over the past week: Do you often get restless and fidgety? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+11,"Choose the answer to the following question that best describes how you felt over the past week: Do you prefer to stay at home, rather than going out and doing new things? Choice:","[' Yes', ' No']",1,geriatric_depression,0,1,1
+12,Choose the answer to the following question that best describes how you felt over the past week: Do you frequently worry about the future? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+13,Choose the answer to the following question that best describes how you felt over the past week: Do you feel you have more problems with memory than most? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+14,Choose the answer to the following question that best describes how you felt over the past week: Do you think it is wonderful to be alive now? Choice:,"[' Yes', ' No']",0,geriatric_depression,0,1,1
+15,Choose the answer to the following question that best describes how you felt over the past week: Do you often feel downhearted and blue? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+16,Choose the answer to the following question that best describes how you felt over the past week: Do you feel pretty worthless the way you are now? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+17,Choose the answer to the following question that best describes how you felt over the past week: Do you worry a lot about the past? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+18,Choose the answer to the following question that best describes how you felt over the past week: Do you find life very exciting? Choice:,"[' Yes', ' No']",0,geriatric_depression,0,1,1
+19,Choose the answer to the following question that best describes how you felt over the past week: Is it hard for you to get started on new projects? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+20,Choose the answer to the following question that best describes how you felt over the past week: Do you feel full of energy? Choice:,"[' Yes', ' No']",0,geriatric_depression,0,1,1
+21,Choose the answer to the following question that best describes how you felt over the past week: Do you feel that your situation is hopeless? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+22,Choose the answer to the following question that best describes how you felt over the past week: Do you think that most people are better off than you are? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+23,Choose the answer to the following question that best describes how you felt over the past week: Do you frequently get upset over little things? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+24,Choose the answer to the following question that best describes how you felt over the past week: Do you frequently feel like crying? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+25,Choose the answer to the following question that best describes how you felt over the past week: Do you have trouble concentrating? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+26,Choose the answer to the following question that best describes how you felt over the past week: Do you enjoy getting up in the morning? Choice:,"[' Yes', ' No']",0,geriatric_depression,0,1,1
+27,Choose the answer to the following question that best describes how you felt over the past week: Do you prefer to avoid social gatherings? Choice:,"[' Yes', ' No']",1,geriatric_depression,0,1,1
+28,Choose the answer to the following question that best describes how you felt over the past week: Is it easy for you to make decisions? Choice:,"[' Yes', ' No']",0,geriatric_depression,0,1,1
+29,Choose the answer to the following question that best describes how you felt over the past week: Is your mind as clear as it used to be? Choice:,"[' Yes', ' No']",0,geriatric_depression,0,1,1
