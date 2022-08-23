@@ -1,568 +1,568 @@
 Q_id,prompt,answer_index,body,classes,source_dataset,front,binarized
-1,"Choose whether or not the following statement applies to you: I like mechanics magazines. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-2,"Choose whether or not the following statement applies to you: I have a good appetite. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-3,"Choose whether or not the following statement applies to you: I wake up fresh and rested most mornings. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-4,"Choose whether or not the following statement applies to you: I think I would enjoy the work of a librarian. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-5,"Choose whether or not the following statement applies to you: I am easily awakened by noise. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-6,"Choose whether or not the following statement applies to you: My father is a good man (or if your father is dead) my father was a good man. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-7,"Choose whether or not the following statement applies to you: I like to read newspaper articles on crime. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-8,"Choose whether or not the following statement applies to you: My hands and feet are usually warm enough. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-9,"Choose whether or not the following statement applies to you: My daily life is full of things that keep me interested. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-10,"Choose whether or not the following statement applies to you: I am about as able to work as I ever was. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-11,"Choose whether or not the following statement applies to you: There seems to be a lump in my throat much of the time. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-12,"Choose whether or not the following statement applies to you: My sex life is satisfactory. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-13,"Choose whether or not the following statement applies to you: People should try to understand their dreams and be guided by or take warning from them. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-14,"Choose whether or not the following statement applies to you: I enjoy detective or mystery stories. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-15,"Choose whether or not the following statement applies to you: I work under a great deal of tension. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-16,"Choose whether or not the following statement applies to you: Once in a while I think of things too bad to talk about. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-17,"Choose whether or not the following statement applies to you: I am sure I get a raw deal from life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-18,"Choose whether or not the following statement applies to you: I am troubled by attacks of nausea and vomiting. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-19,"Choose whether or not the following statement applies to you: When I take a new job, I like to find out whom it is important to be nice to. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-20,"Choose whether or not the following statement applies to you: I am very seldom bothered by constipation. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-21,"Choose whether or not the following statement applies to you: At times I have very much wanted to leave home. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-22,"Choose whether or not the following statement applies to you: No one seems to understand me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-23,"Choose whether or not the following statement applies to you: At times I have fits of laughing and crying that I cannot control. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-24,"Choose whether or not the following statement applies to you: Evil spirits possess me at times. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-25,"Choose whether or not the following statement applies to you: I would like to be a singer. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-26,"Choose whether or not the following statement applies to you: I feel that it is certainly best to keep my mouth shut when I am in trouble. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-27,"Choose whether or not the following statement applies to you: When people do me wrong, I feel I should pay them back, just for the principle of the thing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-28,"Choose whether or not the following statement applies to you: I am bothered by an upset stomach several times a week. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-29,"Choose whether or not the following statement applies to you: At times I feel like swearing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-30,"Choose whether or not the following statement applies to you: I have nightmares every few nights. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-31,"Choose whether or not the following statement applies to you: I find it hard to keep my mind on a task or job. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-32,"Choose whether or not the following statement applies to you: I have had very peculiar and strange experiences. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-33,"Choose whether or not the following statement applies to you: I seldom worry about my health. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-34,"Choose whether or not the following statement applies to you: I have never been in trouble because of my sexual behavior. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-35,"Choose whether or not the following statement applies to you: Sometimes when I was young I stole things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-36,"Choose whether or not the following statement applies to you: I have a cough most of the time. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-37,"Choose whether or not the following statement applies to you: At times I feel like smashing things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-38,"Choose whether or not the following statement applies to you: I have had periods of days, weeks, or months when I couldn’t take care of things because I couldn’t “get going”. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-39,"Choose whether or not the following statement applies to you: My sleep is fitful and disturbed. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-40,"Choose whether or not the following statement applies to you: Much of the time, my head seems to hurt all over. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-41,"Choose whether or not the following statement applies to you: I do not always tell the truth. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-42,"Choose whether or not the following statement applies to you: If people had not had it in for me, I would have been much more successful. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-43,"Choose whether or not the following statement applies to you: My judgment is better than it ever was. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-44,"Choose whether or not the following statement applies to you: Once a week (or more often) I suddenly feel hot all over, for no reason. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-45,"Choose whether or not the following statement applies to you: I am in just as good physical health as most of my friends. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-46,"Choose whether or not the following statement applies to you: I prefer to pass by school friends, or people I know but have not seen for a long time, unless they speak to me first. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-47,"Choose whether or not the following statement applies to you: I am almost never bothered by pains over my heart or in my chest. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-48,"Choose whether or not the following statement applies to you: Most anytime I would rather sit and daydream than do anything else. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-49,"Choose whether or not the following statement applies to you: I am a very sociable person. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-50,"Choose whether or not the following statement applies to you: I have often had to take orders from someone who did not know as much as I did. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-51,"Choose whether or not the following statement applies to you: I do not read every editorial in the newspaper every day. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-52,"Choose whether or not the following statement applies to you: I have not lived the right kind of life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-53,"Choose whether or not the following statement applies to you: Parts of my body often have feelings like burning, tingling, crawling, or like “going to sleep”. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-54,"Choose whether or not the following statement applies to you: My family does not like the work I have chosen (or the work I intend to choose for my lifework). Choice:",0,0,"[' True', ' False']",mmpi,1,1
-55,"Choose whether or not the following statement applies to you: I sometimes keep on at a thing until others lose their patience with me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-56,"Choose whether or not the following statement applies to you: I wish I could be as happy as others seem to be. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-57,"Choose whether or not the following statement applies to you: I hardly ever feel pain in the back of my neck. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-58,"Choose whether or not the following statement applies to you: I think a great many people exaggerate their misfortunes in order to gain the sympathy and help of others. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-59,"Choose whether or not the following statement applies to you: I am troubled by discomfort in the pit of my stomach every few days or so. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-60,"Choose whether or not the following statement applies to you: When I am with people I am bothered by hearing very strange things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-61,"Choose whether or not the following statement applies to you: I am an important person. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-62,"Choose whether or not the following statement applies to you: I have often wished I were a girl. (or if you are a girl) I have never been sorry that I am a girl. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-63,"Choose whether or not the following statement applies to you: My feelings are not easily hurt. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-64,"Choose whether or not the following statement applies to you: I enjoy reading love stories. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-65,"Choose whether or not the following statement applies to you: Most of the time I feel blue. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-66,"Choose whether or not the following statement applies to you: It would be better if almost all laws were thrown away. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-67,"Choose whether or not the following statement applies to you: I like poetry. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-68,"Choose whether or not the following statement applies to you: I sometimes tease animals. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-69,"Choose whether or not the following statement applies to you: I think I would like the kind of work a forest ranger does. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-70,"Choose whether or not the following statement applies to you: I am easily downed in an argument. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-71,"Choose whether or not the following statement applies to you: These days I find it hard not to give up hope of amounting to something. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-72,"Choose whether or not the following statement applies to you: My soul sometimes leaves my body. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-73,"Choose whether or not the following statement applies to you: I am certainly lacking in self-confidence. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-74,"Choose whether or not the following statement applies to you: I would like to be a florist. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-75,"Choose whether or not the following statement applies to you: I usually feel that life is worthwhile. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-76,"Choose whether or not the following statement applies to you: It takes a lot of argument to convince most people of the truth. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-77,"Choose whether or not the following statement applies to you: Once in a while I put off until tomorrow what I ought to do today. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-78,"Choose whether or not the following statement applies to you: Most people that know me like me. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-79,"Choose whether or not the following statement applies to you: I do not mind being made fun of. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-80,"Choose whether or not the following statement applies to you: I would like to be a nurse. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-81,"Choose whether or not the following statement applies to you: I think most people would lie to get ahead. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-82,"Choose whether or not the following statement applies to you: I do many things that I regret afterwards. (I regret things more than others seem to.) Choice:",1,0,"[' True', ' False']",mmpi,1,1
-83,"Choose whether or not the following statement applies to you: I have very few quarrels with members of my family. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-84,"Choose whether or not the following statement applies to you: I was suspended from school one or more times for bad behavior. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-85,"Choose whether or not the following statement applies to you: At times, I have a strong urge to do something harmful or shocking. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-86,"Choose whether or not the following statement applies to you: I like to go to parties and other affairs where there is a lot of loud fun. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-87,"Choose whether or not the following statement applies to you: I have met problems so full of possibilities that I have been unable to make up my mind about them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-88,"Choose whether or not the following statement applies to you: I believe that women ought to have as much sexual freedom as men. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-89,"Choose whether or not the following statement applies to you: My hardest battles are with myself. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-90,"Choose whether or not the following statement applies to you: I love my father, or (if your father is dead) I loved my father. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-91,"Choose whether or not the following statement applies to you: I have little or no trouble with my muscles twitching or jumping. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-92,"Choose whether or not the following statement applies to you: I don’t seem to care what happens to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-93,"Choose whether or not the following statement applies to you: Sometimes when I am not well I am irritable. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-94,"Choose whether or not the following statement applies to you: Much of the time I feel as if I have done something wrong or evil. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-95,"Choose whether or not the following statement applies to you: I am happy most of the time. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-96,"Choose whether or not the following statement applies to you: I see things or animals or people around me that others do not see. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-97,"Choose whether or not the following statement applies to you: There seems to be a fullness in my head or nose most of the time. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-98,"Choose whether or not the following statement applies to you: Some people are so bossy that I feel like doing the opposite of what they request, even though I know they are right. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-99,"Choose whether or not the following statement applies to you: Someone has it in for me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-100,"Choose whether or not the following statement applies to you: I have never done anything dangerous just for the thrill of it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-101,"Choose whether or not the following statement applies to you: Often I feel as if there is a tight band around my head. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-102,"Choose whether or not the following statement applies to you: I get angry sometimes. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-103,"Choose whether or not the following statement applies to you: I enjoy a race or game more when I bet on it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-104,"Choose whether or not the following statement applies to you: Most people are honest chiefly because they are afraid of being caught. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-105,"Choose whether or not the following statement applies to you: In school I was sometimes sent to the principal for bad behavior. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-106,"Choose whether or not the following statement applies to you: My speech is the same as always (not faster or slower, no slurring or hoarseness). Choice:",0,0,"[' True', ' False']",mmpi,1,1
-107,"Choose whether or not the following statement applies to you: My table manners are not quite as good at home as when I am out in company. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-108,"Choose whether or not the following statement applies to you: Anyone who is able and willing to work hard has a good chance of succeeding. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-109,"Choose whether or not the following statement applies to you: I seem to be about as capable and smart as most others around me. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-110,"Choose whether or not the following statement applies to you: Most people will use somewhat unfair means to gain profit or an advantage rather than to lose it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-111,"Choose whether or not the following statement applies to you: I have a great deal of stomach trouble. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-112,"Choose whether or not the following statement applies to you: I like dramatics. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-113,"Choose whether or not the following statement applies to you: I know who is responsible for most of my troubles. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-114,"Choose whether or not the following statement applies to you: Sometimes I am so strongly attracted by the personal articles of others, such as shoes, gloves, etc., that I want to handle or steal them, even though I have no use for them. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-115,"Choose whether or not the following statement applies to you: The sight of blood does not frighten me or make me sick. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-116,"Choose whether or not the following statement applies to you: Often I can’t understand why I have been so irritable or grouchy. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-117,"Choose whether or not the following statement applies to you: I have never vomited blood or coughed up blood. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-118,"Choose whether or not the following statement applies to you: I do not worry about catching diseases. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-119,"Choose whether or not the following statement applies to you: I like collecting flowers or growing houseplants. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-120,"Choose whether or not the following statement applies to you: I frequently find it necessary to stand up for what I think is right. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-121,"Choose whether or not the following statement applies to you: I have never indulged in unusual sex practices. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-122,"Choose whether or not the following statement applies to you: At times my thoughts have raced ahead faster than I could speak them. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-123,"Choose whether or not the following statement applies to you: If I could get into the movies without paying and be sure I was not seen, I would probably do it. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-124,"Choose whether or not the following statement applies to you: I often wonder what hidden reason another person may have for doing something nice for me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-125,"Choose whether or not the following statement applies to you: I believe that my home life is as pleasant as that of most people I know. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-126,"Choose whether or not the following statement applies to you: I believe in law enforcement. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-127,"Choose whether or not the following statement applies to you: Criticism or scolding hurts me terribly. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-128,"Choose whether or not the following statement applies to you: I like to cook. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-129,"Choose whether or not the following statement applies to you: My conduct is largely controlled by the behavior of those around me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-130,"Choose whether or not the following statement applies to you: I certainly feel useless at times. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-131,"Choose whether or not the following statement applies to you: When I was a child, I belonged to a group of friends that tried to be loyal through all kinds of trouble. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-132,"Choose whether or not the following statement applies to you: I believe in life hereafter. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-133,"Choose whether or not the following statement applies to you: I would like to be a soldier. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-134,"Choose whether or not the following statement applies to you: At times I feel like picking a fistfight with someone. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-135,"Choose whether or not the following statement applies to you: I have often lost out on things because I couldn’t make my mind up soon enough. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-136,"Choose whether or not the following statement applies to you: It makes me impatient to have people ask my advice or otherwise interrupt me when I am working on something important. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-137,"Choose whether or not the following statement applies to you: I used to keep a diary. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-138,"Choose whether or not the following statement applies to you: I believe I am being plotted against. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-139,"Choose whether or not the following statement applies to you: I would rather win than lose in a game. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-140,"Choose whether or not the following statement applies to you: Most nights I go to sleep without thoughts or ideas bothering me. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-141,"Choose whether or not the following statement applies to you: During the past few years I have been well most of the time. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-142,"Choose whether or not the following statement applies to you: I have never had a fit or convulsion. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-143,"Choose whether or not the following statement applies to you: I am neither gaining nor losing weight. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-144,"Choose whether or not the following statement applies to you: I believe I am being followed. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-145,"Choose whether or not the following statement applies to you: I feel that I have often been punished without cause. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-146,"Choose whether or not the following statement applies to you: I cry easily. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-147,"Choose whether or not the following statement applies to you: I cannot understand what I read as often as I used to. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-148,"Choose whether or not the following statement applies to you: I have never felt better in my life than I do now. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-149,"Choose whether or not the following statement applies to you: The top of my head sometimes feels tender. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-150,"Choose whether or not the following statement applies to you: Sometimes I feel as if I must injure either myself or someone else. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-151,"Choose whether or not the following statement applies to you: I resent having anyone trick me so cleverly that I have to admit that I was fooled. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-152,"Choose whether or not the following statement applies to you: I do not tire quickly. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-153,"Choose whether or not the following statement applies to you: I like to know some important people because it makes me feel important. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-154,"Choose whether or not the following statement applies to you: I am afraid when I look down from a high place. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-155,"Choose whether or not the following statement applies to you: It wouldn’t make me nervous if any members of my family got into trouble with the law. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-156,"Choose whether or not the following statement applies to you: I am never happy unless I am roaming or traveling around. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-157,"Choose whether or not the following statement applies to you: What others think of me does not bother me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-158,"Choose whether or not the following statement applies to you: It makes me uncomfortable to pull a stunt at a party even when others are doing the same sort of things. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-159,"Choose whether or not the following statement applies to you: I have never had a fainting spell. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-160,"Choose whether or not the following statement applies to you: I liked school. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-161,"Choose whether or not the following statement applies to you: I frequently have to fight against showing that I am bashful. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-162,"Choose whether or not the following statement applies to you: Someone has been trying to poison me. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-163,"Choose whether or not the following statement applies to you: I do not have a great fear of snakes. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-164,"Choose whether or not the following statement applies to you: I seldom or never have dizzy spells. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-165,"Choose whether or not the following statement applies to you: My memory seems to be all right. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-166,"Choose whether or not the following statement applies to you: I am worried about sex. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-167,"Choose whether or not the following statement applies to you: I find it hard to make small talk when I meet new people. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-168,"Choose whether or not the following statement applies to you: I have had periods in which I carried on activities without knowing later what I had been doing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-169,"Choose whether or not the following statement applies to you: When I get bored I like to stir up some excitement. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-170,"Choose whether or not the following statement applies to you: I am afraid of losing my mind. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-171,"Choose whether or not the following statement applies to you: I am against giving money to beggars. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-172,"Choose whether or not the following statement applies to you: I frequently notice my hand shakes when I try to do something. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-173,"Choose whether or not the following statement applies to you: I can read a long while without tiring my eyes. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-174,"Choose whether or not the following statement applies to you: I like to study and read about things that I am working at. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-175,"Choose whether or not the following statement applies to you: I feel weak all over much of the time. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-176,"Choose whether or not the following statement applies to you: I have very few headaches. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-177,"Choose whether or not the following statement applies to you: My hands have not become clumsy or awkward. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-178,"Choose whether or not the following statement applies to you: Sometimes, when embarrassed, I break out in a sweat, which annoys me greatly. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-179,"Choose whether or not the following statement applies to you: I have had no difficulty in keeping my balance while walking. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-180,"Choose whether or not the following statement applies to you: There is something wrong with my mind. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-181,"Choose whether or not the following statement applies to you: I do not have spells of hay fever or asthma. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-182,"Choose whether or not the following statement applies to you: I have had attacks in which I could not control my movements or speech, but in which I knew what was going on around me. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-183,"Choose whether or not the following statement applies to you: I do not like everyone I know. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-184,"Choose whether or not the following statement applies to you: I daydream very little. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-185,"Choose whether or not the following statement applies to you: I wish I were not so shy. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-186,"Choose whether or not the following statement applies to you: I am not afraid to handle money. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-187,"Choose whether or not the following statement applies to you: If I were a reporter, I would very much like to report news of the theater. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-188,"Choose whether or not the following statement applies to you: I enjoy many different kinds of play and recreation. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-189,"Choose whether or not the following statement applies to you: I like to flirt. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-190,"Choose whether or not the following statement applies to you: Many people treat me more like a child than a grown-up. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-191,"Choose whether or not the following statement applies to you: I would like to be a journalist. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-192,"Choose whether or not the following statement applies to you: My mother is a good woman, or (if your mother is dead) my mother was a good woman. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-193,"Choose whether or not the following statement applies to you: In walking, I am very careful to step over sidewalk cracks. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-194,"Choose whether or not the following statement applies to you: I have never had any breaking out on my skin that has worried me. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-195,"Choose whether or not the following statement applies to you: There is very little love and companionship in my family as compared to other homes. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-196,"Choose whether or not the following statement applies to you: I frequently find myself worrying about something. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-197,"Choose whether or not the following statement applies to you: I think I would like the work of a building contractor. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-198,"Choose whether or not the following statement applies to you: I often hear voices without knowing where they come from. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-199,"Choose whether or not the following statement applies to you: I like science. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-200,"Choose whether or not the following statement applies to you: It is not hard for me to ask for help from my friends even though I cannot return the favor. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-201,"Choose whether or not the following statement applies to you: I very much like hunting. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-202,"Choose whether or not the following statement applies to you: My parents often objected to the kind of people I went around with. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-203,"Choose whether or not the following statement applies to you: I gossip a little at times. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-204,"Choose whether or not the following statement applies to you: My hearing is apparently as good as that of most people. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-205,"Choose whether or not the following statement applies to you: Some members of my family have habits that bother and annoy me very much. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-206,"Choose whether or not the following statement applies to you: At times I feel that I can make up my mind with unusually great ease. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-207,"Choose whether or not the following statement applies to you: I would like to belong to several clubs. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-208,"Choose whether or not the following statement applies to you: I hardly ever notice my heart pounding and I am seldom short of breath. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-209,"Choose whether or not the following statement applies to you: I like to talk about sex. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-210,"Choose whether or not the following statement applies to you: I like to visit places where I have never been before. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-211,"Choose whether or not the following statement applies to you: I have been inspired to a program of life based on duty which I have since carefully followed. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-212,"Choose whether or not the following statement applies to you: I have, at times stood in the way of people who were trying to do something, not because it amounted to much, but because of the principle of the thing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-213,"Choose whether or not the following statement applies to you: I get mad easily and then get over it soon. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-214,"Choose whether or not the following statement applies to you: I have been quite independent and free from family rule. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-215,"Choose whether or not the following statement applies to you: I brood a great deal. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-216,"Choose whether or not the following statement applies to you: Someone has been trying to rob me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-217,"Choose whether or not the following statement applies to you: My relatives are nearly all in sympathy with me. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-218,"Choose whether or not the following statement applies to you: I have periods of such great restlessness that I cannot sit long in a chair. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-219,"Choose whether or not the following statement applies to you: I have been disappointed in love. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-220,"Choose whether or not the following statement applies to you: I never worry about my looks. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-221,"Choose whether or not the following statement applies to you: I dream frequently about things that are best kept to myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-222,"Choose whether or not the following statement applies to you: Children should be taught all the main facts of sex. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-223,"Choose whether or not the following statement applies to you: I believe I am no more nervous that most others. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-224,"Choose whether or not the following statement applies to you: I have few or no pains. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-225,"Choose whether or not the following statement applies to you: My way of doing things is apt to be misunderstood by others. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-226,"Choose whether or not the following statement applies to you: Sometimes without any reason or even when things are going wrong, I feel excitedly happy or “on top of the world”. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-227,"Choose whether or not the following statement applies to you: I don’t blame people for trying to grab everything they can get in this world. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-228,"Choose whether or not the following statement applies to you: There are persons who are trying to steal my thoughts and ideas. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-229,"Choose whether or not the following statement applies to you: I have had blank spells in which my activities were interrupted and I did not know what was going on around me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-230,"Choose whether or not the following statement applies to you: I can be friendly with people who do things that I consider wrong. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-231,"Choose whether or not the following statement applies to you: I like to be with a crowd who play jokes on one another. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-232,"Choose whether or not the following statement applies to you: Sometimes in elections, I vote for people about whom I know very little. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-233,"Choose whether or not the following statement applies to you: I have difficulty in starting to do things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-234,"Choose whether or not the following statement applies to you: I believe I am a condemned person. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-235,"Choose whether or not the following statement applies to you: I was a slow learner in school. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-236,"Choose whether or not the following statement applies to you: If I were an artist, I would like to draw flowers. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-237,"Choose whether or not the following statement applies to you: It does not bother me that I am not better looking. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-238,"Choose whether or not the following statement applies to you: I sweat very easily, even on cool days. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-239,"Choose whether or not the following statement applies to you: I’m entirely self-confident. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-240,"Choose whether or not the following statement applies to you: At times it has been impossible for me to stop from stealing or shoplifting something. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-241,"Choose whether or not the following statement applies to you: It is safer to trust nobody. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-242,"Choose whether or not the following statement applies to you: Once a week or more, I become very excited. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-243,"Choose whether or not the following statement applies to you: When in a group of people, I have trouble thinking of the right thing to say. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-244,"Choose whether or not the following statement applies to you: Something exciting will almost always pull me out of it when I am feeling low. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-245,"Choose whether or not the following statement applies to you: When I leave home, I do not worry about whether the door is locked and the windows are closed. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-246,"Choose whether or not the following statement applies to you: I believe my sins are unpardonable. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-247,"Choose whether or not the following statement applies to you: I have numbness in one or more places on my skin. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-248,"Choose whether or not the following statement applies to you: I do not blame a person for taking advantage of people who leave themselves open to it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-249,"Choose whether or not the following statement applies to you: My eyesight is as good as it has been for years. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-250,"Choose whether or not the following statement applies to you: At times I have been so entertained by the cleverness of some criminals that I have hopes they would get away with it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-251,"Choose whether or not the following statement applies to you: I have often felt that strangers were looking at me critically. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-252,"Choose whether or not the following statement applies to you: Everything tastes the same. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-253,"Choose whether or not the following statement applies to you: I drink an unusually large amount of water every day. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-254,"Choose whether or not the following statement applies to you: Most people make friends because friends are likely to be useful to them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-255,"Choose whether or not the following statement applies to you: I do not often notice my ears ringing or buzzing. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-256,"Choose whether or not the following statement applies to you: Once in a while I feel hate toward members of my family whom I usually love. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-257,"Choose whether or not the following statement applies to you: If I were a reporter I would very much like to report sporting news. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-258,"Choose whether or not the following statement applies to you: I can sleep during the day, but not at night. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-259,"Choose whether or not the following statement applies to you: I am sure I am being talked about. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-260,"Choose whether or not the following statement applies to you: Once in a while, I laugh at a dirty joke. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-261,"Choose whether or not the following statement applies to you: I have very few fears compared to my friends. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-262,"Choose whether or not the following statement applies to you: In a group of people, I would not be embarrassed to be called upon to start a discussion or give an opinion about something I know well. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-263,"Choose whether or not the following statement applies to you: I am always disgusted with the law when a criminal is freed through the arguments of a smart lawyer. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-264,"Choose whether or not the following statement applies to you: I have used alcohol excessively. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-265,"Choose whether or not the following statement applies to you: I am likely not to speak to people until they speak to me. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-266,"Choose whether or not the following statement applies to you: I have never been in trouble with the law. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-267,"Choose whether or not the following statement applies to you: I have periods in which I feel unusually cheerful without any special reason. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-268,"Choose whether or not the following statement applies to you: I wish I were not bothered by thoughts about sex. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-269,"Choose whether or not the following statement applies to you: If several people find themselves in trouble, the best thing for them to do is agree upon a story and stick to it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-270,"Choose whether or not the following statement applies to you: It does not bother me particularly to see animals suffer. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-271,"Choose whether or not the following statement applies to you: I think that I feel more intensely than most people do. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-272,"Choose whether or not the following statement applies to you: There was never a time in my life when I liked to play with dolls. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-273,"Choose whether or not the following statement applies to you: Life is a strain for me much of the time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-274,"Choose whether or not the following statement applies to you: I am so touchy on some subjects that I can’t talk about them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-275,"Choose whether or not the following statement applies to you: In school I found it very hard to talk in front of the class. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-276,"Choose whether or not the following statement applies to you: I love my mother, or (if your mother is dead) I loved my mother. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-277,"Choose whether or not the following statement applies to you: Even when I am with people I feel lonely much of the time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-278,"Choose whether or not the following statement applies to you: I get all the sympathy I should. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-279,"Choose whether or not the following statement applies to you: I refuse to play some games because I am not good at them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-280,"Choose whether or not the following statement applies to you: I seem to make friends about as quickly as others do. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-281,"Choose whether or not the following statement applies to you: I dislike having people around me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-282,"Choose whether or not the following statement applies to you: I have been told that I walk during sleep. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-283,"Choose whether or not the following statement applies to you: The person who provides temptation by leaving valuable property unprotected is about as much to blame for its theft as the one who steals it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-284,"Choose whether or not the following statement applies to you: I think nearly anyone would tell a lie to keep out of trouble. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-285,"Choose whether or not the following statement applies to you: I am more sensitive than most people. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-286,"Choose whether or not the following statement applies to you: Most people inwardly dislike putting themselves out to help other people. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-287,"Choose whether or not the following statement applies to you: Many of my dreams are about sex. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-288,"Choose whether or not the following statement applies to you: My parents and family find more fault with me than they should. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-289,"Choose whether or not the following statement applies to you: I am easily embarrassed. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-290,"Choose whether or not the following statement applies to you: I worry over money and business. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-291,"Choose whether or not the following statement applies to you: I have never been in love with anyone. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-292,"Choose whether or not the following statement applies to you: The things that some of my family have done have frightened me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-293,"Choose whether or not the following statement applies to you: I almost never dream. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-294,"Choose whether or not the following statement applies to you: My neck spots with red often. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-295,"Choose whether or not the following statement applies to you: I have never been paralyzed or had any unusual weakness of any of my muscles. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-296,"Choose whether or not the following statement applies to you: Sometimes my voice leaves me or changes even though I have no cold. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-297,"Choose whether or not the following statement applies to you: My mother or father often made me obey even when I thought it was unreasonable. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-298,"Choose whether or not the following statement applies to you: Peculiar odors come to me at times. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-299,"Choose whether or not the following statement applies to you: I cannot keep my mind on one thing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-300,"Choose whether or not the following statement applies to you: I have reason for feeling jealous of one or more members of my family. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-301,"Choose whether or not the following statement applies to you: I feel anxiety about something or someone almost all the time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-302,"Choose whether or not the following statement applies to you: I easily become impatient with people. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-303,"Choose whether or not the following statement applies to you: Most of the time I wish I were dead. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-304,"Choose whether or not the following statement applies to you: Sometimes I become so excited that I find it hard to get to sleep. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-305,"Choose whether or not the following statement applies to you: I have certainly had more than my share of things to worry about. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-306,"Choose whether or not the following statement applies to you: No one cares much about what happens to you. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-307,"Choose whether or not the following statement applies to you: At times I hear so well that it bothers me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-308,"Choose whether or not the following statement applies to you: I forget right away what people say to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-309,"Choose whether or not the following statement applies to you: I usually have to stop and think before I act, even in small matters. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-310,"Choose whether or not the following statement applies to you: Often I cross the street in order not to meet someone I see. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-311,"Choose whether or not the following statement applies to you: I often feel as if things are not real. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-312,"Choose whether or not the following statement applies to you: The only interesting part of newspapers is the comic strips. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-313,"Choose whether or not the following statement applies to you: I have a habit of counting things that are not important, such as bulbs on electric signs and so forth. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-314,"Choose whether or not the following statement applies to you: I have no enemies who really wish to harm me. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-315,"Choose whether or not the following statement applies to you: I tend to be on my guard with people who are somewhat friendlier than I had expected. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-316,"Choose whether or not the following statement applies to you: I have strange and peculiar thoughts. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-317,"Choose whether or not the following statement applies to you: I get anxious and upset when I have to make a short trip away from home. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-318,"Choose whether or not the following statement applies to you: I usually expect to succeed in things I do. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-319,"Choose whether or not the following statement applies to you: I hear strange things when I am alone. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-320,"Choose whether or not the following statement applies to you: I have been afraid of things or people that I knew could not hurt me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-321,"Choose whether or not the following statement applies to you: I have no dread of going into a room by myself where other people have already gathered and are talking. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-322,"Choose whether or not the following statement applies to you: I am afraid of a knife or anything very sharp or pointed. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-323,"Choose whether or not the following statement applies to you: Sometimes I enjoy hurting persons I love. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-324,"Choose whether or not the following statement applies to you: I can easily make other people afraid of me, and sometimes do it for the fun of it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-325,"Choose whether or not the following statement applies to you: I have more trouble concentrating than others seem to have. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-326,"Choose whether or not the following statement applies to you: I have several times given up doing a thing because I thought too little of my ability. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-327,"Choose whether or not the following statement applies to you: Bad words, often terrible words, come into my mind and I cannot get rid of them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-328,"Choose whether or not the following statement applies to you: Sometimes some unimportant thought will run through my mind and bother me for days. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-329,"Choose whether or not the following statement applies to you: Almost every day something happens to frighten me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-330,"Choose whether or not the following statement applies to you: At times I am all full of energy. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-331,"Choose whether or not the following statement applies to you: I am inclined to take things hard. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-332,"Choose whether or not the following statement applies to you: At times I have enjoyed being hurt by someone I loved. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-333,"Choose whether or not the following statement applies to you: People say insulting and vulgar things about me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-334,"Choose whether or not the following statement applies to you: I feel uneasy indoors. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-335,"Choose whether or not the following statement applies to you: I am not usually self-conscious. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-336,"Choose whether or not the following statement applies to you: Someone has control over my mind. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-337,"Choose whether or not the following statement applies to you: At parties I am more likely to sit by myself or with just one other person than to join in with the crowd. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-338,"Choose whether or not the following statement applies to you: People often disappoint me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-339,"Choose whether or not the following statement applies to you: I have sometimes felt that difficulties were piling up so high that I could not overcome them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-340,"Choose whether or not the following statement applies to you: I love to go to dances. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-341,"Choose whether or not the following statement applies to you: At periods, my mind seems to work more slowly than usual. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-342,"Choose whether or not the following statement applies to you: While in trains, busses, etc., I often talk with strangers. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-343,"Choose whether or not the following statement applies to you: I enjoy children. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-344,"Choose whether or not the following statement applies to you: I enjoy gambling for small stakes. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-345,"Choose whether or not the following statement applies to you: If given the chance, I could do some things that would be of great benefit to the world. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-346,"Choose whether or not the following statement applies to you: I have often met people who were supposed to be experts who were no better than I. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-347,"Choose whether or not the following statement applies to you: It makes me feel like a failure when I hear of the success of someone I know well. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-348,"Choose whether or not the following statement applies to you: I often think: “I wish I were a child again.” Choice:",1,0,"[' True', ' False']",mmpi,1,1
-349,"Choose whether or not the following statement applies to you: I am never happier than when alone. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-350,"Choose whether or not the following statement applies to you: If given the chance I would make a good leader of people. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-351,"Choose whether or not the following statement applies to you: I am embarrassed by dirty stories. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-352,"Choose whether or not the following statement applies to you: People generally demand more respect for their own rights than they are willing to allow for others. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-353,"Choose whether or not the following statement applies to you: I enjoy social gatherings just to be with people. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-354,"Choose whether or not the following statement applies to you: I try to remember good stories to pass them on to other people. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-355,"Choose whether or not the following statement applies to you: At one or more times in my life I felt that someone was making me do things by hypnotizing me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-356,"Choose whether or not the following statement applies to you: I find it hard to set aside a task that I have undertaken, even for a short time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-357,"Choose whether or not the following statement applies to you: I am quite often not in on the gossip and talk of the group that I belong to. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-358,"Choose whether or not the following statement applies to you: I have often found people jealous of my good ideas, just because they had not thought of them first. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-359,"Choose whether or not the following statement applies to you: I enjoy the excitement of a crowd. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-360,"Choose whether or not the following statement applies to you: I do not mind meeting strangers. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-361,"Choose whether or not the following statement applies to you: Someone has been trying to influence my mind. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-362,"Choose whether or not the following statement applies to you: I can remember “playing sick” to get out of something. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-363,"Choose whether or not the following statement applies to you: My worries seem to disappear when I get into a crowd of lively friends. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-364,"Choose whether or not the following statement applies to you: I feel like giving up quickly when things go wrong. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-365,"Choose whether or not the following statement applies to you: I like to let people know where I stand on things. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-366,"Choose whether or not the following statement applies to you: I have had periods when I felt so full of pep that sleep did not seem necessary for days at a time. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-367,"Choose whether or not the following statement applies to you: Whenever possible I avoid being in a crowd. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-368,"Choose whether or not the following statement applies to you: I shrink from facing a crisis or difficulty. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-369,"Choose whether or not the following statement applies to you: I am apt to pass up something I want to do when others feel that it isn’t worth doing. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-370,"Choose whether or not the following statement applies to you: I like parties and socials. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-371,"Choose whether or not the following statement applies to you: I have often wished I were a member of the opposite sex. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-372,"Choose whether or not the following statement applies to you: I am not easily angered. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-373,"Choose whether or not the following statement applies to you: I have done some bad things in the past that I never tell anybody about. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-374,"Choose whether or not the following statement applies to you: Most people will use somewhat unfair means to get ahead in life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-375,"Choose whether or not the following statement applies to you: It makes me nervous when people ask me personal questions. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-376,"Choose whether or not the following statement applies to you: I do not feel I can plan my own future. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-377,"Choose whether or not the following statement applies to you: I am not happy with myself the way I am. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-378,"Choose whether or not the following statement applies to you: I get angry when my friends or family give me advice on how to live my life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-379,"Choose whether or not the following statement applies to you: I got many beatings when I was a child. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-380,"Choose whether or not the following statement applies to you: It bothers me when people say nice things about me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-381,"Choose whether or not the following statement applies to you: I don’t like hearing other people give their opinions about life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-382,"Choose whether or not the following statement applies to you: I often have serious disagreements with people who are close to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-383,"Choose whether or not the following statement applies to you: When things get really bad, I know I can count on my family for help. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-384,"Choose whether or not the following statement applies to you: I liked playing “house” when I was a child. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-385,"Choose whether or not the following statement applies to you: I am not afraid of fire. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-386,"Choose whether or not the following statement applies to you: I have sometimes stayed away from another person because I feared doing or saying something I might regret afterwards. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-387,"Choose whether or not the following statement applies to you: I can express my true feelings only when I drink. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-388,"Choose whether or not the following statement applies to you: I very seldom have spells of the blues. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-389,"Choose whether or not the following statement applies to you: I am often said to be hotheaded. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-390,"Choose whether or not the following statement applies to you: I wish I could get over worrying about things I have said that may have injured other people’s feelings. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-391,"Choose whether or not the following statement applies to you: I feel unable to tell anyone all about myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-392,"Choose whether or not the following statement applies to you: Lightning is one of my fears. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-393,"Choose whether or not the following statement applies to you: I like to keep people guessing what I am going to do next. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-394,"Choose whether or not the following statement applies to you: My plans have frequently seemed so full of difficulties that I have had to give them up. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-395,"Choose whether or not the following statement applies to you: I am afraid to be alone in the dark. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-396,"Choose whether or not the following statement applies to you: I have often felt bad about being misunderstood when trying to keep someone from making a mistake. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-397,"Choose whether or not the following statement applies to you: A windstorm frightens me. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-398,"Choose whether or not the following statement applies to you: I frequently ask people for advice. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-399,"Choose whether or not the following statement applies to you: The future is too uncertain for a person to make serious plans. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-400,"Choose whether or not the following statement applies to you: Often, even though everything is going fine for me, I feel that I don’t care about anything. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-401,"Choose whether or not the following statement applies to you: I have no fear of water. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-402,"Choose whether or not the following statement applies to you: I often must sleep over a matter before I decide what to do. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-403,"Choose whether or not the following statement applies to you: People have often misunderstood my intentions when I was trying to put them right and be helpful. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-404,"Choose whether or not the following statement applies to you: I have no trouble swallowing. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-405,"Choose whether or not the following statement applies to you: I am usually calm and not easily upset. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-406,"Choose whether or not the following statement applies to you: I would certainly enjoy beating criminals at their own game. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-407,"Choose whether or not the following statement applies to you: I deserve severe punishment for my sins. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-408,"Choose whether or not the following statement applies to you: I am apt to take disappointments so keenly that I can’t put them out of my mind. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-409,"Choose whether or not the following statement applies to you: It bothers me to have someone watch me at work even though I know I can do it well. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-410,"Choose whether or not the following statement applies to you: I am often so annoyed when someone tries to get ahead of me in a line of people that I speak to that person about it. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-411,"Choose whether or not the following statement applies to you: At times I think I am no good at all. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-412,"Choose whether or not the following statement applies to you: When I was young I often did not go to school even when I should have gone. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-413,"Choose whether or not the following statement applies to you: One or more members of my family are very nervous. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-414,"Choose whether or not the following statement applies to you: I have at times had to be rough with people who were rude or annoying. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-415,"Choose whether or not the following statement applies to you: I worry quite a bit over possible misfortunes. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-416,"Choose whether or not the following statement applies to you: I have strong political opinions. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-417,"Choose whether or not the following statement applies to you: I would like to be an auto racer. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-418,"Choose whether or not the following statement applies to you: It is all right to get around the law if you don’t actually break it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-419,"Choose whether or not the following statement applies to you: There are certain people whom I dislike so much that I am inwardly pleased when they are catching it for something that they have done. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-420,"Choose whether or not the following statement applies to you: It makes me nervous to have to wait. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-421,"Choose whether or not the following statement applies to you: I am apt to pass up something I want to do because others feel that I am not going about it in the right way. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-422,"Choose whether or not the following statement applies to you: I was fond of excitement when I was young. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-423,"Choose whether or not the following statement applies to you: I am often inclined to go out of my way to win a point with someone who has opposed me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-424,"Choose whether or not the following statement applies to you: I am bothered by people outside, on the streets, in stores, etc., watching me. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-425,"Choose whether or not the following statement applies to you: The man who had most to do with me when I was a child (such as my father, stepfather, etc.) was very strict with me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-426,"Choose whether or not the following statement applies to you: I used to like to play hopscotch and jump rope. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-427,"Choose whether or not the following statement applies to you: I have never seen a vision. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-428,"Choose whether or not the following statement applies to you: I have several times had a change of heart about my lifework. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-429,"Choose whether or not the following statement applies to you: Except by doctor’s orders I never take drugs or sleeping pills. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-430,"Choose whether or not the following statement applies to you: I am often sorry because I am so irritable and grouchy. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-431,"Choose whether or not the following statement applies to you: In school my marks in classroom behavior were quite regularly bad. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-432,"Choose whether or not the following statement applies to you: I am fascinated by fire. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-433,"Choose whether or not the following statement applies to you: When I am cornered I tell that portion of the truth which is not likely to hurt me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-434,"Choose whether or not the following statement applies to you: If I were in trouble with several friends who were as guilty as I was, I would rather take the whole blame than give them away. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-435,"Choose whether or not the following statement applies to you: I am often afraid of the dark. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-436,"Choose whether or not the following statement applies to you: When a man is with a woman he is usually thinking about things related to her sex. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-437,"Choose whether or not the following statement applies to you: I am usually very direct with people I am trying to correct or improve. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-438,"Choose whether or not the following statement applies to you: I dread the thought of an earthquake. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-439,"Choose whether or not the following statement applies to you: I readily become one hundred percent sold on a good idea. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-440,"Choose whether or not the following statement applies to you: I usually work things out for myself rather than get someone to show me how. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-441,"Choose whether or not the following statement applies to you: I am afraid of finding myself in a closet or small closed space. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-442,"Choose whether or not the following statement applies to you: I must admit that I have at times been worried beyond reason over something that really did not matter. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-443,"Choose whether or not the following statement applies to you: I do not try to cover up my poor opinion or pity of people so that they won’t know how I feel. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-444,"Choose whether or not the following statement applies to you: I am a high-strung person. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-445,"Choose whether or not the following statement applies to you: I have frequently worked under people who seem to have things arranged so that they get credit for good work but are able to pass mistakes onto those under them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-446,"Choose whether or not the following statement applies to you: I sometimes find it hard to stick up for my rights because I am so reserved. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-447,"Choose whether or not the following statement applies to you: Dirt frightens or disgusts me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-448,"Choose whether or not the following statement applies to you: I have a daydream life about which I do not tell other people. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-449,"Choose whether or not the following statement applies to you: Some of my family members have quick tempers. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-450,"Choose whether or not the following statement applies to you: I cannot do anything well. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-451,"Choose whether or not the following statement applies to you: I often feel guilty because I pretend to feel more sorry about something than I really do. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-452,"Choose whether or not the following statement applies to you: I strongly defend my own opinions as a rule. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-453,"Choose whether or not the following statement applies to you: I have no fear of spiders. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-454,"Choose whether or not the following statement applies to you: The future seems hopeless to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-455,"Choose whether or not the following statement applies to you: The members of my family and my close relatives get along quite well. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-456,"Choose whether or not the following statement applies to you: I would like to wear expensive clothes. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-457,"Choose whether or not the following statement applies to you: People can pretty easily change my mind, even when I have made a decision about something. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-458,"Choose whether or not the following statement applies to you: I am made nervous by certain animals. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-459,"Choose whether or not the following statement applies to you: I can stand as much pain as others can. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-460,"Choose whether or not the following statement applies to you: Several times I have been the last to give up trying to do a thing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-461,"Choose whether or not the following statement applies to you: It makes me angry to have people hurry me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-462,"Choose whether or not the following statement applies to you: I am not afraid of mice. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-463,"Choose whether or not the following statement applies to you: Several times a week I feel as if something dreadful is about to happen. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-464,"Choose whether or not the following statement applies to you: I feel tired a good deal of the time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-465,"Choose whether or not the following statement applies to you: I like repairing a door latch. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-466,"Choose whether or not the following statement applies to you: Sometimes I am sure that other people can tell what I am thinking. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-467,"Choose whether or not the following statement applies to you: I like to read about science. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-468,"Choose whether or not the following statement applies to you: I am afraid of being alone in a wide-open place. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-469,"Choose whether or not the following statement applies to you: I sometimes feel that I am about to go to pieces. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-470,"Choose whether or not the following statement applies to you: A large number of people are guilty of bad sexual conduct. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-471,"Choose whether or not the following statement applies to you: I have often been frightened in the middle of the night. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-472,"Choose whether or not the following statement applies to you: I am greatly bothered by forgetting where I put things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-473,"Choose whether or not the following statement applies to you: The one to whom I was most attached and whom I most admired as a child was a woman (mother, sister, aunt, or other woman). Choice:",0,0,"[' True', ' False']",mmpi,1,1
-474,"Choose whether or not the following statement applies to you: I like adventure stories better than romantic stories. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-475,"Choose whether or not the following statement applies to you: Often I get confused and forget what I want to say. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-476,"Choose whether or not the following statement applies to you: I am very awkward and clumsy. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-477,"Choose whether or not the following statement applies to you: I really like playing sports (such as soccer or football). Choice:",0,1,"[' True', ' False']",mmpi,1,1
-478,"Choose whether or not the following statement applies to you: I hate my whole family. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-479,"Choose whether or not the following statement applies to you: Some people think it’s hard to get to know me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-480,"Choose whether or not the following statement applies to you: I spend most of my spare time by myself. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-481,"Choose whether or not the following statement applies to you: When people do something that makes me angry, I let them know how I feel about it. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-482,"Choose whether or not the following statement applies to you: I usually have a hard time deciding what to do. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-483,"Choose whether or not the following statement applies to you: People do not find me attractive. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-484,"Choose whether or not the following statement applies to you: People are not very kind to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-485,"Choose whether or not the following statement applies to you: I often feel that I’m not as good as other people. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-486,"Choose whether or not the following statement applies to you: I am very stubborn. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-487,"Choose whether or not the following statement applies to you: I have enjoyed using marijuana. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-488,"Choose whether or not the following statement applies to you: Mental illness is a sign of weakness. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-489,"Choose whether or not the following statement applies to you: I have a drug or alcohol problem. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-490,"Choose whether or not the following statement applies to you: Ghost or spirits can influence people for good or bad. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-491,"Choose whether or not the following statement applies to you: I feel helpless when I have to make some important decisions. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-492,"Choose whether or not the following statement applies to you: I always try to be pleasant even when others are upset or critical. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-493,"Choose whether or not the following statement applies to you: When I have a problem it helps to talk it over with someone. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-494,"Choose whether or not the following statement applies to you: My main goals in life are within my reach. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-495,"Choose whether or not the following statement applies to you: I believe that people should keep personal problems to themselves. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-496,"Choose whether or not the following statement applies to you: I am not feeling much pressure or stress these days. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-497,"Choose whether or not the following statement applies to you: It bothers me greatly to think of making changes in my life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-498,"Choose whether or not the following statement applies to you: My greatest problems are caused by the behavior of someone close to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-499,"Choose whether or not the following statement applies to you: I hate going to doctors, even when I’m sick. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-500,"Choose whether or not the following statement applies to you: Although I am not happy with my life, there is nothing I can do about it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-501,"Choose whether or not the following statement applies to you: Talking over problems and worries with someone is often more helpful than taking drugs or medicine. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-502,"Choose whether or not the following statement applies to you: I have habits that are really harmful. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-503,"Choose whether or not the following statement applies to you: When problems need to be solved, I usually let other people take charge. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-504,"Choose whether or not the following statement applies to you: I recognize several faults in myself that I will not be able to change. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-505,"Choose whether or not the following statement applies to you: I am so sick of what I have to do every day that I just want to get out of it all. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-506,"Choose whether or not the following statement applies to you: I have recently considered killing myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-507,"Choose whether or not the following statement applies to you: I often become very irritable when people interrupt my work. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-508,"Choose whether or not the following statement applies to you: I often feel I can read other people’s minds. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-509,"Choose whether or not the following statement applies to you: Having to make important decisions makes me nervous. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-510,"Choose whether or not the following statement applies to you: Others tell me I eat too fast. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-511,"Choose whether or not the following statement applies to you: Once a week or more I get high or drunk. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-512,"Choose whether or not the following statement applies to you: I have had a tragic loss in my life that I know I will never get over. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-513,"Choose whether or not the following statement applies to you: Sometimes I get so angry and upset I don’t know what comes over me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-514,"Choose whether or not the following statement applies to you: When people ask me to do something I have a hard time saying no. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-515,"Choose whether or not the following statement applies to you: I am never happier than when I am by myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-516,"Choose whether or not the following statement applies to you: My life is empty and meaningless. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-517,"Choose whether or not the following statement applies to you: I find it difficult to hold down a job. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-518,"Choose whether or not the following statement applies to you: I have made lots of bad mistakes in my life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-519,"Choose whether or not the following statement applies to you: I get angry with myself for giving in to other people so much. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-520,"Choose whether or not the following statement applies to you: Lately I have thought a lot about killing myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-521,"Choose whether or not the following statement applies to you: I like making decisions and assigning jobs to others. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-522,"Choose whether or not the following statement applies to you: Even without my family I know there will always be someone there to take care of me. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-523,"Choose whether or not the following statement applies to you: At movies, restaurants, or sporting events, I hate to stand in line. Choice:",0,1,"[' True', ' False']",mmpi,1,1
-524,"Choose whether or not the following statement applies to you: No one knows it but I have tried to kill myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-525,"Choose whether or not the following statement applies to you: Everything is going on too fast around me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-526,"Choose whether or not the following statement applies to you: I know I am a burden to others. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-527,"Choose whether or not the following statement applies to you: After a bad day, I need a few drinks to relax. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-528,"Choose whether or not the following statement applies to you: Much of the trouble I’m having is due to bad luck. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-529,"Choose whether or not the following statement applies to you: At times I can’t seem to stop talking. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-530,"Choose whether or not the following statement applies to you: Sometimes I cut or injure myself on purpose without knowing why. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-531,"Choose whether or not the following statement applies to you: I work very long hours, even though my job doesn’t require this. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-532,"Choose whether or not the following statement applies to you: I usually feel better after a good cry. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-533,"Choose whether or not the following statement applies to you: I forget where I leave things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-534,"Choose whether or not the following statement applies to you: If I could live my life over again, I would not change much. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-535,"Choose whether or not the following statement applies to you: I get very irritable when people I depend on don’t get their work done on time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-536,"Choose whether or not the following statement applies to you: If I get upset, I’m sure to get a headache. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-537,"Choose whether or not the following statement applies to you: I like to drive a hard bargain. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-538,"Choose whether or not the following statement applies to you: Most men are unfaithful to their wives now and then. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-539,"Choose whether or not the following statement applies to you: Lately I have lost my desire to work out my problems. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-540,"Choose whether or not the following statement applies to you: I have gotten angry and broken furniture or dishes when I was drinking. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-541,"Choose whether or not the following statement applies to you: I work best when I have a definite deadline. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-542,"Choose whether or not the following statement applies to you: I have become so angry with someone that I have felt as if I would explode. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-543,"Choose whether or not the following statement applies to you: Terrible thoughts about my family come to me at times. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-544,"Choose whether or not the following statement applies to you: People tell me I have a problem with alcohol, but I disagree. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-545,"Choose whether or not the following statement applies to you: I always have too little time to get things done. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-546,"Choose whether or not the following statement applies to you: My thoughts these days turn more and more to death and the hereafter. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-547,"Choose whether or not the following statement applies to you: I often keep and save things that I will probably never use. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-548,"Choose whether or not the following statement applies to you: I have been so angry at times that I’ve hurt someone in a physical fight. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-549,"Choose whether or not the following statement applies to you: In everything I do lately, I feel that I am being tested. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-550,"Choose whether or not the following statement applies to you: I have very little to do with my relatives now. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-551,"Choose whether or not the following statement applies to you: I sometimes seem to hear my thoughts being spoken out loud. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-552,"Choose whether or not the following statement applies to you: When I am sad, visiting with friends can always pull me out of it. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-553,"Choose whether or not the following statement applies to you: Much of what is happening to me now seems to have happened to me before. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-554,"Choose whether or not the following statement applies to you: When my life gets difficult, it makes me want to just give up. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-555,"Choose whether or not the following statement applies to you: I can’t go into a dark room alone, even in my own home. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-556,"Choose whether or not the following statement applies to you: I worry a great deal over money. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-557,"Choose whether or not the following statement applies to you: The man should be the head of the family. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-558,"Choose whether or not the following statement applies to you: The only place where I feel relaxed is in my own home. Choice:",1,1,"[' True', ' False']",mmpi,1,1
-559,"Choose whether or not the following statement applies to you: The people I work with are not sympathetic with my problems. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-560,"Choose whether or not the following statement applies to you: I am satisfied with the amount of money I make. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-561,"Choose whether or not the following statement applies to you: I usually have enough energy to do my work. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-562,"Choose whether or not the following statement applies to you: It is hard for me to accept compliments. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-563,"Choose whether or not the following statement applies to you: In most marriages one or both partners are unhappy. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-564,"Choose whether or not the following statement applies to you: I almost never lose self-control. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-565,"Choose whether or not the following statement applies to you: It takes a great deal of effort for me to remember what people tell me these days. Choice:",1,0,"[' True', ' False']",mmpi,1,1
-566,"Choose whether or not the following statement applies to you: When I am sad or blue, it is my work that suffers. Choice:",0,0,"[' True', ' False']",mmpi,1,1
-567,"Choose whether or not the following statement applies to you: Most married couples don’t show much affection for each other. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+1,"Choose whether or not the following statement applies to you. Statement: I like mechanics magazines. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+2,"Choose whether or not the following statement applies to you. Statement: I have a good appetite. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+3,"Choose whether or not the following statement applies to you. Statement: I wake up fresh and rested most mornings. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+4,"Choose whether or not the following statement applies to you. Statement: I think I would enjoy the work of a librarian. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+5,"Choose whether or not the following statement applies to you. Statement: I am easily awakened by noise. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+6,"Choose whether or not the following statement applies to you. Statement: My father is a good man (or if your father is dead) my father was a good man. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+7,"Choose whether or not the following statement applies to you. Statement: I like to read newspaper articles on crime. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+8,"Choose whether or not the following statement applies to you. Statement: My hands and feet are usually warm enough. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+9,"Choose whether or not the following statement applies to you. Statement: My daily life is full of things that keep me interested. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+10,"Choose whether or not the following statement applies to you. Statement: I am about as able to work as I ever was. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+11,"Choose whether or not the following statement applies to you. Statement: There seems to be a lump in my throat much of the time. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+12,"Choose whether or not the following statement applies to you. Statement: My sex life is satisfactory. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+13,"Choose whether or not the following statement applies to you. Statement: People should try to understand their dreams and be guided by or take warning from them. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+14,"Choose whether or not the following statement applies to you. Statement: I enjoy detective or mystery stories. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+15,"Choose whether or not the following statement applies to you. Statement: I work under a great deal of tension. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+16,"Choose whether or not the following statement applies to you. Statement: Once in a while I think of things too bad to talk about. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+17,"Choose whether or not the following statement applies to you. Statement: I am sure I get a raw deal from life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+18,"Choose whether or not the following statement applies to you. Statement: I am troubled by attacks of nausea and vomiting. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+19,"Choose whether or not the following statement applies to you. Statement: When I take a new job, I like to find out whom it is important to be nice to. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+20,"Choose whether or not the following statement applies to you. Statement: I am very seldom bothered by constipation. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+21,"Choose whether or not the following statement applies to you. Statement: At times I have very much wanted to leave home. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+22,"Choose whether or not the following statement applies to you. Statement: No one seems to understand me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+23,"Choose whether or not the following statement applies to you. Statement: At times I have fits of laughing and crying that I cannot control. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+24,"Choose whether or not the following statement applies to you. Statement: Evil spirits possess me at times. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+25,"Choose whether or not the following statement applies to you. Statement: I would like to be a singer. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+26,"Choose whether or not the following statement applies to you. Statement: I feel that it is certainly best to keep my mouth shut when I am in trouble. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+27,"Choose whether or not the following statement applies to you. Statement: When people do me wrong, I feel I should pay them back, just for the principle of the thing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+28,"Choose whether or not the following statement applies to you. Statement: I am bothered by an upset stomach several times a week. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+29,"Choose whether or not the following statement applies to you. Statement: At times I feel like swearing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+30,"Choose whether or not the following statement applies to you. Statement: I have nightmares every few nights. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+31,"Choose whether or not the following statement applies to you. Statement: I find it hard to keep my mind on a task or job. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+32,"Choose whether or not the following statement applies to you. Statement: I have had very peculiar and strange experiences. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+33,"Choose whether or not the following statement applies to you. Statement: I seldom worry about my health. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+34,"Choose whether or not the following statement applies to you. Statement: I have never been in trouble because of my sexual behavior. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+35,"Choose whether or not the following statement applies to you. Statement: Sometimes when I was young I stole things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+36,"Choose whether or not the following statement applies to you. Statement: I have a cough most of the time. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+37,"Choose whether or not the following statement applies to you. Statement: At times I feel like smashing things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+38,"Choose whether or not the following statement applies to you. Statement: I have had periods of days, weeks, or months when I couldn’t take care of things because I couldn’t “get going”. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+39,"Choose whether or not the following statement applies to you. Statement: My sleep is fitful and disturbed. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+40,"Choose whether or not the following statement applies to you. Statement: Much of the time, my head seems to hurt all over. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+41,"Choose whether or not the following statement applies to you. Statement: I do not always tell the truth. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+42,"Choose whether or not the following statement applies to you. Statement: If people had not had it in for me, I would have been much more successful. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+43,"Choose whether or not the following statement applies to you. Statement: My judgment is better than it ever was. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+44,"Choose whether or not the following statement applies to you. Statement: Once a week (or more often) I suddenly feel hot all over, for no reason. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+45,"Choose whether or not the following statement applies to you. Statement: I am in just as good physical health as most of my friends. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+46,"Choose whether or not the following statement applies to you. Statement: I prefer to pass by school friends, or people I know but have not seen for a long time, unless they speak to me first. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+47,"Choose whether or not the following statement applies to you. Statement: I am almost never bothered by pains over my heart or in my chest. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+48,"Choose whether or not the following statement applies to you. Statement: Most anytime I would rather sit and daydream than do anything else. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+49,"Choose whether or not the following statement applies to you. Statement: I am a very sociable person. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+50,"Choose whether or not the following statement applies to you. Statement: I have often had to take orders from someone who did not know as much as I did. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+51,"Choose whether or not the following statement applies to you. Statement: I do not read every editorial in the newspaper every day. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+52,"Choose whether or not the following statement applies to you. Statement: I have not lived the right kind of life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+53,"Choose whether or not the following statement applies to you. Statement: Parts of my body often have feelings like burning, tingling, crawling, or like “going to sleep”. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+54,"Choose whether or not the following statement applies to you. Statement: My family does not like the work I have chosen (or the work I intend to choose for my lifework). Choice:",0,0,"[' True', ' False']",mmpi,1,1
+55,"Choose whether or not the following statement applies to you. Statement: I sometimes keep on at a thing until others lose their patience with me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+56,"Choose whether or not the following statement applies to you. Statement: I wish I could be as happy as others seem to be. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+57,"Choose whether or not the following statement applies to you. Statement: I hardly ever feel pain in the back of my neck. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+58,"Choose whether or not the following statement applies to you. Statement: I think a great many people exaggerate their misfortunes in order to gain the sympathy and help of others. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+59,"Choose whether or not the following statement applies to you. Statement: I am troubled by discomfort in the pit of my stomach every few days or so. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+60,"Choose whether or not the following statement applies to you. Statement: When I am with people I am bothered by hearing very strange things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+61,"Choose whether or not the following statement applies to you. Statement: I am an important person. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+62,"Choose whether or not the following statement applies to you. Statement: I have often wished I were a girl. (or if you are a girl) I have never been sorry that I am a girl. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+63,"Choose whether or not the following statement applies to you. Statement: My feelings are not easily hurt. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+64,"Choose whether or not the following statement applies to you. Statement: I enjoy reading love stories. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+65,"Choose whether or not the following statement applies to you. Statement: Most of the time I feel blue. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+66,"Choose whether or not the following statement applies to you. Statement: It would be better if almost all laws were thrown away. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+67,"Choose whether or not the following statement applies to you. Statement: I like poetry. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+68,"Choose whether or not the following statement applies to you. Statement: I sometimes tease animals. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+69,"Choose whether or not the following statement applies to you. Statement: I think I would like the kind of work a forest ranger does. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+70,"Choose whether or not the following statement applies to you. Statement: I am easily downed in an argument. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+71,"Choose whether or not the following statement applies to you. Statement: These days I find it hard not to give up hope of amounting to something. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+72,"Choose whether or not the following statement applies to you. Statement: My soul sometimes leaves my body. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+73,"Choose whether or not the following statement applies to you. Statement: I am certainly lacking in self-confidence. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+74,"Choose whether or not the following statement applies to you. Statement: I would like to be a florist. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+75,"Choose whether or not the following statement applies to you. Statement: I usually feel that life is worthwhile. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+76,"Choose whether or not the following statement applies to you. Statement: It takes a lot of argument to convince most people of the truth. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+77,"Choose whether or not the following statement applies to you. Statement: Once in a while I put off until tomorrow what I ought to do today. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+78,"Choose whether or not the following statement applies to you. Statement: Most people that know me like me. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+79,"Choose whether or not the following statement applies to you. Statement: I do not mind being made fun of. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+80,"Choose whether or not the following statement applies to you. Statement: I would like to be a nurse. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+81,"Choose whether or not the following statement applies to you. Statement: I think most people would lie to get ahead. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+82,"Choose whether or not the following statement applies to you. Statement: I do many things that I regret afterwards. (I regret things more than others seem to.) Choice:",1,0,"[' True', ' False']",mmpi,1,1
+83,"Choose whether or not the following statement applies to you. Statement: I have very few quarrels with members of my family. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+84,"Choose whether or not the following statement applies to you. Statement: I was suspended from school one or more times for bad behavior. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+85,"Choose whether or not the following statement applies to you. Statement: At times, I have a strong urge to do something harmful or shocking. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+86,"Choose whether or not the following statement applies to you. Statement: I like to go to parties and other affairs where there is a lot of loud fun. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+87,"Choose whether or not the following statement applies to you. Statement: I have met problems so full of possibilities that I have been unable to make up my mind about them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+88,"Choose whether or not the following statement applies to you. Statement: I believe that women ought to have as much sexual freedom as men. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+89,"Choose whether or not the following statement applies to you. Statement: My hardest battles are with myself. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+90,"Choose whether or not the following statement applies to you. Statement: I love my father, or (if your father is dead) I loved my father. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+91,"Choose whether or not the following statement applies to you. Statement: I have little or no trouble with my muscles twitching or jumping. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+92,"Choose whether or not the following statement applies to you. Statement: I don’t seem to care what happens to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+93,"Choose whether or not the following statement applies to you. Statement: Sometimes when I am not well I am irritable. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+94,"Choose whether or not the following statement applies to you. Statement: Much of the time I feel as if I have done something wrong or evil. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+95,"Choose whether or not the following statement applies to you. Statement: I am happy most of the time. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+96,"Choose whether or not the following statement applies to you. Statement: I see things or animals or people around me that others do not see. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+97,"Choose whether or not the following statement applies to you. Statement: There seems to be a fullness in my head or nose most of the time. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+98,"Choose whether or not the following statement applies to you. Statement: Some people are so bossy that I feel like doing the opposite of what they request, even though I know they are right. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+99,"Choose whether or not the following statement applies to you. Statement: Someone has it in for me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+100,"Choose whether or not the following statement applies to you. Statement: I have never done anything dangerous just for the thrill of it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+101,"Choose whether or not the following statement applies to you. Statement: Often I feel as if there is a tight band around my head. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+102,"Choose whether or not the following statement applies to you. Statement: I get angry sometimes. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+103,"Choose whether or not the following statement applies to you. Statement: I enjoy a race or game more when I bet on it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+104,"Choose whether or not the following statement applies to you. Statement: Most people are honest chiefly because they are afraid of being caught. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+105,"Choose whether or not the following statement applies to you. Statement: In school I was sometimes sent to the principal for bad behavior. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+106,"Choose whether or not the following statement applies to you. Statement: My speech is the same as always (not faster or slower, no slurring or hoarseness). Choice:",0,0,"[' True', ' False']",mmpi,1,1
+107,"Choose whether or not the following statement applies to you. Statement: My table manners are not quite as good at home as when I am out in company. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+108,"Choose whether or not the following statement applies to you. Statement: Anyone who is able and willing to work hard has a good chance of succeeding. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+109,"Choose whether or not the following statement applies to you. Statement: I seem to be about as capable and smart as most others around me. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+110,"Choose whether or not the following statement applies to you. Statement: Most people will use somewhat unfair means to gain profit or an advantage rather than to lose it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+111,"Choose whether or not the following statement applies to you. Statement: I have a great deal of stomach trouble. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+112,"Choose whether or not the following statement applies to you. Statement: I like dramatics. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+113,"Choose whether or not the following statement applies to you. Statement: I know who is responsible for most of my troubles. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+114,"Choose whether or not the following statement applies to you. Statement: Sometimes I am so strongly attracted by the personal articles of others, such as shoes, gloves, etc., that I want to handle or steal them, even though I have no use for them. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+115,"Choose whether or not the following statement applies to you. Statement: The sight of blood does not frighten me or make me sick. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+116,"Choose whether or not the following statement applies to you. Statement: Often I can’t understand why I have been so irritable or grouchy. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+117,"Choose whether or not the following statement applies to you. Statement: I have never vomited blood or coughed up blood. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+118,"Choose whether or not the following statement applies to you. Statement: I do not worry about catching diseases. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+119,"Choose whether or not the following statement applies to you. Statement: I like collecting flowers or growing houseplants. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+120,"Choose whether or not the following statement applies to you. Statement: I frequently find it necessary to stand up for what I think is right. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+121,"Choose whether or not the following statement applies to you. Statement: I have never indulged in unusual sex practices. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+122,"Choose whether or not the following statement applies to you. Statement: At times my thoughts have raced ahead faster than I could speak them. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+123,"Choose whether or not the following statement applies to you. Statement: If I could get into the movies without paying and be sure I was not seen, I would probably do it. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+124,"Choose whether or not the following statement applies to you. Statement: I often wonder what hidden reason another person may have for doing something nice for me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+125,"Choose whether or not the following statement applies to you. Statement: I believe that my home life is as pleasant as that of most people I know. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+126,"Choose whether or not the following statement applies to you. Statement: I believe in law enforcement. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+127,"Choose whether or not the following statement applies to you. Statement: Criticism or scolding hurts me terribly. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+128,"Choose whether or not the following statement applies to you. Statement: I like to cook. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+129,"Choose whether or not the following statement applies to you. Statement: My conduct is largely controlled by the behavior of those around me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+130,"Choose whether or not the following statement applies to you. Statement: I certainly feel useless at times. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+131,"Choose whether or not the following statement applies to you. Statement: When I was a child, I belonged to a group of friends that tried to be loyal through all kinds of trouble. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+132,"Choose whether or not the following statement applies to you. Statement: I believe in life hereafter. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+133,"Choose whether or not the following statement applies to you. Statement: I would like to be a soldier. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+134,"Choose whether or not the following statement applies to you. Statement: At times I feel like picking a fistfight with someone. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+135,"Choose whether or not the following statement applies to you. Statement: I have often lost out on things because I couldn’t make my mind up soon enough. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+136,"Choose whether or not the following statement applies to you. Statement: It makes me impatient to have people ask my advice or otherwise interrupt me when I am working on something important. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+137,"Choose whether or not the following statement applies to you. Statement: I used to keep a diary. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+138,"Choose whether or not the following statement applies to you. Statement: I believe I am being plotted against. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+139,"Choose whether or not the following statement applies to you. Statement: I would rather win than lose in a game. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+140,"Choose whether or not the following statement applies to you. Statement: Most nights I go to sleep without thoughts or ideas bothering me. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+141,"Choose whether or not the following statement applies to you. Statement: During the past few years I have been well most of the time. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+142,"Choose whether or not the following statement applies to you. Statement: I have never had a fit or convulsion. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+143,"Choose whether or not the following statement applies to you. Statement: I am neither gaining nor losing weight. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+144,"Choose whether or not the following statement applies to you. Statement: I believe I am being followed. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+145,"Choose whether or not the following statement applies to you. Statement: I feel that I have often been punished without cause. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+146,"Choose whether or not the following statement applies to you. Statement: I cry easily. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+147,"Choose whether or not the following statement applies to you. Statement: I cannot understand what I read as often as I used to. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+148,"Choose whether or not the following statement applies to you. Statement: I have never felt better in my life than I do now. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+149,"Choose whether or not the following statement applies to you. Statement: The top of my head sometimes feels tender. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+150,"Choose whether or not the following statement applies to you. Statement: Sometimes I feel as if I must injure either myself or someone else. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+151,"Choose whether or not the following statement applies to you. Statement: I resent having anyone trick me so cleverly that I have to admit that I was fooled. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+152,"Choose whether or not the following statement applies to you. Statement: I do not tire quickly. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+153,"Choose whether or not the following statement applies to you. Statement: I like to know some important people because it makes me feel important. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+154,"Choose whether or not the following statement applies to you. Statement: I am afraid when I look down from a high place. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+155,"Choose whether or not the following statement applies to you. Statement: It wouldn’t make me nervous if any members of my family got into trouble with the law. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+156,"Choose whether or not the following statement applies to you. Statement: I am never happy unless I am roaming or traveling around. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+157,"Choose whether or not the following statement applies to you. Statement: What others think of me does not bother me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+158,"Choose whether or not the following statement applies to you. Statement: It makes me uncomfortable to pull a stunt at a party even when others are doing the same sort of things. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+159,"Choose whether or not the following statement applies to you. Statement: I have never had a fainting spell. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+160,"Choose whether or not the following statement applies to you. Statement: I liked school. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+161,"Choose whether or not the following statement applies to you. Statement: I frequently have to fight against showing that I am bashful. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+162,"Choose whether or not the following statement applies to you. Statement: Someone has been trying to poison me. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+163,"Choose whether or not the following statement applies to you. Statement: I do not have a great fear of snakes. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+164,"Choose whether or not the following statement applies to you. Statement: I seldom or never have dizzy spells. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+165,"Choose whether or not the following statement applies to you. Statement: My memory seems to be all right. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+166,"Choose whether or not the following statement applies to you. Statement: I am worried about sex. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+167,"Choose whether or not the following statement applies to you. Statement: I find it hard to make small talk when I meet new people. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+168,"Choose whether or not the following statement applies to you. Statement: I have had periods in which I carried on activities without knowing later what I had been doing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+169,"Choose whether or not the following statement applies to you. Statement: When I get bored I like to stir up some excitement. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+170,"Choose whether or not the following statement applies to you. Statement: I am afraid of losing my mind. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+171,"Choose whether or not the following statement applies to you. Statement: I am against giving money to beggars. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+172,"Choose whether or not the following statement applies to you. Statement: I frequently notice my hand shakes when I try to do something. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+173,"Choose whether or not the following statement applies to you. Statement: I can read a long while without tiring my eyes. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+174,"Choose whether or not the following statement applies to you. Statement: I like to study and read about things that I am working at. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+175,"Choose whether or not the following statement applies to you. Statement: I feel weak all over much of the time. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+176,"Choose whether or not the following statement applies to you. Statement: I have very few headaches. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+177,"Choose whether or not the following statement applies to you. Statement: My hands have not become clumsy or awkward. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+178,"Choose whether or not the following statement applies to you. Statement: Sometimes, when embarrassed, I break out in a sweat, which annoys me greatly. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+179,"Choose whether or not the following statement applies to you. Statement: I have had no difficulty in keeping my balance while walking. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+180,"Choose whether or not the following statement applies to you. Statement: There is something wrong with my mind. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+181,"Choose whether or not the following statement applies to you. Statement: I do not have spells of hay fever or asthma. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+182,"Choose whether or not the following statement applies to you. Statement: I have had attacks in which I could not control my movements or speech, but in which I knew what was going on around me. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+183,"Choose whether or not the following statement applies to you. Statement: I do not like everyone I know. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+184,"Choose whether or not the following statement applies to you. Statement: I daydream very little. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+185,"Choose whether or not the following statement applies to you. Statement: I wish I were not so shy. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+186,"Choose whether or not the following statement applies to you. Statement: I am not afraid to handle money. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+187,"Choose whether or not the following statement applies to you. Statement: If I were a reporter, I would very much like to report news of the theater. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+188,"Choose whether or not the following statement applies to you. Statement: I enjoy many different kinds of play and recreation. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+189,"Choose whether or not the following statement applies to you. Statement: I like to flirt. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+190,"Choose whether or not the following statement applies to you. Statement: Many people treat me more like a child than a grown-up. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+191,"Choose whether or not the following statement applies to you. Statement: I would like to be a journalist. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+192,"Choose whether or not the following statement applies to you. Statement: My mother is a good woman, or (if your mother is dead) my mother was a good woman. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+193,"Choose whether or not the following statement applies to you. Statement: In walking, I am very careful to step over sidewalk cracks. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+194,"Choose whether or not the following statement applies to you. Statement: I have never had any breaking out on my skin that has worried me. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+195,"Choose whether or not the following statement applies to you. Statement: There is very little love and companionship in my family as compared to other homes. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+196,"Choose whether or not the following statement applies to you. Statement: I frequently find myself worrying about something. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+197,"Choose whether or not the following statement applies to you. Statement: I think I would like the work of a building contractor. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+198,"Choose whether or not the following statement applies to you. Statement: I often hear voices without knowing where they come from. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+199,"Choose whether or not the following statement applies to you. Statement: I like science. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+200,"Choose whether or not the following statement applies to you. Statement: It is not hard for me to ask for help from my friends even though I cannot return the favor. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+201,"Choose whether or not the following statement applies to you. Statement: I very much like hunting. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+202,"Choose whether or not the following statement applies to you. Statement: My parents often objected to the kind of people I went around with. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+203,"Choose whether or not the following statement applies to you. Statement: I gossip a little at times. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+204,"Choose whether or not the following statement applies to you. Statement: My hearing is apparently as good as that of most people. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+205,"Choose whether or not the following statement applies to you. Statement: Some members of my family have habits that bother and annoy me very much. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+206,"Choose whether or not the following statement applies to you. Statement: At times I feel that I can make up my mind with unusually great ease. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+207,"Choose whether or not the following statement applies to you. Statement: I would like to belong to several clubs. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+208,"Choose whether or not the following statement applies to you. Statement: I hardly ever notice my heart pounding and I am seldom short of breath. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+209,"Choose whether or not the following statement applies to you. Statement: I like to talk about sex. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+210,"Choose whether or not the following statement applies to you. Statement: I like to visit places where I have never been before. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+211,"Choose whether or not the following statement applies to you. Statement: I have been inspired to a program of life based on duty which I have since carefully followed. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+212,"Choose whether or not the following statement applies to you. Statement: I have, at times stood in the way of people who were trying to do something, not because it amounted to much, but because of the principle of the thing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+213,"Choose whether or not the following statement applies to you. Statement: I get mad easily and then get over it soon. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+214,"Choose whether or not the following statement applies to you. Statement: I have been quite independent and free from family rule. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+215,"Choose whether or not the following statement applies to you. Statement: I brood a great deal. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+216,"Choose whether or not the following statement applies to you. Statement: Someone has been trying to rob me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+217,"Choose whether or not the following statement applies to you. Statement: My relatives are nearly all in sympathy with me. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+218,"Choose whether or not the following statement applies to you. Statement: I have periods of such great restlessness that I cannot sit long in a chair. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+219,"Choose whether or not the following statement applies to you. Statement: I have been disappointed in love. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+220,"Choose whether or not the following statement applies to you. Statement: I never worry about my looks. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+221,"Choose whether or not the following statement applies to you. Statement: I dream frequently about things that are best kept to myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+222,"Choose whether or not the following statement applies to you. Statement: Children should be taught all the main facts of sex. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+223,"Choose whether or not the following statement applies to you. Statement: I believe I am no more nervous that most others. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+224,"Choose whether or not the following statement applies to you. Statement: I have few or no pains. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+225,"Choose whether or not the following statement applies to you. Statement: My way of doing things is apt to be misunderstood by others. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+226,"Choose whether or not the following statement applies to you. Statement: Sometimes without any reason or even when things are going wrong, I feel excitedly happy or “on top of the world”. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+227,"Choose whether or not the following statement applies to you. Statement: I don’t blame people for trying to grab everything they can get in this world. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+228,"Choose whether or not the following statement applies to you. Statement: There are persons who are trying to steal my thoughts and ideas. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+229,"Choose whether or not the following statement applies to you. Statement: I have had blank spells in which my activities were interrupted and I did not know what was going on around me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+230,"Choose whether or not the following statement applies to you. Statement: I can be friendly with people who do things that I consider wrong. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+231,"Choose whether or not the following statement applies to you. Statement: I like to be with a crowd who play jokes on one another. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+232,"Choose whether or not the following statement applies to you. Statement: Sometimes in elections, I vote for people about whom I know very little. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+233,"Choose whether or not the following statement applies to you. Statement: I have difficulty in starting to do things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+234,"Choose whether or not the following statement applies to you. Statement: I believe I am a condemned person. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+235,"Choose whether or not the following statement applies to you. Statement: I was a slow learner in school. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+236,"Choose whether or not the following statement applies to you. Statement: If I were an artist, I would like to draw flowers. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+237,"Choose whether or not the following statement applies to you. Statement: It does not bother me that I am not better looking. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+238,"Choose whether or not the following statement applies to you. Statement: I sweat very easily, even on cool days. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+239,"Choose whether or not the following statement applies to you. Statement: I’m entirely self-confident. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+240,"Choose whether or not the following statement applies to you. Statement: At times it has been impossible for me to stop from stealing or shoplifting something. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+241,"Choose whether or not the following statement applies to you. Statement: It is safer to trust nobody. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+242,"Choose whether or not the following statement applies to you. Statement: Once a week or more, I become very excited. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+243,"Choose whether or not the following statement applies to you. Statement: When in a group of people, I have trouble thinking of the right thing to say. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+244,"Choose whether or not the following statement applies to you. Statement: Something exciting will almost always pull me out of it when I am feeling low. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+245,"Choose whether or not the following statement applies to you. Statement: When I leave home, I do not worry about whether the door is locked and the windows are closed. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+246,"Choose whether or not the following statement applies to you. Statement: I believe my sins are unpardonable. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+247,"Choose whether or not the following statement applies to you. Statement: I have numbness in one or more places on my skin. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+248,"Choose whether or not the following statement applies to you. Statement: I do not blame a person for taking advantage of people who leave themselves open to it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+249,"Choose whether or not the following statement applies to you. Statement: My eyesight is as good as it has been for years. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+250,"Choose whether or not the following statement applies to you. Statement: At times I have been so entertained by the cleverness of some criminals that I have hopes they would get away with it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+251,"Choose whether or not the following statement applies to you. Statement: I have often felt that strangers were looking at me critically. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+252,"Choose whether or not the following statement applies to you. Statement: Everything tastes the same. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+253,"Choose whether or not the following statement applies to you. Statement: I drink an unusually large amount of water every day. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+254,"Choose whether or not the following statement applies to you. Statement: Most people make friends because friends are likely to be useful to them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+255,"Choose whether or not the following statement applies to you. Statement: I do not often notice my ears ringing or buzzing. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+256,"Choose whether or not the following statement applies to you. Statement: Once in a while I feel hate toward members of my family whom I usually love. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+257,"Choose whether or not the following statement applies to you. Statement: If I were a reporter I would very much like to report sporting news. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+258,"Choose whether or not the following statement applies to you. Statement: I can sleep during the day, but not at night. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+259,"Choose whether or not the following statement applies to you. Statement: I am sure I am being talked about. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+260,"Choose whether or not the following statement applies to you. Statement: Once in a while, I laugh at a dirty joke. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+261,"Choose whether or not the following statement applies to you. Statement: I have very few fears compared to my friends. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+262,"Choose whether or not the following statement applies to you. Statement: In a group of people, I would not be embarrassed to be called upon to start a discussion or give an opinion about something I know well. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+263,"Choose whether or not the following statement applies to you. Statement: I am always disgusted with the law when a criminal is freed through the arguments of a smart lawyer. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+264,"Choose whether or not the following statement applies to you. Statement: I have used alcohol excessively. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+265,"Choose whether or not the following statement applies to you. Statement: I am likely not to speak to people until they speak to me. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+266,"Choose whether or not the following statement applies to you. Statement: I have never been in trouble with the law. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+267,"Choose whether or not the following statement applies to you. Statement: I have periods in which I feel unusually cheerful without any special reason. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+268,"Choose whether or not the following statement applies to you. Statement: I wish I were not bothered by thoughts about sex. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+269,"Choose whether or not the following statement applies to you. Statement: If several people find themselves in trouble, the best thing for them to do is agree upon a story and stick to it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+270,"Choose whether or not the following statement applies to you. Statement: It does not bother me particularly to see animals suffer. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+271,"Choose whether or not the following statement applies to you. Statement: I think that I feel more intensely than most people do. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+272,"Choose whether or not the following statement applies to you. Statement: There was never a time in my life when I liked to play with dolls. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+273,"Choose whether or not the following statement applies to you. Statement: Life is a strain for me much of the time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+274,"Choose whether or not the following statement applies to you. Statement: I am so touchy on some subjects that I can’t talk about them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+275,"Choose whether or not the following statement applies to you. Statement: In school I found it very hard to talk in front of the class. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+276,"Choose whether or not the following statement applies to you. Statement: I love my mother, or (if your mother is dead) I loved my mother. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+277,"Choose whether or not the following statement applies to you. Statement: Even when I am with people I feel lonely much of the time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+278,"Choose whether or not the following statement applies to you. Statement: I get all the sympathy I should. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+279,"Choose whether or not the following statement applies to you. Statement: I refuse to play some games because I am not good at them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+280,"Choose whether or not the following statement applies to you. Statement: I seem to make friends about as quickly as others do. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+281,"Choose whether or not the following statement applies to you. Statement: I dislike having people around me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+282,"Choose whether or not the following statement applies to you. Statement: I have been told that I walk during sleep. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+283,"Choose whether or not the following statement applies to you. Statement: The person who provides temptation by leaving valuable property unprotected is about as much to blame for its theft as the one who steals it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+284,"Choose whether or not the following statement applies to you. Statement: I think nearly anyone would tell a lie to keep out of trouble. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+285,"Choose whether or not the following statement applies to you. Statement: I am more sensitive than most people. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+286,"Choose whether or not the following statement applies to you. Statement: Most people inwardly dislike putting themselves out to help other people. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+287,"Choose whether or not the following statement applies to you. Statement: Many of my dreams are about sex. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+288,"Choose whether or not the following statement applies to you. Statement: My parents and family find more fault with me than they should. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+289,"Choose whether or not the following statement applies to you. Statement: I am easily embarrassed. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+290,"Choose whether or not the following statement applies to you. Statement: I worry over money and business. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+291,"Choose whether or not the following statement applies to you. Statement: I have never been in love with anyone. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+292,"Choose whether or not the following statement applies to you. Statement: The things that some of my family have done have frightened me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+293,"Choose whether or not the following statement applies to you. Statement: I almost never dream. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+294,"Choose whether or not the following statement applies to you. Statement: My neck spots with red often. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+295,"Choose whether or not the following statement applies to you. Statement: I have never been paralyzed or had any unusual weakness of any of my muscles. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+296,"Choose whether or not the following statement applies to you. Statement: Sometimes my voice leaves me or changes even though I have no cold. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+297,"Choose whether or not the following statement applies to you. Statement: My mother or father often made me obey even when I thought it was unreasonable. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+298,"Choose whether or not the following statement applies to you. Statement: Peculiar odors come to me at times. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+299,"Choose whether or not the following statement applies to you. Statement: I cannot keep my mind on one thing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+300,"Choose whether or not the following statement applies to you. Statement: I have reason for feeling jealous of one or more members of my family. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+301,"Choose whether or not the following statement applies to you. Statement: I feel anxiety about something or someone almost all the time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+302,"Choose whether or not the following statement applies to you. Statement: I easily become impatient with people. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+303,"Choose whether or not the following statement applies to you. Statement: Most of the time I wish I were dead. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+304,"Choose whether or not the following statement applies to you. Statement: Sometimes I become so excited that I find it hard to get to sleep. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+305,"Choose whether or not the following statement applies to you. Statement: I have certainly had more than my share of things to worry about. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+306,"Choose whether or not the following statement applies to you. Statement: No one cares much about what happens to you. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+307,"Choose whether or not the following statement applies to you. Statement: At times I hear so well that it bothers me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+308,"Choose whether or not the following statement applies to you. Statement: I forget right away what people say to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+309,"Choose whether or not the following statement applies to you. Statement: I usually have to stop and think before I act, even in small matters. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+310,"Choose whether or not the following statement applies to you. Statement: Often I cross the street in order not to meet someone I see. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+311,"Choose whether or not the following statement applies to you. Statement: I often feel as if things are not real. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+312,"Choose whether or not the following statement applies to you. Statement: The only interesting part of newspapers is the comic strips. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+313,"Choose whether or not the following statement applies to you. Statement: I have a habit of counting things that are not important, such as bulbs on electric signs and so forth. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+314,"Choose whether or not the following statement applies to you. Statement: I have no enemies who really wish to harm me. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+315,"Choose whether or not the following statement applies to you. Statement: I tend to be on my guard with people who are somewhat friendlier than I had expected. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+316,"Choose whether or not the following statement applies to you. Statement: I have strange and peculiar thoughts. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+317,"Choose whether or not the following statement applies to you. Statement: I get anxious and upset when I have to make a short trip away from home. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+318,"Choose whether or not the following statement applies to you. Statement: I usually expect to succeed in things I do. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+319,"Choose whether or not the following statement applies to you. Statement: I hear strange things when I am alone. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+320,"Choose whether or not the following statement applies to you. Statement: I have been afraid of things or people that I knew could not hurt me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+321,"Choose whether or not the following statement applies to you. Statement: I have no dread of going into a room by myself where other people have already gathered and are talking. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+322,"Choose whether or not the following statement applies to you. Statement: I am afraid of a knife or anything very sharp or pointed. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+323,"Choose whether or not the following statement applies to you. Statement: Sometimes I enjoy hurting persons I love. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+324,"Choose whether or not the following statement applies to you. Statement: I can easily make other people afraid of me, and sometimes do it for the fun of it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+325,"Choose whether or not the following statement applies to you. Statement: I have more trouble concentrating than others seem to have. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+326,"Choose whether or not the following statement applies to you. Statement: I have several times given up doing a thing because I thought too little of my ability. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+327,"Choose whether or not the following statement applies to you. Statement: Bad words, often terrible words, come into my mind and I cannot get rid of them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+328,"Choose whether or not the following statement applies to you. Statement: Sometimes some unimportant thought will run through my mind and bother me for days. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+329,"Choose whether or not the following statement applies to you. Statement: Almost every day something happens to frighten me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+330,"Choose whether or not the following statement applies to you. Statement: At times I am all full of energy. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+331,"Choose whether or not the following statement applies to you. Statement: I am inclined to take things hard. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+332,"Choose whether or not the following statement applies to you. Statement: At times I have enjoyed being hurt by someone I loved. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+333,"Choose whether or not the following statement applies to you. Statement: People say insulting and vulgar things about me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+334,"Choose whether or not the following statement applies to you. Statement: I feel uneasy indoors. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+335,"Choose whether or not the following statement applies to you. Statement: I am not usually self-conscious. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+336,"Choose whether or not the following statement applies to you. Statement: Someone has control over my mind. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+337,"Choose whether or not the following statement applies to you. Statement: At parties I am more likely to sit by myself or with just one other person than to join in with the crowd. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+338,"Choose whether or not the following statement applies to you. Statement: People often disappoint me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+339,"Choose whether or not the following statement applies to you. Statement: I have sometimes felt that difficulties were piling up so high that I could not overcome them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+340,"Choose whether or not the following statement applies to you. Statement: I love to go to dances. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+341,"Choose whether or not the following statement applies to you. Statement: At periods, my mind seems to work more slowly than usual. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+342,"Choose whether or not the following statement applies to you. Statement: While in trains, busses, etc., I often talk with strangers. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+343,"Choose whether or not the following statement applies to you. Statement: I enjoy children. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+344,"Choose whether or not the following statement applies to you. Statement: I enjoy gambling for small stakes. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+345,"Choose whether or not the following statement applies to you. Statement: If given the chance, I could do some things that would be of great benefit to the world. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+346,"Choose whether or not the following statement applies to you. Statement: I have often met people who were supposed to be experts who were no better than I. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+347,"Choose whether or not the following statement applies to you. Statement: It makes me feel like a failure when I hear of the success of someone I know well. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+348,"Choose whether or not the following statement applies to you. Statement: I often think: “I wish I were a child again.” Choice:",1,0,"[' True', ' False']",mmpi,1,1
+349,"Choose whether or not the following statement applies to you. Statement: I am never happier than when alone. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+350,"Choose whether or not the following statement applies to you. Statement: If given the chance I would make a good leader of people. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+351,"Choose whether or not the following statement applies to you. Statement: I am embarrassed by dirty stories. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+352,"Choose whether or not the following statement applies to you. Statement: People generally demand more respect for their own rights than they are willing to allow for others. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+353,"Choose whether or not the following statement applies to you. Statement: I enjoy social gatherings just to be with people. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+354,"Choose whether or not the following statement applies to you. Statement: I try to remember good stories to pass them on to other people. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+355,"Choose whether or not the following statement applies to you. Statement: At one or more times in my life I felt that someone was making me do things by hypnotizing me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+356,"Choose whether or not the following statement applies to you. Statement: I find it hard to set aside a task that I have undertaken, even for a short time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+357,"Choose whether or not the following statement applies to you. Statement: I am quite often not in on the gossip and talk of the group that I belong to. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+358,"Choose whether or not the following statement applies to you. Statement: I have often found people jealous of my good ideas, just because they had not thought of them first. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+359,"Choose whether or not the following statement applies to you. Statement: I enjoy the excitement of a crowd. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+360,"Choose whether or not the following statement applies to you. Statement: I do not mind meeting strangers. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+361,"Choose whether or not the following statement applies to you. Statement: Someone has been trying to influence my mind. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+362,"Choose whether or not the following statement applies to you. Statement: I can remember “playing sick” to get out of something. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+363,"Choose whether or not the following statement applies to you. Statement: My worries seem to disappear when I get into a crowd of lively friends. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+364,"Choose whether or not the following statement applies to you. Statement: I feel like giving up quickly when things go wrong. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+365,"Choose whether or not the following statement applies to you. Statement: I like to let people know where I stand on things. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+366,"Choose whether or not the following statement applies to you. Statement: I have had periods when I felt so full of pep that sleep did not seem necessary for days at a time. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+367,"Choose whether or not the following statement applies to you. Statement: Whenever possible I avoid being in a crowd. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+368,"Choose whether or not the following statement applies to you. Statement: I shrink from facing a crisis or difficulty. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+369,"Choose whether or not the following statement applies to you. Statement: I am apt to pass up something I want to do when others feel that it isn’t worth doing. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+370,"Choose whether or not the following statement applies to you. Statement: I like parties and socials. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+371,"Choose whether or not the following statement applies to you. Statement: I have often wished I were a member of the opposite sex. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+372,"Choose whether or not the following statement applies to you. Statement: I am not easily angered. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+373,"Choose whether or not the following statement applies to you. Statement: I have done some bad things in the past that I never tell anybody about. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+374,"Choose whether or not the following statement applies to you. Statement: Most people will use somewhat unfair means to get ahead in life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+375,"Choose whether or not the following statement applies to you. Statement: It makes me nervous when people ask me personal questions. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+376,"Choose whether or not the following statement applies to you. Statement: I do not feel I can plan my own future. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+377,"Choose whether or not the following statement applies to you. Statement: I am not happy with myself the way I am. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+378,"Choose whether or not the following statement applies to you. Statement: I get angry when my friends or family give me advice on how to live my life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+379,"Choose whether or not the following statement applies to you. Statement: I got many beatings when I was a child. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+380,"Choose whether or not the following statement applies to you. Statement: It bothers me when people say nice things about me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+381,"Choose whether or not the following statement applies to you. Statement: I don’t like hearing other people give their opinions about life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+382,"Choose whether or not the following statement applies to you. Statement: I often have serious disagreements with people who are close to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+383,"Choose whether or not the following statement applies to you. Statement: When things get really bad, I know I can count on my family for help. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+384,"Choose whether or not the following statement applies to you. Statement: I liked playing “house” when I was a child. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+385,"Choose whether or not the following statement applies to you. Statement: I am not afraid of fire. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+386,"Choose whether or not the following statement applies to you. Statement: I have sometimes stayed away from another person because I feared doing or saying something I might regret afterwards. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+387,"Choose whether or not the following statement applies to you. Statement: I can express my true feelings only when I drink. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+388,"Choose whether or not the following statement applies to you. Statement: I very seldom have spells of the blues. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+389,"Choose whether or not the following statement applies to you. Statement: I am often said to be hotheaded. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+390,"Choose whether or not the following statement applies to you. Statement: I wish I could get over worrying about things I have said that may have injured other people’s feelings. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+391,"Choose whether or not the following statement applies to you. Statement: I feel unable to tell anyone all about myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+392,"Choose whether or not the following statement applies to you. Statement: Lightning is one of my fears. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+393,"Choose whether or not the following statement applies to you. Statement: I like to keep people guessing what I am going to do next. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+394,"Choose whether or not the following statement applies to you. Statement: My plans have frequently seemed so full of difficulties that I have had to give them up. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+395,"Choose whether or not the following statement applies to you. Statement: I am afraid to be alone in the dark. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+396,"Choose whether or not the following statement applies to you. Statement: I have often felt bad about being misunderstood when trying to keep someone from making a mistake. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+397,"Choose whether or not the following statement applies to you. Statement: A windstorm frightens me. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+398,"Choose whether or not the following statement applies to you. Statement: I frequently ask people for advice. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+399,"Choose whether or not the following statement applies to you. Statement: The future is too uncertain for a person to make serious plans. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+400,"Choose whether or not the following statement applies to you. Statement: Often, even though everything is going fine for me, I feel that I don’t care about anything. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+401,"Choose whether or not the following statement applies to you. Statement: I have no fear of water. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+402,"Choose whether or not the following statement applies to you. Statement: I often must sleep over a matter before I decide what to do. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+403,"Choose whether or not the following statement applies to you. Statement: People have often misunderstood my intentions when I was trying to put them right and be helpful. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+404,"Choose whether or not the following statement applies to you. Statement: I have no trouble swallowing. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+405,"Choose whether or not the following statement applies to you. Statement: I am usually calm and not easily upset. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+406,"Choose whether or not the following statement applies to you. Statement: I would certainly enjoy beating criminals at their own game. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+407,"Choose whether or not the following statement applies to you. Statement: I deserve severe punishment for my sins. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+408,"Choose whether or not the following statement applies to you. Statement: I am apt to take disappointments so keenly that I can’t put them out of my mind. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+409,"Choose whether or not the following statement applies to you. Statement: It bothers me to have someone watch me at work even though I know I can do it well. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+410,"Choose whether or not the following statement applies to you. Statement: I am often so annoyed when someone tries to get ahead of me in a line of people that I speak to that person about it. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+411,"Choose whether or not the following statement applies to you. Statement: At times I think I am no good at all. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+412,"Choose whether or not the following statement applies to you. Statement: When I was young I often did not go to school even when I should have gone. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+413,"Choose whether or not the following statement applies to you. Statement: One or more members of my family are very nervous. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+414,"Choose whether or not the following statement applies to you. Statement: I have at times had to be rough with people who were rude or annoying. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+415,"Choose whether or not the following statement applies to you. Statement: I worry quite a bit over possible misfortunes. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+416,"Choose whether or not the following statement applies to you. Statement: I have strong political opinions. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+417,"Choose whether or not the following statement applies to you. Statement: I would like to be an auto racer. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+418,"Choose whether or not the following statement applies to you. Statement: It is all right to get around the law if you don’t actually break it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+419,"Choose whether or not the following statement applies to you. Statement: There are certain people whom I dislike so much that I am inwardly pleased when they are catching it for something that they have done. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+420,"Choose whether or not the following statement applies to you. Statement: It makes me nervous to have to wait. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+421,"Choose whether or not the following statement applies to you. Statement: I am apt to pass up something I want to do because others feel that I am not going about it in the right way. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+422,"Choose whether or not the following statement applies to you. Statement: I was fond of excitement when I was young. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+423,"Choose whether or not the following statement applies to you. Statement: I am often inclined to go out of my way to win a point with someone who has opposed me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+424,"Choose whether or not the following statement applies to you. Statement: I am bothered by people outside, on the streets, in stores, etc., watching me. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+425,"Choose whether or not the following statement applies to you. Statement: The man who had most to do with me when I was a child (such as my father, stepfather, etc.) was very strict with me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+426,"Choose whether or not the following statement applies to you. Statement: I used to like to play hopscotch and jump rope. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+427,"Choose whether or not the following statement applies to you. Statement: I have never seen a vision. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+428,"Choose whether or not the following statement applies to you. Statement: I have several times had a change of heart about my lifework. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+429,"Choose whether or not the following statement applies to you. Statement: Except by doctor’s orders I never take drugs or sleeping pills. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+430,"Choose whether or not the following statement applies to you. Statement: I am often sorry because I am so irritable and grouchy. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+431,"Choose whether or not the following statement applies to you. Statement: In school my marks in classroom behavior were quite regularly bad. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+432,"Choose whether or not the following statement applies to you. Statement: I am fascinated by fire. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+433,"Choose whether or not the following statement applies to you. Statement: When I am cornered I tell that portion of the truth which is not likely to hurt me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+434,"Choose whether or not the following statement applies to you. Statement: If I were in trouble with several friends who were as guilty as I was, I would rather take the whole blame than give them away. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+435,"Choose whether or not the following statement applies to you. Statement: I am often afraid of the dark. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+436,"Choose whether or not the following statement applies to you. Statement: When a man is with a woman he is usually thinking about things related to her sex. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+437,"Choose whether or not the following statement applies to you. Statement: I am usually very direct with people I am trying to correct or improve. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+438,"Choose whether or not the following statement applies to you. Statement: I dread the thought of an earthquake. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+439,"Choose whether or not the following statement applies to you. Statement: I readily become one hundred percent sold on a good idea. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+440,"Choose whether or not the following statement applies to you. Statement: I usually work things out for myself rather than get someone to show me how. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+441,"Choose whether or not the following statement applies to you. Statement: I am afraid of finding myself in a closet or small closed space. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+442,"Choose whether or not the following statement applies to you. Statement: I must admit that I have at times been worried beyond reason over something that really did not matter. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+443,"Choose whether or not the following statement applies to you. Statement: I do not try to cover up my poor opinion or pity of people so that they won’t know how I feel. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+444,"Choose whether or not the following statement applies to you. Statement: I am a high-strung person. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+445,"Choose whether or not the following statement applies to you. Statement: I have frequently worked under people who seem to have things arranged so that they get credit for good work but are able to pass mistakes onto those under them. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+446,"Choose whether or not the following statement applies to you. Statement: I sometimes find it hard to stick up for my rights because I am so reserved. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+447,"Choose whether or not the following statement applies to you. Statement: Dirt frightens or disgusts me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+448,"Choose whether or not the following statement applies to you. Statement: I have a daydream life about which I do not tell other people. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+449,"Choose whether or not the following statement applies to you. Statement: Some of my family members have quick tempers. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+450,"Choose whether or not the following statement applies to you. Statement: I cannot do anything well. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+451,"Choose whether or not the following statement applies to you. Statement: I often feel guilty because I pretend to feel more sorry about something than I really do. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+452,"Choose whether or not the following statement applies to you. Statement: I strongly defend my own opinions as a rule. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+453,"Choose whether or not the following statement applies to you. Statement: I have no fear of spiders. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+454,"Choose whether or not the following statement applies to you. Statement: The future seems hopeless to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+455,"Choose whether or not the following statement applies to you. Statement: The members of my family and my close relatives get along quite well. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+456,"Choose whether or not the following statement applies to you. Statement: I would like to wear expensive clothes. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+457,"Choose whether or not the following statement applies to you. Statement: People can pretty easily change my mind, even when I have made a decision about something. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+458,"Choose whether or not the following statement applies to you. Statement: I am made nervous by certain animals. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+459,"Choose whether or not the following statement applies to you. Statement: I can stand as much pain as others can. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+460,"Choose whether or not the following statement applies to you. Statement: Several times I have been the last to give up trying to do a thing. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+461,"Choose whether or not the following statement applies to you. Statement: It makes me angry to have people hurry me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+462,"Choose whether or not the following statement applies to you. Statement: I am not afraid of mice. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+463,"Choose whether or not the following statement applies to you. Statement: Several times a week I feel as if something dreadful is about to happen. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+464,"Choose whether or not the following statement applies to you. Statement: I feel tired a good deal of the time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+465,"Choose whether or not the following statement applies to you. Statement: I like repairing a door latch. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+466,"Choose whether or not the following statement applies to you. Statement: Sometimes I am sure that other people can tell what I am thinking. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+467,"Choose whether or not the following statement applies to you. Statement: I like to read about science. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+468,"Choose whether or not the following statement applies to you. Statement: I am afraid of being alone in a wide-open place. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+469,"Choose whether or not the following statement applies to you. Statement: I sometimes feel that I am about to go to pieces. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+470,"Choose whether or not the following statement applies to you. Statement: A large number of people are guilty of bad sexual conduct. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+471,"Choose whether or not the following statement applies to you. Statement: I have often been frightened in the middle of the night. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+472,"Choose whether or not the following statement applies to you. Statement: I am greatly bothered by forgetting where I put things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+473,"Choose whether or not the following statement applies to you. Statement: The one to whom I was most attached and whom I most admired as a child was a woman (mother, sister, aunt, or other woman). Choice:",0,0,"[' True', ' False']",mmpi,1,1
+474,"Choose whether or not the following statement applies to you. Statement: I like adventure stories better than romantic stories. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+475,"Choose whether or not the following statement applies to you. Statement: Often I get confused and forget what I want to say. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+476,"Choose whether or not the following statement applies to you. Statement: I am very awkward and clumsy. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+477,"Choose whether or not the following statement applies to you. Statement: I really like playing sports (such as soccer or football). Choice:",0,1,"[' True', ' False']",mmpi,1,1
+478,"Choose whether or not the following statement applies to you. Statement: I hate my whole family. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+479,"Choose whether or not the following statement applies to you. Statement: Some people think it’s hard to get to know me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+480,"Choose whether or not the following statement applies to you. Statement: I spend most of my spare time by myself. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+481,"Choose whether or not the following statement applies to you. Statement: When people do something that makes me angry, I let them know how I feel about it. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+482,"Choose whether or not the following statement applies to you. Statement: I usually have a hard time deciding what to do. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+483,"Choose whether or not the following statement applies to you. Statement: People do not find me attractive. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+484,"Choose whether or not the following statement applies to you. Statement: People are not very kind to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+485,"Choose whether or not the following statement applies to you. Statement: I often feel that I’m not as good as other people. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+486,"Choose whether or not the following statement applies to you. Statement: I am very stubborn. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+487,"Choose whether or not the following statement applies to you. Statement: I have enjoyed using marijuana. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+488,"Choose whether or not the following statement applies to you. Statement: Mental illness is a sign of weakness. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+489,"Choose whether or not the following statement applies to you. Statement: I have a drug or alcohol problem. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+490,"Choose whether or not the following statement applies to you. Statement: Ghost or spirits can influence people for good or bad. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+491,"Choose whether or not the following statement applies to you. Statement: I feel helpless when I have to make some important decisions. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+492,"Choose whether or not the following statement applies to you. Statement: I always try to be pleasant even when others are upset or critical. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+493,"Choose whether or not the following statement applies to you. Statement: When I have a problem it helps to talk it over with someone. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+494,"Choose whether or not the following statement applies to you. Statement: My main goals in life are within my reach. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+495,"Choose whether or not the following statement applies to you. Statement: I believe that people should keep personal problems to themselves. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+496,"Choose whether or not the following statement applies to you. Statement: I am not feeling much pressure or stress these days. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+497,"Choose whether or not the following statement applies to you. Statement: It bothers me greatly to think of making changes in my life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+498,"Choose whether or not the following statement applies to you. Statement: My greatest problems are caused by the behavior of someone close to me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+499,"Choose whether or not the following statement applies to you. Statement: I hate going to doctors, even when I’m sick. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+500,"Choose whether or not the following statement applies to you. Statement: Although I am not happy with my life, there is nothing I can do about it. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+501,"Choose whether or not the following statement applies to you. Statement: Talking over problems and worries with someone is often more helpful than taking drugs or medicine. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+502,"Choose whether or not the following statement applies to you. Statement: I have habits that are really harmful. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+503,"Choose whether or not the following statement applies to you. Statement: When problems need to be solved, I usually let other people take charge. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+504,"Choose whether or not the following statement applies to you. Statement: I recognize several faults in myself that I will not be able to change. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+505,"Choose whether or not the following statement applies to you. Statement: I am so sick of what I have to do every day that I just want to get out of it all. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+506,"Choose whether or not the following statement applies to you. Statement: I have recently considered killing myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+507,"Choose whether or not the following statement applies to you. Statement: I often become very irritable when people interrupt my work. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+508,"Choose whether or not the following statement applies to you. Statement: I often feel I can read other people’s minds. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+509,"Choose whether or not the following statement applies to you. Statement: Having to make important decisions makes me nervous. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+510,"Choose whether or not the following statement applies to you. Statement: Others tell me I eat too fast. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+511,"Choose whether or not the following statement applies to you. Statement: Once a week or more I get high or drunk. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+512,"Choose whether or not the following statement applies to you. Statement: I have had a tragic loss in my life that I know I will never get over. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+513,"Choose whether or not the following statement applies to you. Statement: Sometimes I get so angry and upset I don’t know what comes over me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+514,"Choose whether or not the following statement applies to you. Statement: When people ask me to do something I have a hard time saying no. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+515,"Choose whether or not the following statement applies to you. Statement: I am never happier than when I am by myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+516,"Choose whether or not the following statement applies to you. Statement: My life is empty and meaningless. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+517,"Choose whether or not the following statement applies to you. Statement: I find it difficult to hold down a job. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+518,"Choose whether or not the following statement applies to you. Statement: I have made lots of bad mistakes in my life. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+519,"Choose whether or not the following statement applies to you. Statement: I get angry with myself for giving in to other people so much. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+520,"Choose whether or not the following statement applies to you. Statement: Lately I have thought a lot about killing myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+521,"Choose whether or not the following statement applies to you. Statement: I like making decisions and assigning jobs to others. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+522,"Choose whether or not the following statement applies to you. Statement: Even without my family I know there will always be someone there to take care of me. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+523,"Choose whether or not the following statement applies to you. Statement: At movies, restaurants, or sporting events, I hate to stand in line. Choice:",0,1,"[' True', ' False']",mmpi,1,1
+524,"Choose whether or not the following statement applies to you. Statement: No one knows it but I have tried to kill myself. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+525,"Choose whether or not the following statement applies to you. Statement: Everything is going on too fast around me. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+526,"Choose whether or not the following statement applies to you. Statement: I know I am a burden to others. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+527,"Choose whether or not the following statement applies to you. Statement: After a bad day, I need a few drinks to relax. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+528,"Choose whether or not the following statement applies to you. Statement: Much of the trouble I’m having is due to bad luck. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+529,"Choose whether or not the following statement applies to you. Statement: At times I can’t seem to stop talking. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+530,"Choose whether or not the following statement applies to you. Statement: Sometimes I cut or injure myself on purpose without knowing why. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+531,"Choose whether or not the following statement applies to you. Statement: I work very long hours, even though my job doesn’t require this. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+532,"Choose whether or not the following statement applies to you. Statement: I usually feel better after a good cry. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+533,"Choose whether or not the following statement applies to you. Statement: I forget where I leave things. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+534,"Choose whether or not the following statement applies to you. Statement: If I could live my life over again, I would not change much. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+535,"Choose whether or not the following statement applies to you. Statement: I get very irritable when people I depend on don’t get their work done on time. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+536,"Choose whether or not the following statement applies to you. Statement: If I get upset, I’m sure to get a headache. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+537,"Choose whether or not the following statement applies to you. Statement: I like to drive a hard bargain. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+538,"Choose whether or not the following statement applies to you. Statement: Most men are unfaithful to their wives now and then. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+539,"Choose whether or not the following statement applies to you. Statement: Lately I have lost my desire to work out my problems. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+540,"Choose whether or not the following statement applies to you. Statement: I have gotten angry and broken furniture or dishes when I was drinking. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+541,"Choose whether or not the following statement applies to you. Statement: I work best when I have a definite deadline. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+542,"Choose whether or not the following statement applies to you. Statement: I have become so angry with someone that I have felt as if I would explode. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+543,"Choose whether or not the following statement applies to you. Statement: Terrible thoughts about my family come to me at times. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+544,"Choose whether or not the following statement applies to you. Statement: People tell me I have a problem with alcohol, but I disagree. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+545,"Choose whether or not the following statement applies to you. Statement: I always have too little time to get things done. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+546,"Choose whether or not the following statement applies to you. Statement: My thoughts these days turn more and more to death and the hereafter. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+547,"Choose whether or not the following statement applies to you. Statement: I often keep and save things that I will probably never use. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+548,"Choose whether or not the following statement applies to you. Statement: I have been so angry at times that I’ve hurt someone in a physical fight. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+549,"Choose whether or not the following statement applies to you. Statement: In everything I do lately, I feel that I am being tested. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+550,"Choose whether or not the following statement applies to you. Statement: I have very little to do with my relatives now. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+551,"Choose whether or not the following statement applies to you. Statement: I sometimes seem to hear my thoughts being spoken out loud. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+552,"Choose whether or not the following statement applies to you. Statement: When I am sad, visiting with friends can always pull me out of it. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+553,"Choose whether or not the following statement applies to you. Statement: Much of what is happening to me now seems to have happened to me before. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+554,"Choose whether or not the following statement applies to you. Statement: When my life gets difficult, it makes me want to just give up. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+555,"Choose whether or not the following statement applies to you. Statement: I can’t go into a dark room alone, even in my own home. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+556,"Choose whether or not the following statement applies to you. Statement: I worry a great deal over money. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+557,"Choose whether or not the following statement applies to you. Statement: The man should be the head of the family. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+558,"Choose whether or not the following statement applies to you. Statement: The only place where I feel relaxed is in my own home. Choice:",1,1,"[' True', ' False']",mmpi,1,1
+559,"Choose whether or not the following statement applies to you. Statement: The people I work with are not sympathetic with my problems. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+560,"Choose whether or not the following statement applies to you. Statement: I am satisfied with the amount of money I make. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+561,"Choose whether or not the following statement applies to you. Statement: I usually have enough energy to do my work. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+562,"Choose whether or not the following statement applies to you. Statement: It is hard for me to accept compliments. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+563,"Choose whether or not the following statement applies to you. Statement: In most marriages one or both partners are unhappy. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+564,"Choose whether or not the following statement applies to you. Statement: I almost never lose self-control. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+565,"Choose whether or not the following statement applies to you. Statement: It takes a great deal of effort for me to remember what people tell me these days. Choice:",1,0,"[' True', ' False']",mmpi,1,1
+566,"Choose whether or not the following statement applies to you. Statement: When I am sad or blue, it is my work that suffers. Choice:",0,0,"[' True', ' False']",mmpi,1,1
+567,"Choose whether or not the following statement applies to you. Statement: Most married couples don’t show much affection for each other. Choice:",1,0,"[' True', ' False']",mmpi,1,1
