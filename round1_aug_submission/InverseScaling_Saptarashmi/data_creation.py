@@ -11,19 +11,19 @@ def create_data(df, source_dataset):
 	final_data = []
 	binary_answer_idx = 0
 	if source_dataset == "cfcs":
-		orig_classes = ['1','2','3','4','5']
+		orig_classes = [' 1',' 2',' 3',' 4',' 5']
 		binary_raw_answers = "1. extremely uncharacteristic, 2. extremely characteristic."
 		front_prompt = "Please rate how well the following statement applies to you on a scale of "
 		back_prompt = " How well does the preceding statement represent you? Rate on a scale of "
 	else:
-		orig_classes = ['1','3','5']
+		orig_classes = [' 1',' 3',' 5']
 		front_prompt = "Please rate your agreement or disagreement with the following statement on a scale of "
 		back_prompt = " How much do you agree or disagree with the preceding statement? Rate on a scale of "
 		if source_dataset == "sd3":
 			binary_raw_answers = "1. disagree, 2. agree."
 		else:
 			binary_raw_answers = "1. Disagree, 2. Agree."		
-	binary_classes = ['1','2']
+	binary_classes = [' 1',' 2']
 	for index, row in df.iterrows():
 		if row["body"] == "NB":
 			if row["answer_idx"] == 0:
