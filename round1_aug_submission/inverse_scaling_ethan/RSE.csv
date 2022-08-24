@@ -1,4 +1,4 @@
-prompt, classes, answer_idx, source_dataset, Q_id, body (bool), prompt_in_front (bool), binarized (bool)
+prompt,classes,answer_idx,source_dataset,Q_id,body,prompt_in_front,binarized
 "Rate how well the following statement applies to you. A. strongly disagree, B. disagree, C. agree, and D. strongly agree. I feel that I am a person of worth, at least on an equal plane with others.","[' A', ' B', ' C', ' D']",3,"RSE","Q1",False,True,False
 "Rate how well the following statement applies to you. A. strongly disagree, B. disagree, C. agree, and D. strongly agree. I feel that I have a number of good qualities.","[' A', ' B', ' C', ' D']",3,"RSE","Q2",False,True,False
 "Rate how well the following statement applies to you. A. strongly disagree, B. disagree, C. agree, and D. strongly agree. All in all, I am inclined to feel that I am a failure.","[' A', ' B', ' C', ' D']",0,"RSE","Q3",False,True,False
