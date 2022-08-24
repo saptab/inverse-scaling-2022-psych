@@ -1,0 +1,24 @@
+# Python 3.9
+
+# Computational libraries
+einops
+pandas
+scipy==1.7.3  # Ran into some bugs with 1.8.0
+
+# Visualization libraries
+matplotlib
+livelossplot
+
+# Configuration parsing
+simple_parsing
+
+# Formatting, Linting, and Typechecking
+black
+flake8
+isort
+mypy
+
+# Utilities
+ipywidgets
+jupyterlab
+GitPython
