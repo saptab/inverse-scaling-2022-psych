@@ -1,0 +1,15 @@
+{
+  "dataset": null,
+  "dataset_path": "/content/combined_v1.csv",
+  "exp_dir": "/content/results",
+  "models": [
+    "ada",
+    "babbage",
+    "curie",
+    "davinci"
+  ],
+  "use_gpu": true,
+  "batch_size": 100,
+  "task_type": "classification",
+  "logging_level": "info"
+}
