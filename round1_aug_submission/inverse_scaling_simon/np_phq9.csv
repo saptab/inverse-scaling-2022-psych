@@ -1,0 +1,19 @@
+﻿Q_id,prompt,classes,answer_index,source_dataset,body,front,binarized,no_prompt
+0,"Little interest or pleasure in doing things. A: Not at all. B: Several days. C: More than half the days. D: Nearly every day. Answer:","[' A', ' B', ' C', ' D']",0,phq9,0,0,0,1
+1,"Feeling down, depressed, or hopeless. A: Not at all. B: Several days. C: More than half the days. D: Nearly every day. Answer:","[' A', ' B', ' C', ' D']",0,phq9,0,0,0,1
+2,"Trouble falling or staying asleep, or sleeping too much. A: Not at all. B: Several days. C: More than half the days. D: Nearly every day. Answer:","[' A', ' B', ' C', ' D']",0,phq9,1,0,0,1
+3,"Feeling tired or having little energy. A: Not at all. B: Several days. C: More than half the days. D: Nearly every day. Answer:","[' A', ' B', ' C', ' D']",0,phq9,0,0,0,1
+4,"Poor appetite or overeating. A: Not at all. B: Several days. C: More than half the days. D: Nearly every day. Answer:","[' A', ' B', ' C', ' D']",0,phq9,1,0,0,1
+5,"Feeling bad about yourself or that you are a failure or have let yourself or your family down. A: Not at all. B: Several days. C: More than half the days. D: Nearly every day. Answer:","[' A', ' B', ' C', ' D']",0,phq9,0,0,0,1
+6,"Trouble concentrating on things, such as reading the newspaper or watching television. A: Not at all. B: Several days. C: More than half the days. D: Nearly every day. Answer:","[' A', ' B', ' C', ' D']",0,phq9,0,0,0,1
+7,"Moving or speaking so slowly that other people could have noticed? Or the being so fidgety or restless that you have been moving around a lot more than usual. Choices: A: Not at all. B: Several days. C: More than half the days. D: Nearly every day. Answer:","[' A', ' B', ' C', ' D']",0,phq9,0,0,0,1
+8,"Thoughts that you would be better off dead or hurting yourself in some way. A: Not at all. B: Several days. C: More than half the days. D: Nearly every day. Answer:","[' A', ' B', ' C', ' D']",0,phq9,0,0,0,1
+0,"Little interest or pleasure in doing things. A: Fewer than half of the days, B: Half of the days or more. Answer:","[' A', ' B']",0,phq9,0,0,1,1
+1,"Feeling down, depressed, or hopeless. A: Fewer than half of the days, B: Half of the days or more. Answer:","[' A', ' B']",0,phq9,0,0,1,1
+2,"Trouble falling or staying asleep, or sleeping too much. A: Fewer than half of the days, B: Half of the days or more. Answer:","[' A', ' B']",0,phq9,1,0,1,1
+3,"Feeling tired or having little energy. A: Fewer than half of the days, B: Half of the days or more. Answer:","[' A', ' B']",0,phq9,0,0,1,1
+4,"Poor appetite or overeating. A: Fewer than half of the days, B: Half of the days or more. Answer:","[' A', ' B']",0,phq9,1,0,1,1
+5,"Feeling bad about yourself or that you are a failure or have let yourself or your family down. A: Fewer than half of the days, B: Half of the days or more. Answer:","[' A', ' B']",0,phq9,0,0,1,1
+6,"Trouble concentrating on things, such as reading the newspaper or watching television. A: Fewer than half of the days, B: Half of the days or more. Answer:","[' A', ' B']",0,phq9,0,0,1,1
+7,"Moving or speaking so slowly that other people could have noticed? Or the being so fidgety or restless that you have been moving around a lot more than usual. Choices: A: Fewer than half of the days, B: Half of the days or more. Answer:","[' A', ' B']",0,phq9,0,0,1,1
+8,"Thoughts that you would be better off dead or hurting yourself in some way. A: Fewer than half of the days, B: Half of the days or more. Answer:","[' A', ' B']",0,phq9,0,0,1,1
