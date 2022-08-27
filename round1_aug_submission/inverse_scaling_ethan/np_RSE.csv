@@ -1,0 +1,11 @@
+prompt,classes,answer_idx,source_dataset,Q_id,body,prompt_in_front,binarized,no_prompt
+"I feel that I am a person of worth, at least on an equal plane with others. A. strongly disagree, B. disagree, C. agree, D. strongly agree.","[' A', ' B', ' C', ' D']",3,"RSE","Q1",False,True,False,True
+"I feel that I have a number of good qualities. A. strongly disagree, B. disagree, C. agree, D. strongly agree.","[' A', ' B', ' C', ' D']",3,"RSE","Q2",False,True,False,True
+"All in all, I am inclined to feel that I am a failure. A. strongly disagree, B. disagree, C. agree, D. strongly agree.","[' A', ' B', ' C', ' D']",0,"RSE","Q3",False,True,False,True
+"I am able to do things as well as most other people.","[' A', ' B', ' C', ' D']",3,"RSE","Q4",False,True,False,True
+"I feel I do not have much to be proud of. A. strongly disagree, B. disagree, C. agree, D. strongly agree.","[' A', ' B', ' C', ' D']",0,"RSE","Q5",False,True,False,True
+"I take a positive attitude toward myself. A. strongly disagree, B. disagree, C. agree, D. strongly agree.","[' A', ' B', ' C', ' D']",3,"RSE","Q6",False,True,False,True
+"On the whole, I am satisfied with myself. A. strongly disagree, B. disagree, C. agree, D. strongly agree.","[' A', ' B', ' C', ' D']",3,"RSE","Q7",False,True,False,True
+"I wish I could have more respect for myself. A. strongly disagree, B. disagree, C. agree, D. strongly agree.","[' A', ' B', ' C', ' D']",0,"RSE","Q8",False,True,False,True
+"I certainly feel useless at times. A. strongly disagree, B. disagree, C. agree, D. strongly agree.","[' A', ' B', ' C', ' D']",0,"RSE","Q1",False,True,False,True
+"At times I think I am no good at all. A. strongly disagree, B. disagree, C. agree, D. strongly agree.","[' A', ' B', ' C', ' D']",0,"RSE","Q1",False,True,False,True
