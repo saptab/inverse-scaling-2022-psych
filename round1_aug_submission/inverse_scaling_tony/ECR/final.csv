@@ -1,0 +1,109 @@
+,Q_id,pov,editted,answer_index,prompt,classes,source_dataset,binarized,no_prompt,front,body
+0,Q1,1,0,0,I prefer not to show a partner how I feel deep down:,"[' No', ' Yes']",ECR,True,True,False,False
+1,Q2,1,0,0,I worry about being abandoned:,"[' No', ' Yes']",ECR,True,True,False,False
+2,Q3,1,0,1,I am very comfortable being close to romantic partners:,"[' No', ' Yes']",ECR,True,True,False,False
+3,Q4,1,0,0,I worry a lot about my relationships:,"[' No', ' Yes']",ECR,True,True,False,False
+4,Q5,1,0,0,Just when my partner starts to get close to me I find myself pulling away:,"[' No', ' Yes']",ECR,True,True,False,False
+5,Q6,1,0,0,I worry that romantic partners wont care about me as much as I care about them:,"[' No', ' Yes']",ECR,True,True,False,False
+6,Q7,1,0,0,I get uncomfortable when a romantic partner wants to be very close:,"[' No', ' Yes']",ECR,True,True,False,False
+7,Q8,1,0,0,I worry a fair amount about losing my partner:,"[' No', ' Yes']",ECR,True,True,False,False
+8,Q9,1,0,0,I don't feel comfortable opening up to romantic partners:,"[' No', ' Yes']",ECR,True,True,False,False
+9,Q10,1,0,0,I often wish that my partner's feelings for me were as strong as my feelings for him/her:,"[' No', ' Yes']",ECR,True,True,False,False
+10,Q11,1,0,0,"I want to get close to my partner, but I keep pulling back:","[' No', ' Yes']",ECR,True,True,False,False
+11,Q12,1,0,0,"I often want to merge completely with romantic partners, and this sometimes scares them away:","[' No', ' Yes']",ECR,True,True,False,False
+12,Q13,1,0,0,I am nervous when partners get too close to me:,"[' No', ' Yes']",ECR,True,True,False,False
+13,Q14,1,0,0,I worry about being alone:,"[' No', ' Yes']",ECR,True,True,False,False
+14,Q15,1,0,1,I feel comfortable sharing my private thoughts and feelings with my partner:,"[' No', ' Yes']",ECR,True,True,False,False
+15,Q16,1,0,0,My desire to be very close sometimes scares people away:,"[' No', ' Yes']",ECR,True,True,False,False
+16,Q17,1,0,0,I try to avoid getting too close to my partner:,"[' No', ' Yes']",ECR,True,True,False,False
+17,Q18,1,0,0,I need a lot of reassurance that I am loved by my partner:,"[' No', ' Yes']",ECR,True,True,False,False
+18,Q19,1,0,1,I find it relatively easy to get close to my partner:,"[' No', ' Yes']",ECR,True,True,False,False
+19,Q20,1,0,0,"Sometimes I feel that I force my partners to show more feeling, more commitment:","[' No', ' Yes']",ECR,True,True,False,False
+20,Q21,1,0,0,I find it difficult to allow myself to depend on romantic partners:,"[' No', ' Yes']",ECR,True,True,False,False
+21,Q22,1,0,1,I do not often worry about being abandoned:,"[' No', ' Yes']",ECR,True,True,False,False
+22,Q23,1,0,0,I prefer not to be too close to romantic partners:,"[' No', ' Yes']",ECR,True,True,False,False
+23,Q24,1,0,0,"If I can't get my partner to show interest in me, I get upset or angry:","[' No', ' Yes']",ECR,True,True,False,False
+24,Q25,1,0,0,I tell my partner just about everything:,"[' No', ' Yes']",ECR,True,True,False,False
+25,Q26,1,0,0,I find that my partner(s) don't want to get as close as I would like:,"[' No', ' Yes']",ECR,True,True,False,False
+26,Q27,1,0,1,I usually discuss my problems and concerns with my partner:,"[' No', ' Yes']",ECR,True,True,False,False
+27,Q28,1,0,0,"When I'm not involved in a relationship, I feel somewhat anxious and insecure:","[' No', ' Yes']",ECR,True,True,False,False
+28,Q29,1,0,1,I feel comfortable depending on romantic partners:,"[' No', ' Yes']",ECR,True,True,False,False
+29,Q30,1,0,0,I get frustrated when my partner is not around as much as I would like:,"[' No', ' Yes']",ECR,True,True,False,False
+30,Q31,1,0,1,"I don't mind asking romantic partners for comfort, advice, or help:","[' No', ' Yes']",ECR,True,True,False,False
+31,Q32,1,0,0,I get frustrated if romantic partners are not available when I need them:,"[' No', ' Yes']",ECR,True,True,False,False
+32,Q33,1,0,1,It helps to turn to my romantic partner in times of need:,"[' No', ' Yes']",ECR,True,True,False,False
+33,Q34,1,0,0,"When romantic partners disapprove of me, I feel really bad about myself:","[' No', ' Yes']",ECR,True,True,False,False
+34,Q35,1,0,1,"I turn to my partner for many things, including comfort and reassurance:","[' No', ' Yes']",ECR,True,True,False,False
+35,Q36,1,0,0,I resent it when my partner spends time away from me:,"[' No', ' Yes']",ECR,True,True,False,False
+36,Q1,1,1,0,Do I prefer not to show a partner how I feel deep down?,"[' No', ' Yes']",ECR,True,True,False,False
+37,Q2,1,1,0,Do I worry about being abandoned?,"[' No', ' Yes']",ECR,True,True,False,False
+38,Q3,1,1,1,Am I very comfortable being close to romantic partners?,"[' No', ' Yes']",ECR,True,True,False,False
+39,Q4,1,1,0,Do I worry a lot about my relationships?,"[' No', ' Yes']",ECR,True,True,False,False
+40,Q5,1,1,0,"Just when my partner starts to get close to me, do I find myself pulling away?","[' No', ' Yes']",ECR,True,True,False,False
+41,Q6,1,1,0,Do I worry that romantic partners wont care about me as much as I care about them?,"[' No', ' Yes']",ECR,True,True,False,False
+42,Q7,1,1,0,Do I get uncomfortable when a romantic partner wants to be very close?,"[' No', ' Yes']",ECR,True,True,False,False
+43,Q8,1,1,0,Do I worry a fair amount about losing my partner?,"[' No', ' Yes']",ECR,True,True,False,False
+44,Q9,1,1,0,Do I feel uncomfortable opening up to romantic partners?,"[' No', ' Yes']",ECR,True,True,False,False
+45,Q10,1,1,0,Do I often wish that my partner's feelings for me were as strong as my feelings for him/her?,"[' No', ' Yes']",ECR,True,True,False,False
+46,Q11,1,1,0,"Do I want to get close to my partner, but I keep pulling back?","[' No', ' Yes']",ECR,True,True,False,False
+47,Q12,1,1,0,"Do I often want to merge completely with romantic partners, and this sometimes scares them away?","[' No', ' Yes']",ECR,True,True,False,False
+48,Q13,1,1,0,Am I nervous when partners get too close to me?,"[' No', ' Yes']",ECR,True,True,False,False
+49,Q14,1,1,0,Do I worry about being alone?,"[' No', ' Yes']",ECR,True,True,False,False
+50,Q15,1,1,1,Do I feel comfortable sharing my private thoughts and feelings with my partner?,"[' No', ' Yes']",ECR,True,True,False,False
+51,Q16,1,1,0,Does my desire to be very close sometimes scare people away?,"[' No', ' Yes']",ECR,True,True,False,False
+52,Q17,1,1,0,Do I try to avoid getting too close to my partner?,"[' No', ' Yes']",ECR,True,True,False,False
+53,Q18,1,1,0,Do I need a lot of reassurance that I am loved by my partner?,"[' No', ' Yes']",ECR,True,True,False,False
+54,Q19,1,1,1,Do I find it relatively easy to get close to my partner?,"[' No', ' Yes']",ECR,True,True,False,False
+55,Q20,1,1,0,"Do I sometimes feel that I force my partners to show more feeling, more commitment?","[' No', ' Yes']",ECR,True,True,False,False
+56,Q21,1,1,0,Do I find it difficult to allow myself to depend on romantic partners?,"[' No', ' Yes']",ECR,True,True,False,False
+57,Q22,1,1,1,Do I not often worry about being abandoned?,"[' No', ' Yes']",ECR,True,True,False,False
+58,Q23,1,1,0,Do I prefer not to be too close to romantic partners?,"[' No', ' Yes']",ECR,True,True,False,False
+59,Q24,1,1,0,"If I can't get my partner to show interest in me, do I get upset or angry?","[' No', ' Yes']",ECR,True,True,False,False
+60,Q25,1,1,0,Do I tell my partner just about everything?,"[' No', ' Yes']",ECR,True,True,False,False
+61,Q26,1,1,0,Do I find that my partner(s) don't want to get as close as I would like?,"[' No', ' Yes']",ECR,True,True,False,False
+62,Q27,1,1,1,Do I usually discuss my problems and concerns with my partner?,"[' No', ' Yes']",ECR,True,True,False,False
+63,Q28,1,1,0,"When I'm not involved in a relationship, do I feel somewhat anxious and insecure?","[' No', ' Yes']",ECR,True,True,False,False
+64,Q29,1,1,1,Do I feel comfortable depending on romantic partners?,"[' No', ' Yes']",ECR,True,True,False,False
+65,Q30,1,1,0,Do I get frustrated when my partner is not around as much as I would like?,"[' No', ' Yes']",ECR,True,True,False,False
+66,Q31,1,1,1,"Do I not mind asking romantic partners for comfort, advice, or help?","[' No', ' Yes']",ECR,True,True,False,False
+67,Q32,1,1,0,Do I get frustrated if romantic partners are not available when I need them?,"[' No', ' Yes']",ECR,True,True,False,False
+68,Q33,1,1,1,Does it help to turn to my romantic partner in times of need?,"[' No', ' Yes']",ECR,True,True,False,False
+69,Q34,1,1,0,"When romantic partners disapprove of me, do I feel really bad about myself?","[' No', ' Yes']",ECR,True,True,False,False
+70,Q35,1,1,1,"Do I turn to my partner for many things, including comfort and reassurance?","[' No', ' Yes']",ECR,True,True,False,False
+71,Q36,1,1,0,Do I resent it when my partner spends time away from me?,"[' No', ' Yes']",ECR,True,True,False,False
+72,Q1,2,1,0,Do you prefer not to show a partner how you feel deep down?,"[' No', ' Yes']",ECR,True,True,False,False
+73,Q2,2,1,0,Do you worry about being abandoned?,"[' No', ' Yes']",ECR,True,True,False,False
+74,Q3,2,1,1,Are you very comfortable being close to romantic partners?,"[' No', ' Yes']",ECR,True,True,False,False
+75,Q4,2,1,0,Do you worry a lot about your relationships?,"[' No', ' Yes']",ECR,True,True,False,False
+76,Q5,2,1,0,"Just when your partner starts to get close to you, do you find yourself pulling away?","[' No', ' Yes']",ECR,True,True,False,False
+77,Q6,2,1,0,Do you worry that romantic partners wont care about you as much as you care about them?,"[' No', ' Yes']",ECR,True,True,False,False
+78,Q7,2,1,0,Do you get uncomfortable when a romantic partner wants to be very close?,"[' No', ' Yes']",ECR,True,True,False,False
+79,Q8,2,1,0,Do you worry a fair amount about losing your partner?,"[' No', ' Yes']",ECR,True,True,False,False
+80,Q9,2,1,0,Do you not feel comfortable opening up to romantic partners?,"[' No', ' Yes']",ECR,True,True,False,False
+81,Q10,2,1,0,Do you often wish that your partner's feelings for you were as strong as your feelings for him/her?,"[' No', ' Yes']",ECR,True,True,False,False
+82,Q11,2,1,0,"Do you want to get close to your partner, but you keep pulling back?","[' No', ' Yes']",ECR,True,True,False,False
+83,Q12,2,1,0,"Do you often want to merge completely with romantic partners, and this sometimes scares them away?","[' No', ' Yes']",ECR,True,True,False,False
+84,Q13,2,1,0,Are you nervous when partners get too close to you?,"[' No', ' Yes']",ECR,True,True,False,False
+85,Q14,2,1,0,Do you worry about being alone?,"[' No', ' Yes']",ECR,True,True,False,False
+86,Q15,2,1,1,Do you feel comfortable sharing your private thoughts and feelings with your partner?,"[' No', ' Yes']",ECR,True,True,False,False
+87,Q16,2,1,0,Does your desire to be very close sometimes scare people away?,"[' No', ' Yes']",ECR,True,True,False,False
+88,Q17,2,1,0,Do you try to avoid getting too close to your partner?,"[' No', ' Yes']",ECR,True,True,False,False
+89,Q18,2,1,0,Do you need a lot of reassurance that you are loved by your partner?,"[' No', ' Yes']",ECR,True,True,False,False
+90,Q19,2,1,1,Do you find it relatively easy to get close to your partner?,"[' No', ' Yes']",ECR,True,True,False,False
+91,Q20,2,1,0,"Do you sometimes feel that you force your partners to show more feeling, more commitment?","[' No', ' Yes']",ECR,True,True,False,False
+92,Q21,2,1,0,Do you find it difficult to allow yourself to depend on romantic partners?,"[' No', ' Yes']",ECR,True,True,False,False
+93,Q22,2,1,1,Do you not often worry about being abandoned?,"[' No', ' Yes']",ECR,True,True,False,False
+94,Q23,2,1,0,Do you prefer not to be too close to romantic partners?,"[' No', ' Yes']",ECR,True,True,False,False
+95,Q24,2,1,0,"If you can't get your partner to show interest in you, do you get upset or angry?","[' No', ' Yes']",ECR,True,True,False,False
+96,Q25,2,1,0,Do you tell your partner just about everything?,"[' No', ' Yes']",ECR,True,True,False,False
+97,Q26,2,1,0,Do you find that your partner(s) don't want to get as close as you would like?,"[' No', ' Yes']",ECR,True,True,False,False
+98,Q27,2,1,1,Do you usually discuss your problems and concerns with your partner?,"[' No', ' Yes']",ECR,True,True,False,False
+99,Q28,2,1,0,"When you're not involved in a relationship, do you feel somewhat anxious and insecure?","[' No', ' Yes']",ECR,True,True,False,False
+100,Q29,2,1,1,Do you feel comfortable depending on romantic partners?,"[' No', ' Yes']",ECR,True,True,False,False
+101,Q30,2,1,0,Do you get frustrated when your partner is not around as much as you would like?,"[' No', ' Yes']",ECR,True,True,False,False
+102,Q31,2,1,1,"Do you not mind asking romantic partners for comfort, advice, or help?","[' No', ' Yes']",ECR,True,True,False,False
+103,Q32,2,1,0,Do you get frustrated if romantic partners are not available when you need them?,"[' No', ' Yes']",ECR,True,True,False,False
+104,Q33,2,1,1,Does it helps to turn to your romantic partner in times of need?,"[' No', ' Yes']",ECR,True,True,False,False
+105,Q34,2,1,0,"When romantic partners disapprove of you, do you feel really bad about yourself?","[' No', ' Yes']",ECR,True,True,False,False
+106,Q35,2,1,1,"Do you turn to your partner for many things, including comfort and reassurance?","[' No', ' Yes']",ECR,True,True,False,False
+107,Q36,2,1,0,Do you resent it when your partner spends time away from you?,"[' No', ' Yes']",ECR,True,True,False,False

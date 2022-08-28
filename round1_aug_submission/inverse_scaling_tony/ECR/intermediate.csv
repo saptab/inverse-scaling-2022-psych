@@ -1,0 +1,109 @@
+,Q_id,pov,editted,prompt
+0,Q1,1,0,I prefer not to show a partner how I feel deep down:
+1,Q2,1,0,I worry about being abandoned:
+2,Q3,1,0,I am very comfortable being close to romantic partners:
+3,Q4,1,0,I worry a lot about my relationships:
+4,Q5,1,0,Just when my partner starts to get close to me I find myself pulling away:
+5,Q6,1,0,I worry that romantic partners wont care about me as much as I care about them:
+6,Q7,1,0,I get uncomfortable when a romantic partner wants to be very close:
+7,Q8,1,0,I worry a fair amount about losing my partner:
+8,Q9,1,0,I don't feel comfortable opening up to romantic partners:
+9,Q10,1,0,I often wish that my partner's feelings for me were as strong as my feelings for him/her:
+10,Q11,1,0,"I want to get close to my partner, but I keep pulling back:"
+11,Q12,1,0,"I often want to merge completely with romantic partners, and this sometimes scares them away:"
+12,Q13,1,0,I am nervous when partners get too close to me:
+13,Q14,1,0,I worry about being alone:
+14,Q15,1,0,I feel comfortable sharing my private thoughts and feelings with my partner:
+15,Q16,1,0,My desire to be very close sometimes scares people away:
+16,Q17,1,0,I try to avoid getting too close to my partner:
+17,Q18,1,0,I need a lot of reassurance that I am loved by my partner:
+18,Q19,1,0,I find it relatively easy to get close to my partner:
+19,Q20,1,0,"Sometimes I feel that I force my partners to show more feeling, more commitment:"
+20,Q21,1,0,I find it difficult to allow myself to depend on romantic partners:
+21,Q22,1,0,I do not often worry about being abandoned:
+22,Q23,1,0,I prefer not to be too close to romantic partners:
+23,Q24,1,0,"If I can't get my partner to show interest in me, I get upset or angry:"
+24,Q25,1,0,I tell my partner just about everything:
+25,Q26,1,0,I find that my partner(s) don't want to get as close as I would like:
+26,Q27,1,0,I usually discuss my problems and concerns with my partner:
+27,Q28,1,0,"When I'm not involved in a relationship, I feel somewhat anxious and insecure:"
+28,Q29,1,0,I feel comfortable depending on romantic partners:
+29,Q30,1,0,I get frustrated when my partner is not around as much as I would like:
+30,Q31,1,0,"I don't mind asking romantic partners for comfort, advice, or help:"
+31,Q32,1,0,I get frustrated if romantic partners are not available when I need them:
+32,Q33,1,0,It helps to turn to my romantic partner in times of need:
+33,Q34,1,0,"When romantic partners disapprove of me, I feel really bad about myself:"
+34,Q35,1,0,"I turn to my partner for many things, including comfort and reassurance:"
+35,Q36,1,0,I resent it when my partner spends time away from me:
+36,Q1,1,1,Do I prefer not to show a partner how I feel deep down?
+37,Q2,1,1,Do I worry about being abandoned?
+38,Q3,1,1,Do I am very comfortable being close to romantic partners?
+39,Q4,1,1,Do I worry a lot about my relationships?
+40,Q5,1,1,Do Just when my partner starts to get close to me I find myself pulling away?
+41,Q6,1,1,Do I worry that romantic partners wont care about me as much as I care about them?
+42,Q7,1,1,Do I get uncomfortable when a romantic partner wants to be very close?
+43,Q8,1,1,Do I worry a fair amount about losing my partner?
+44,Q9,1,1,Do I don't feel comfortable opening up to romantic partners?
+45,Q10,1,1,Do I often wish that my partner's feelings for me were as strong as my feelings for him/her?
+46,Q11,1,1,"Do I want to get close to my partner, but I keep pulling back?"
+47,Q12,1,1,"Do I often want to merge completely with romantic partners, and this sometimes scares them away?"
+48,Q13,1,1,Do I am nervous when partners get too close to me?
+49,Q14,1,1,Do I worry about being alone?
+50,Q15,1,1,Do I feel comfortable sharing my private thoughts and feelings with my partner?
+51,Q16,1,1,Do My desire to be very close sometimes scares people away?
+52,Q17,1,1,Do I try to avoid getting too close to my partner?
+53,Q18,1,1,Do I need a lot of reassurance that I am loved by my partner?
+54,Q19,1,1,Do I find it relatively easy to get close to my partner?
+55,Q20,1,1,"Do Sometimes I feel that I force my partners to show more feeling, more commitment?"
+56,Q21,1,1,Do I find it difficult to allow myself to depend on romantic partners?
+57,Q22,1,1,Do I do not often worry about being abandoned?
+58,Q23,1,1,Do I prefer not to be too close to romantic partners?
+59,Q24,1,1,"Do If I can't get my partner to show interest in me, I get upset or angry?"
+60,Q25,1,1,Do I tell my partner just about everything?
+61,Q26,1,1,Do I find that my partner(s) don't want to get as close as I would like?
+62,Q27,1,1,Do I usually discuss my problems and concerns with my partner?
+63,Q28,1,1,"Do When I'm not involved in a relationship, I feel somewhat anxious and insecure?"
+64,Q29,1,1,Do I feel comfortable depending on romantic partners?
+65,Q30,1,1,Do I get frustrated when my partner is not around as much as I would like?
+66,Q31,1,1,"Do I don't mind asking romantic partners for comfort, advice, or help?"
+67,Q32,1,1,Do I get frustrated if romantic partners are not available when I need them?
+68,Q33,1,1,Do It helps to turn to my romantic partner in times of need?
+69,Q34,1,1,"Do When romantic partners disapprove of me, I feel really bad about myself?"
+70,Q35,1,1,"Do I turn to my partner for many things, including comfort and reassurance?"
+71,Q36,1,1,Do I resent it when my partner spends time away from me?
+72,Q1,2,1,Do you prefer not to show a partner how you feel deep down?
+73,Q2,2,1,Do you worry about being abandoned?
+74,Q3,2,1,Do you am very comfortable being close to romantic partners?
+75,Q4,2,1,Do you worry a lot about your relationships?
+76,Q5,2,1,Do Just when your partner starts to get close to you I find myself pulling away?
+77,Q6,2,1,Do you worry that romantic partners wont care about you as much as you care about them?
+78,Q7,2,1,Do you get uncomfortable when a romantic partner wants to be very close?
+79,Q8,2,1,Do you worry a fair amount about losing your partner?
+80,Q9,2,1,Do you don't feel comfortable opening up to romantic partners?
+81,Q10,2,1,Do you often wish that your partner's feelings for you were as strong as your feelings for him/her?
+82,Q11,2,1,"Do you want to get close to your partner, but you keep pulling back?"
+83,Q12,2,1,"Do you often want to merge completely with romantic partners, and this sometimes scares them away?"
+84,Q13,2,1,Do you am nervous when partners get too close to you?
+85,Q14,2,1,Do you worry about being alone?
+86,Q15,2,1,Do you feel comfortable sharing your private thoughts and feelings with your partner?
+87,Q16,2,1,Do My desire to be very close sometimes scares people away?
+88,Q17,2,1,Do you try to avoid getting too close to your partner?
+89,Q18,2,1,Do you need a lot of reassurance that you am loved by your partner?
+90,Q19,2,1,Do you find it relatively easy to get close to your partner?
+91,Q20,2,1,"Do Sometimes you feel that you force your partners to show more feeling, more commitment?"
+92,Q21,2,1,Do you find it difficult to allow myself to depend on romantic partners?
+93,Q22,2,1,Do you do not often worry about being abandoned?
+94,Q23,2,1,Do you prefer not to be too close to romantic partners?
+95,Q24,2,1,Do If you can't get your partner to show interest in you. you get upset or angry?
+96,Q25,2,1,Do you tell your partner just about everything?
+97,Q26,2,1,Do you find that your partner(s) don't want to get as close as you would like?
+98,Q27,2,1,Do you usually discuss your problems and concerns with your partner?
+99,Q28,2,1,"Do When I'm not involved in a relationship, you feel somewhat anxious and insecure?"
+100,Q29,2,1,Do you feel comfortable depending on romantic partners?
+101,Q30,2,1,Do you get frustrated when your partner is not around as much as you would like?
+102,Q31,2,1,"Do you don't mind asking romantic partners for comfort, advice, or help?"
+103,Q32,2,1,Do you get frustrated if romantic partners are not available when you need them?
+104,Q33,2,1,Do It helps to turn to your romantic partner in times of need?
+105,Q34,2,1,Do When romantic partners disapprove of you. you feel really bad about myself?
+106,Q35,2,1,"Do you turn to your partner for many things, including comfort and reassurance?"
+107,Q36,2,1,Do you resent it when your partner spends time away from you?
