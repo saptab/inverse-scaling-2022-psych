@@ -1,0 +1,40 @@
+,score,prompt,classes,answer_index
+478,0.9666666666666668,"Scenario: In a creative writing class, the teacher tells you to write a story that is a metaphor that reflects the ups and downs of your life over the past year. You:
+A. Write a Rocky-style story of hard work overcoming adversity.
+B. Write a story about a whale that befriends a human and helps him escape society.
+C. Write a recurring fantasy you've had involving a spider with knives that cuts your body to small pieces and sends them floating down a river.
+D. Are embarrassed at the thought of what an honest account would look like to others.
+Answer:","[' A', ' B', ' C', ' D']",0
+498,0.9666666666666668,"Scenario: In a creative writing class, the teacher tells you to write a story that is a metaphor that reflects the ups and downs of your life over the past year. You:
+A. Write a Rocky-style story of hard work overcoming adversity.
+B. Write a recurring fantasy you've had involving a spider with knives that cuts your body to small pieces and sends them floating down a river.
+Answer:","[' A', ' B']",0
+761,0.9666666666666668,"Choose whether or not the following statement applies to you. Statement: I have had periods of days, weeks, or months when I couldn’t take care of things because I couldn’t “get going”. Choice:","[' True', ' False']",1
+781,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I think a great many people exaggerate their misfortunes in order to gain the sympathy and help of others. Choice:,"[' True', ' False']",1
+804,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I think most people would lie to get ahead. Choice:,"[' True', ' False']",1
+810,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I have met problems so full of possibilities that I have been unable to make up my mind about them. Choice:,"[' True', ' False']",1
+850,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: Criticism or scolding hurts me terribly. Choice:,"[' True', ' False']",1
+861,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I believe I am being plotted against. Choice:,"[' True', ' False']",1
+874,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I resent having anyone trick me so cleverly that I have to admit that I was fooled. Choice:,"[' True', ' False']",1
+891,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I have had periods in which I carried on activities without knowing later what I had been doing. Choice:,"[' True', ' False']",1
+893,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I am afraid of losing my mind. Choice:,"[' True', ' False']",1
+894,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I am against giving money to beggars. Choice:,"[' True', ' False']",1
+950,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I don’t blame people for trying to grab everything they can get in this world. Choice:,"[' True', ' False']",1
+952,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I have had blank spells in which my activities were interrupted and I did not know what was going on around me. Choice:,"[' True', ' False']",1
+957,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I believe I am a condemned person. Choice:,"[' True', ' False']",1
+971,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I do not blame a person for taking advantage of people who leave themselves open to it. Choice:,"[' True', ' False']",1
+1023,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I have reason for feeling jealous of one or more members of my family. Choice:,"[' True', ' False']",1
+1042,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I hear strange things when I am alone. Choice:,"[' True', ' False']",1
+1043,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I have been afraid of things or people that I knew could not hurt me. Choice:,"[' True', ' False']",1
+1062,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I have sometimes felt that difficulties were piling up so high that I could not overcome them. Choice:,"[' True', ' False']",1
+1091,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I shrink from facing a crisis or difficulty. Choice:,"[' True', ' False']",1
+1155,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I am fascinated by fire. Choice:,"[' True', ' False']",1
+1168,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I have frequently worked under people who seem to have things arranged so that they get credit for good work but are able to pass mistakes onto those under them. Choice:,"[' True', ' False']",1
+1213,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: Ghost or spirits can influence people for good or bad. Choice:,"[' True', ' False']",1
+1229,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I have recently considered killing myself. Choice:,"[' True', ' False']",1
+1241,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I have made lots of bad mistakes in my life. Choice:,"[' True', ' False']",1
+1256,0.9666666666666668,Choose whether or not the following statement applies to you. Statement: I forget where I leave things. Choice:,"[' True', ' False']",1
+1306,0.9666666666666668,"Over the last 2 weeks, how often have you been bothered by the following problem: Trouble concentrating on things, such as reading the newspaper or watching television. Choices: A: Fewer than half of the days, B: Half of the days or more. Answer:","[' A', ' B']",0
+2082,0.9666666666666668,"Over the last 2 weeks, how often have you been bothered by the following problem: Moving or speaking so slowly that other people could have noticed? Or the being so fidgety or restless that you have been moving around a lot more than usual. Choices: A: Fewer than half of the days, B: Half of the days or more. Answer:","[' A', ' B']",0
+2130,0.9666666666666668,"Do I want to get close to my partner, but I keep pulling back?","[' No', ' Yes']",0
+2506,0.9666666666666668,"I think it is important to take warnings about negative outcomes seriously even if the negative outcome will not occur for many years. 1. extremely uncharacteristic, 2. somewhat uncharacteristic, 3. uncertain, 4. somewhat characteristic, 5. extremely characteristic.","[' 1', ' 2', ' 3', ' 4', ' 5']",4
