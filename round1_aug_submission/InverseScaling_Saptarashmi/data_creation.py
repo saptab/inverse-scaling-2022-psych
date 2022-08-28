@@ -43,7 +43,7 @@ def create_data(df, source_dataset):
 			binary_row_front = [binary_prompt_front, binary_classes, binary_answer_idx, source_dataset, row["Q_id"], row["body"], 1, 1]
 			final_data.append(binary_row_front)
 			#prompt engineering of binary text at the back of the statement
-			binary_prompt_back = "Statement: " + back_prompt + binary_raw_answers + row["raw_question"]
+			binary_prompt_back = "Statement: " + row["raw_question"] + back_prompt + binary_raw_answers
 			binary_row_back = [binary_prompt_back, binary_classes, binary_answer_idx, source_dataset, row["Q_id"], row["body"], 0, 1]
 			final_data.append(binary_row_back)
 	return final_data

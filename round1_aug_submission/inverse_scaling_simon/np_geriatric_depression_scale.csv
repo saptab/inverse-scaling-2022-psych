@@ -22,8 +22,7 @@ Q_id,prompt,classes,answer_index,source_dataset,body,front,binarized,no_prompt
 20,"Do you feel full of energy?","[' Yes',' No']",0,geriatric_depression,0,1,1,1
 21,"Do you feel that your situation is hopeless?","[' Yes',' No']",1,geriatric_depression,0,1,1,1
 22,"Do you think that most people are better off than you are?","[' Yes',' No']",1,geriatric_depression,0,1,1,1
-23,"Do you frequently get upset over little things?","[' Yes', '
-No']",1,geriatric_depression,0,1,1,1
+23,"Do you frequently get upset over little things?","[' Yes', ' No']",1,geriatric_depression,0,1,1,1
 24,"Do you frequently feel like crying?","[' Yes',' No']",1,geriatric_depression,0,1,1,1
 25,"Do you have trouble concentrating?","[' Yes',' No']",1,geriatric_depression,0,1,1,1
 26,"Do you enjoy getting up in the morning?","[' Yes',' No']",0,geriatric_depression,0,1,1,1
