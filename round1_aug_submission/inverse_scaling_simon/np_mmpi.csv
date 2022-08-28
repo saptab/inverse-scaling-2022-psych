@@ -32,8 +32,7 @@ Q_id,prompt,answer_index,body,classes,source_dataset,front,binarized,no_prompt
 31,"I find it hard to keep my mind on a task or job.",1,0,"[' True', ' False']",mmpi,1,1,1
 32,"I have had very peculiar and strange experiences.",1,0,"[' True', ' False']",mmpi,1,1,1
 33,"I seldom worry about my health.",0,0,"[' True', ' False']",mmpi,1,1,1
-34,"I have never been in trouble because of my sexual behavior.",0,0,"[' True', '
-False']",mmpi,1,1,1
+34,"I have never been in trouble because of my sexual behavior.",0,0,"[' True', ' False']",mmpi,1,1,1
 35,"Sometimes when I was young I stole things.",1,0,"[' True', ' False']",mmpi,1,1,1
 36,"I have a cough most of the time.",1,1,"[' True', ' False']",mmpi,1,1,1
 37,"At times I feel like smashing things.",1,0,"[' True', ' False']",mmpi,1,1,1
@@ -44,8 +43,7 @@ False']",mmpi,1,1,1
 42,"If people had not had it in for me, I would have been much more successful.",1,0,"[' True', ' False']",mmpi,1,1,1
 43,"My judgment is better than it ever was.",0,0,"[' True', ' False']",mmpi,1,1,1
 44,"Once a week (or more often) I suddenly feel hot all over, for no reason.",1,1,"[' True', ' False']",mmpi,1,1,1
-45,"I am in just as good physical health as most of my friends.",0,0,"[' True', '
-False']",mmpi,1,1,1
+45,"I am in just as good physical health as most of my friends.",0,0,"[' True', ' False']",mmpi,1,1,1
 46,"I prefer to pass by school friends, or people I know but have not seen for a long time, unless they speak to me first.",0,0,"[' True', ' False']",mmpi,1,1,1
 47,"I am almost never bothered by pains over my heart or in my chest.",0,1,"[' True', ' False']",mmpi,1,1,1
 48,"Most anytime I would rather sit and daydream than do anything else.",1,0,"[' True', ' False']",mmpi,1,1,1
@@ -69,8 +67,7 @@ False']",mmpi,1,1,1
 66,"It would be better if almost all laws were thrown away.",1,0,"[' True', ' False']",mmpi,1,1,1
 67,"I like poetry.",0,0,"[' True', ' False']",mmpi,1,1,1
 68,"I sometimes tease animals.",1,0,"[' True', ' False']",mmpi,1,1,1
-69,"I think I would like the kind of work a forest ranger does.",0,0,"[' True', '
-False']",mmpi,1,1,1
+69,"I think I would like the kind of work a forest ranger does.",0,0,"[' True', ' False']",mmpi,1,1,1
 70,"I am easily downed in an argument.",1,0,"[' True', ' False']",mmpi,1,1,1
 71,"These days I find it hard not to give up hope of amounting to something.",1,0,"[' True', ' False']",mmpi,1,1,1
 72,"My soul sometimes leaves my body.",1,1,"[' True', ' False']",mmpi,1,1,1
@@ -157,8 +154,7 @@ False']",mmpi,1,1,1
 153,"I like to know some important people because it makes me feel important.",1,0,"[' True', ' False']",mmpi,1,1,1
 154,"I am afraid when I look down from a high place.",0,1,"[' True', ' False']",mmpi,1,1,1
 155,"It wouldn’t make me nervous if any members of my family got into trouble with the law.",0,0,"[' True', ' False']",mmpi,1,1,1
-156,"I am never happy unless I am roaming or traveling around.",1,0,"[' True', '
-False']",mmpi,1,1,1
+156,"I am never happy unless I am roaming or traveling around.",1,0,"[' True', ' False']",mmpi,1,1,1
 157,"What others think of me does not bother me.",1,0,"[' True', ' False']",mmpi,1,1,1
 158,"It makes me uncomfortable to pull a stunt at a party even when others are doing the same sort of things.",0,1,"[' True', ' False']",mmpi,1,1,1
 159,"I have never had a fainting spell.",0,1,"[' True', ' False']",mmpi,1,1,1
@@ -169,8 +165,7 @@ False']",mmpi,1,1,1
 164,"I seldom or never have dizzy spells.",0,1,"[' True', ' False']",mmpi,1,1,1
 165,"My memory seems to be all right.",0,0,"[' True', ' False']",mmpi,1,1,1
 166,"I am worried about sex.",1,1,"[' True', ' False']",mmpi,1,1,1
-167,"I find it hard to make small talk when I meet new people.",0,0,"[' True', '
-False']",mmpi,1,1,1
+167,"I find it hard to make small talk when I meet new people.",0,0,"[' True', ' False']",mmpi,1,1,1
 168,"I have had periods in which I carried on activities without knowing later what I had been doing.",1,0,"[' True', ' False']",mmpi,1,1,1
 169,"When I get bored I like to stir up some excitement.",0,0,"[' True', ' False']",mmpi,1,1,1
 170,"I am afraid of losing my mind.",1,0,"[' True', ' False']",mmpi,1,1,1
@@ -201,8 +196,7 @@ False']",mmpi,1,1,1
 195,"There is very little love and companionship in my family as compared to other homes.",1,0,"[' True', ' False']",mmpi,1,1,1
 196,"I frequently find myself worrying about something.",1,0,"[' True', ' False']",mmpi,1,1,1
 197,"I think I would like the work of a building contractor.",0,1,"[' True', ' False']",mmpi,1,1,1
-198,"I often hear voices without knowing where they come from.",1,0,"[' True', '
-False']",mmpi,1,1,1
+198,"I often hear voices without knowing where they come from.",1,0,"[' True', ' False']",mmpi,1,1,1
 199,"I like science.",0,0,"[' True', ' False']",mmpi,1,1,1
 200,"It is not hard for me to ask for help from my friends even though I cannot return the favor.",1,0,"[' True', ' False']",mmpi,1,1,1
 201,"I very much like hunting.",1,1,"[' True', ' False']",mmpi,1,1,1
@@ -269,25 +263,21 @@ False']",mmpi,1,1,1
 262,"In a group of people, I would not be embarrassed to be called upon to start a discussion or give an opinion about something I know well.",0,0,"[' True', ' False']",mmpi,1,1,1
 263,"I am always disgusted with the law when a criminal is freed through the arguments of a smart lawyer.",0,0,"[' True', ' False']",mmpi,1,1,1
 264,"I have used alcohol excessively.",0,1,"[' True', ' False']",mmpi,1,1,1
-265,"I am likely not to speak to people until they speak to me.",0,0,"[' True', '
-False']",mmpi,1,1,1
+265,"I am likely not to speak to people until they speak to me.",0,0,"[' True', ' False']",mmpi,1,1,1
 266,"I have never been in trouble with the law.",0,0,"[' True', ' False']",mmpi,1,1,1
 267,"I have periods in which I feel unusually cheerful without any special reason.",0,0,"[' True', ' False']",mmpi,1,1,1
 268,"I wish I were not bothered by thoughts about sex.",1,0,"[' True', ' False']",mmpi,1,1,1
 269,"If several people find themselves in trouble, the best thing for them to do is agree upon a story and stick to it.",1,0,"[' True', ' False']",mmpi,1,1,1
-270,"It does not bother me particularly to see animals suffer.",1,0,"[' True', '
-False']",mmpi,1,1,1
+270,"It does not bother me particularly to see animals suffer.",1,0,"[' True', ' False']",mmpi,1,1,1
 271,"I think that I feel more intensely than most people do.",1,0,"[' True', ' False']",mmpi,1,1,1
 272,"There was never a time in my life when I liked to play with dolls.",1,0,"[' True', ' False']",mmpi,1,1,1
 273,"Life is a strain for me much of the time.",1,0,"[' True', ' False']",mmpi,1,1,1
 274,"I am so touchy on some subjects that I can’t talk about them.",1,0,"[' True', ' False']",mmpi,1,1,1
 275,"In school I found it very hard to talk in front of the class.",1,0,"[' True', ' False']",mmpi,1,1,1
 276,"I love my mother, or (if your mother is dead) I loved my mother.",0,0,"[' True', ' False']",mmpi,1,1,1
-277,"Even when I am with people I feel lonely much of the time.",1,0,"[' True', '
-False']",mmpi,1,1,1
+277,"Even when I am with people I feel lonely much of the time.",1,0,"[' True', ' False']",mmpi,1,1,1
 278,"I get all the sympathy I should.",0,0,"[' True', ' False']",mmpi,1,1,1
-279,"I refuse to play some games because I am not good at them.",1,0,"[' True', '
-False']",mmpi,1,1,1
+279,"I refuse to play some games because I am not good at them.",1,0,"[' True', ' False']",mmpi,1,1,1
 280,"I seem to make friends about as quickly as others do.",0,0,"[' True', ' False']",mmpi,1,1,1
 281,"I dislike having people around me.",1,0,"[' True', ' False']",mmpi,1,1,1
 282,"I have been told that I walk during sleep.",1,1,"[' True', ' False']",mmpi,1,1,1
@@ -330,8 +320,7 @@ False']",mmpi,1,1,1
 319,"I hear strange things when I am alone.",1,0,"[' True', ' False']",mmpi,1,1,1
 320,"I have been afraid of things or people that I knew could not hurt me.",1,0,"[' True', ' False']",mmpi,1,1,1
 321,"I have no dread of going into a room by myself where other people have already gathered and are talking.",1,1,"[' True', ' False']",mmpi,1,1,1
-322,"I am afraid of a knife or anything very sharp or pointed.",0,1,"[' True', '
-False']",mmpi,1,1,1
+322,"I am afraid of a knife or anything very sharp or pointed.",0,1,"[' True', ' False']",mmpi,1,1,1
 323,"Sometimes I enjoy hurting persons I love.",1,0,"[' True', ' False']",mmpi,1,1,1
 324,"I can easily make other people afraid of me, and sometimes do it for the fun of it.",1,0,"[' True', ' False']",mmpi,1,1,1
 325,"I have more trouble concentrating than others seem to have.",1,0,"[' True', ' False']",mmpi,1,1,1
@@ -350,8 +339,7 @@ False']",mmpi,1,1,1
 338,"People often disappoint me.",1,0,"[' True', ' False']",mmpi,1,1,1
 339,"I have sometimes felt that difficulties were piling up so high that I could not overcome them.",1,0,"[' True', ' False']",mmpi,1,1,1
 340,"I love to go to dances.",0,1,"[' True', ' False']",mmpi,1,1,1
-341,"At periods, my mind seems to work more slowly than usual.",1,0,"[' True', '
-False']",mmpi,1,1,1
+341,"At periods, my mind seems to work more slowly than usual.",1,0,"[' True', ' False']",mmpi,1,1,1
 342,"While in trains, busses, etc., I often talk with strangers.",0,1,"[' True', ' False']",mmpi,1,1,1
 343,"I enjoy children.",0,0,"[' True', ' False']",mmpi,1,1,1
 344,"I enjoy gambling for small stakes.",0,0,"[' True', ' False']",mmpi,1,1,1
@@ -360,8 +348,7 @@ False']",mmpi,1,1,1
 347,"It makes me feel like a failure when I hear of the success of someone I know well.",0,0,"[' True', ' False']",mmpi,1,1,1
 348,"I often “I wish I were a child again.” Choice:",1,0,"[' True', ' False']",mmpi,1,1,1
 349,"I am never happier than when alone.",1,0,"[' True', ' False']",mmpi,1,1,1
-350,"If given the chance I would make a good leader of people.",0,0,"[' True', '
-False']",mmpi,1,1,1
+350,"If given the chance I would make a good leader of people.",0,0,"[' True', ' False']",mmpi,1,1,1
 351,"I am embarrassed by dirty stories.",0,0,"[' True', ' False']",mmpi,1,1,1
 352,"People generally demand more respect for their own rights than they are willing to allow for others.",1,0,"[' True', ' False']",mmpi,1,1,1
 353,"I enjoy social gatherings just to be with people.",0,0,"[' True', ' False']",mmpi,1,1,1
@@ -386,8 +373,7 @@ False']",mmpi,1,1,1
 372,"I am not easily angered.",0,0,"[' True', ' False']",mmpi,1,1,1
 373,"I have done some bad things in the past that I never tell anybody about.",1,0,"[' True', ' False']",mmpi,1,1,1
 374,"Most people will use somewhat unfair means to get ahead in life.",1,0,"[' True', ' False']",mmpi,1,1,1
-375,"It makes me nervous when people ask me personal questions.",1,0,"[' True', '
-False']",mmpi,1,1,1
+375,"It makes me nervous when people ask me personal questions.",1,0,"[' True', ' False']",mmpi,1,1,1
 376,"I do not feel I can plan my own future.",1,0,"[' True', ' False']",mmpi,1,1,1
 377,"I am not happy with myself the way I am.",1,0,"[' True', ' False']",mmpi,1,1,1
 378,"I get angry when my friends or family give me advice on how to live my life.",1,0,"[' True', ' False']",mmpi,1,1,1
@@ -405,8 +391,7 @@ False']",mmpi,1,1,1
 390,"I wish I could get over worrying about things I have said that may have injured other people’s feelings.",1,0,"[' True', ' False']",mmpi,1,1,1
 391,"I feel unable to tell anyone all about myself.",1,0,"[' True', ' False']",mmpi,1,1,1
 392,"Lightning is one of my fears.",1,0,"[' True', ' False']",mmpi,1,1,1
-393,"I like to keep people guessing what I am going to do next.",1,0,"[' True', '
-False']",mmpi,1,1,1
+393,"I like to keep people guessing what I am going to do next.",1,0,"[' True', ' False']",mmpi,1,1,1
 394,"My plans have frequently seemed so full of difficulties that I have had to give them up.",1,0,"[' True', ' False']",mmpi,1,1,1
 395,"I am afraid to be alone in the dark.",1,1,"[' True', ' False']",mmpi,1,1,1
 396,"I have often felt bad about being misunderstood when trying to keep someone from making a mistake.",0,0,"[' True', ' False']",mmpi,1,1,1
@@ -452,8 +437,7 @@ False']",mmpi,1,1,1
 436,"When a man is with a woman he is usually thinking about things related to her sex.",1,0,"[' True', ' False']",mmpi,1,1,1
 437,"I am usually very direct with people I am trying to correct or improve.",1,0,"[' True', ' False']",mmpi,1,1,1
 438,"I dread the thought of an earthquake.",1,1,"[' True', ' False']",mmpi,1,1,1
-439,"I readily become one hundred percent sold on a good idea.",1,0,"[' True', '
-False']",mmpi,1,1,1
+439,"I readily become one hundred percent sold on a good idea.",1,0,"[' True', ' False']",mmpi,1,1,1
 440,"I usually work things out for myself rather than get someone to show me how.",1,0,"[' True', ' False']",mmpi,1,1,1
 441,"I am afraid of finding myself in a closet or small closed space.",1,1,"[' True', ' False']",mmpi,1,1,1
 442,"I must admit that I have at times been worried beyond reason over something that really did not matter.",1,0,"[' True', ' False']",mmpi,1,1,1
@@ -484,16 +468,14 @@ False']",mmpi,1,1,1
 467,"I like to read about science.",0,0,"[' True', ' False']",mmpi,1,1,1
 468,"I am afraid of being alone in a wide-open place.",1,1,"[' True', ' False']",mmpi,1,1,1
 469,"I sometimes feel that I am about to go to pieces.",1,0,"[' True', ' False']",mmpi,1,1,1
-470,"A large number of people are guilty of bad sexual conduct.",1,0,"[' True', '
-False']",mmpi,1,1,1
+470,"A large number of people are guilty of bad sexual conduct.",1,0,"[' True', ' False']",mmpi,1,1,1
 471,"I have often been frightened in the middle of the night.",1,1,"[' True', ' False']",mmpi,1,1,1
 472,"I am greatly bothered by forgetting where I put things.",1,0,"[' True', ' False']",mmpi,1,1,1
 473,"The one to whom I was most attached and whom I most admired as a child was a woman (mother, sister, aunt, or other woman).",0,0,"[' True', ' False']",mmpi,1,1,1
 474,"I like adventure stories better than romantic stories.",0,0,"[' True', ' False']",mmpi,1,1,1
 475,"Often I get confused and forget what I want to say.",1,0,"[' True', ' False']",mmpi,1,1,1
 476,"I am very awkward and clumsy.",1,1,"[' True', ' False']",mmpi,1,1,1
-477,"I really like playing sports (such as soccer or football).",0,1,"[' True', '
-False']",mmpi,1,1,1
+477,"I really like playing sports (such as soccer or football).",0,1,"[' True', ' False']",mmpi,1,1,1
 478,"I hate my whole family.",1,0,"[' True', ' False']",mmpi,1,1,1
 479,"Some people think it’s hard to get to know me.",1,0,"[' True', ' False']",mmpi,1,1,1
 480,"I spend most of my spare time by myself.",0,0,"[' True', ' False']",mmpi,1,1,1
@@ -565,8 +547,7 @@ False']",mmpi,1,1,1
 546,"My thoughts these days turn more and more to death and the hereafter.",1,0,"[' True', ' False']",mmpi,1,1,1
 547,"I often keep and save things that I will probably never use.",1,0,"[' True', ' False']",mmpi,1,1,1
 548,"I have been so angry at times that I’ve hurt someone in a physical fight.",1,1,"[' True', ' False']",mmpi,1,1,1
-549,"In everything I do lately, I feel that I am being tested.",1,0,"[' True', '
-False']",mmpi,1,1,1
+549,"In everything I do lately, I feel that I am being tested.",1,0,"[' True', ' False']",mmpi,1,1,1
 550,"I have very little to do with my relatives now.",1,1,"[' True', ' False']",mmpi,1,1,1
 551,"I sometimes seem to hear my thoughts being spoken out loud.",1,0,"[' True', ' False']",mmpi,1,1,1
 552,"When I am sad, visiting with friends can always pull me out of it.",0,0,"[' True', ' False']",mmpi,1,1,1
