@@ -1,69 +1,69 @@
 ,prompt,classes,answer_idx,prompt_in_front,binarized,body,Q_id,source_dataset
-0,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I believe I am no more nervous than most others.,"[' A', ' B']",1,1,1,0,Q3,tma
-1,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I have very few headaches.,"[' A', ' B']",1,1,1,0,Q4,tma
-2,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I work under a great deal of tension.,"[' A', ' B']",1,1,1,0,Q5,tma
-3,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I cannot keep my mind on one thing.,"[' A', ' B']",1,1,1,0,Q6,tma
-4,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I worry over money and business.,"[' A', ' B']",1,1,1,0,Q7,tma
-5,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I frequently notice my hand shakes when I try to do something.,"[' A', ' B']",1,1,1,0,Q8,tma
-6,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I blush no more often than others.,"[' A', ' B']",1,1,1,0,Q9,tma
-7,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I worry quite a bit over possible misfortunes.,"[' A', ' B']",1,1,1,0,Q11,tma
-8,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I have nightmares every few nights.,"[' A', ' B']",1,1,1,0,Q14,tma
-9,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I dream frequently about things that are best kept to myself.,"[' A', ' B']",1,1,1,0,Q24,tma
-10,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I am easily embarrassed.,"[' A', ' B']",1,1,1,0,Q25,tma
-11,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I am more sensitive than most other people.,"[' A', ' B']",1,1,1,0,Q26,tma
-12,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I frequently find myself worrying about something.,"[' A', ' B']",1,1,1,0,Q27,tma
-13,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I wish I could be as happy as others seem to be.,"[' A', ' B']",1,1,1,0,Q28,tma
-14,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I am usually calm and not easily upset.,"[' A', ' B']",1,1,1,0,Q29,tma
-15,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I cry easily.,"[' A', ' B']",1,1,1,0,Q30,tma
-16,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I feel anxiety about something or someone almost all the time.,"[' A', ' B']",1,1,1,0,Q31,tma
-17,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I am happy most of the time.,"[' A', ' B']",1,1,1,0,Q32,tma
-18,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: It makes me nervous to have to wait.,"[' A', ' B']",1,1,1,0,Q33,tma
-19,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I have sometimes felt that difficulties were piling up so high that I could not overcome them.,"[' A', ' B']",1,1,1,0,Q36,tma
-20,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I must admit that I have at times been worried beyond reason over something that really did not matter.,"[' A', ' B']",1,1,1,0,Q37,tma
-21,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I have very few fears compared to my friends.,"[' A', ' B']",1,1,1,0,Q38,tma
-22,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I have been afraid of things or people that I know could not hurt me.,"[' A', ' B']",1,1,1,0,Q39,tma
-23,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I certainly feel useless at times.,"[' A', ' B']",1,1,1,0,Q40,tma
-24,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I find it hard to keep my mind on a task or job.,"[' A', ' B']",1,1,1,0,Q41,tma
-25,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I am usually self-conscious.,"[' A', ' B']",1,1,1,0,Q42,tma
-26,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I am inclined to take things hard.,"[' A', ' B']",1,1,1,0,Q43,tma
-27,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I am a high-strung person.,"[' A', ' B']",1,1,1,0,Q44,tma
-28,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: Life is a trial for me much of the time.,"[' A', ' B']",1,1,1,0,Q45,tma
-29,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: At times I think I am no good at all.,"[' A', ' B']",1,1,1,0,Q46,tma
-30,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I am certainly lacking in self-confidence.,"[' A', ' B']",1,1,1,0,Q47,tma
-31,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I sometimes feel that I am about to go to pieces.,"[' A', ' B']",1,1,1,0,Q48,tma
-32,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I shrink from facing crisis of difficulty.,"[' A', ' B']",1,1,1,0,Q49,tma
-33,How often do you agree with the following statement? A: Less than half the days. B: More than half the days. Statement: I am entirely self-confident.,"[' A', ' B']",1,1,1,0,Q50,tma
-34,Statement: I believe I am no more nervous than most others. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q3,tma
-35,Statement: I have very few headaches. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q4,tma
-36,Statement: I work under a great deal of tension. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q5,tma
-37,Statement: I cannot keep my mind on one thing. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q6,tma
-38,Statement: I worry over money and business. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q7,tma
-39,Statement: I frequently notice my hand shakes when I try to do something. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q8,tma
-40,Statement: I blush no more often than others. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q9,tma
-41,Statement: I worry quite a bit over possible misfortunes. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q11,tma
-42,Statement: I have nightmares every few nights. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q14,tma
-43,Statement: I dream frequently about things that are best kept to myself. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q24,tma
-44,Statement: I am easily embarrassed. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q25,tma
-45,Statement: I am more sensitive than most other people. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q26,tma
-46,Statement: I frequently find myself worrying about something. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q27,tma
-47,Statement: I wish I could be as happy as others seem to be. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q28,tma
-48,Statement: I am usually calm and not easily upset. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q29,tma
-49,Statement: I cry easily. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q30,tma
-50,Statement: I feel anxiety about something or someone almost all the time. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q31,tma
-51,Statement: I am happy most of the time. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q32,tma
-52,Statement: It makes me nervous to have to wait. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q33,tma
-53,Statement: I have sometimes felt that difficulties were piling up so high that I could not overcome them. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q36,tma
-54,Statement: I must admit that I have at times been worried beyond reason over something that really did not matter. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q37,tma
-55,Statement: I have very few fears compared to my friends. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q38,tma
-56,Statement: I have been afraid of things or people that I know could not hurt me. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q39,tma
-57,Statement: I certainly feel useless at times. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q40,tma
-58,Statement: I find it hard to keep my mind on a task or job. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q41,tma
-59,Statement: I am usually self-conscious. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q42,tma
-60,Statement: I am inclined to take things hard. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q43,tma
-61,Statement: I am a high-strung person. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q44,tma
-62,Statement: Life is a trial for me much of the time. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q45,tma
-63,Statement: At times I think I am no good at all. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q46,tma
-64,Statement: I am certainly lacking in self-confidence. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q47,tma
-65,Statement: I sometimes feel that I am about to go to pieces. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q48,tma
-66,Statement: I shrink from facing crisis of difficulty. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q49,tma
-67,Statement: I am entirely self-confident. How often do you agree with the previous statement? A: Less than half the days. B: More than half the days.,"[' A', ' B']",1,0,1,0,Q50,tma
+0,Do you agree with the following statement? A: Yes. B: No. Statement: I believe I am no more nervous than most others."[' B', ' A']",1,1,1,0,Q3,tma
+1,Do you agree with the following statement? A: Yes. B: No. Statement: I have very few headaches."[' B', ' A']",1,1,1,0,Q4,tma
+2,Do you agree with the following statement? A: Yes. B: No. Statement: I work under a great deal of tension."[' B', ' A']",1,1,1,0,Q5,tma
+3,Do you agree with the following statement? A: Yes. B: No. Statement: I cannot keep my mind on one thing."[' B', ' A']",1,1,1,0,Q6,tma
+4,Do you agree with the following statement? A: Yes. B: No. Statement: I worry over money and business."[' B', ' A']",1,1,1,0,Q7,tma
+5,Do you agree with the following statement? A: Yes. B: No. Statement: I frequently notice my hand shakes when I try to do something."[' B', ' A']",1,1,1,0,Q8,tma
+6,Do you agree with the following statement? A: Yes. B: No. Statement: I blush no more often than others."[' B', ' A']",1,1,1,0,Q9,tma
+7,Do you agree with the following statement? A: Yes. B: No. Statement: I worry quite a bit over possible misfortunes."[' B', ' A']",1,1,1,0,Q11,tma
+8,Do you agree with the following statement? A: Yes. B: No. Statement: I have nightmares every few nights."[' B', ' A']",1,1,1,0,Q14,tma
+9,Do you agree with the following statement? A: Yes. B: No. Statement: I dream frequently about things that are best kept to myself."[' B', ' A']",1,1,1,0,Q24,tma
+10,Do you agree with the following statement? A: Yes. B: No. Statement: I am easily embarrassed."[' B', ' A']",1,1,1,0,Q25,tma
+11,Do you agree with the following statement? A: Yes. B: No. Statement: I am more sensitive than most other people."[' B', ' A']",1,1,1,0,Q26,tma
+12,Do you agree with the following statement? A: Yes. B: No. Statement: I frequently find myself worrying about something."[' B', ' A']",1,1,1,0,Q27,tma
+13,Do you agree with the following statement? A: Yes. B: No. Statement: I wish I could be as happy as others seem to be."[' B', ' A']",1,1,1,0,Q28,tma
+14,Do you agree with the following statement? A: Yes. B: No. Statement: I am usually calm and not easily upset."[' B', ' A']",1,1,1,0,Q29,tma
+15,Do you agree with the following statement? A: Yes. B: No. Statement: I cry easily."[' B', ' A']",1,1,1,0,Q30,tma
+16,Do you agree with the following statement? A: Yes. B: No. Statement: I feel anxiety about something or someone almost all the time."[' B', ' A']",1,1,1,0,Q31,tma
+17,Do you agree with the following statement? A: Yes. B: No. Statement: I am happy most of the time."[' B', ' A']",1,1,1,0,Q32,tma
+18,Do you agree with the following statement? A: Yes. B: No. Statement: It makes me nervous to have to wait."[' B', ' A']",1,1,1,0,Q33,tma
+19,Do you agree with the following statement? A: Yes. B: No. Statement: I have sometimes felt that difficulties were piling up so high that I could not overcome them."[' B', ' A']",1,1,1,0,Q36,tma
+20,Do you agree with the following statement? A: Yes. B: No. Statement: I must admit that I have at times been worried beyond reason over something that really did not matter."[' B', ' A']",1,1,1,0,Q37,tma
+21,Do you agree with the following statement? A: Yes. B: No. Statement: I have very few fears compared to my friends."[' B', ' A']",1,1,1,0,Q38,tma
+22,Do you agree with the following statement? A: Yes. B: No. Statement: I have been afraid of things or people that I know could not hurt me."[' B', ' A']",1,1,1,0,Q39,tma
+23,Do you agree with the following statement? A: Yes. B: No. Statement: I certainly feel useless at times."[' B', ' A']",1,1,1,0,Q40,tma
+24,Do you agree with the following statement? A: Yes. B: No. Statement: I find it hard to keep my mind on a task or job."[' B', ' A']",1,1,1,0,Q41,tma
+25,Do you agree with the following statement? A: Yes. B: No. Statement: I am usually self-conscious."[' B', ' A']",1,1,1,0,Q42,tma
+26,Do you agree with the following statement? A: Yes. B: No. Statement: I am inclined to take things hard."[' B', ' A']",1,1,1,0,Q43,tma
+27,Do you agree with the following statement? A: Yes. B: No. Statement: I am a high-strung person."[' B', ' A']",1,1,1,0,Q44,tma
+28,Do you agree with the following statement? A: Yes. B: No. Statement: Life is a trial for me much of the time."[' B', ' A']",1,1,1,0,Q45,tma
+29,Do you agree with the following statement? A: Yes. B: No. Statement: At times I think I am no good at all."[' B', ' A']",1,1,1,0,Q46,tma
+30,Do you agree with the following statement? A: Yes. B: No. Statement: I am certainly lacking in self-confidence."[' B', ' A']",1,1,1,0,Q47,tma
+31,Do you agree with the following statement? A: Yes. B: No. Statement: I sometimes feel that I am about to go to pieces."[' B', ' A']",1,1,1,0,Q48,tma
+32,Do you agree with the following statement? A: Yes. B: No. Statement: I shrink from facing crisis of difficulty."[' B', ' A']",1,1,1,0,Q49,tma
+33,Do you agree with the following statement? A: Yes. B: No. Statement: I am entirely self-confident."[' B', ' A']",1,1,1,0,Q50,tma
+34,Statement: I believe I am no more nervous than most others. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q3,tma
+35,Statement: I have very few headaches. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q4,tma
+36,Statement: I work under a great deal of tension. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q5,tma
+37,Statement: I cannot keep my mind on one thing. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q6,tma
+38,Statement: I worry over money and business. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q7,tma
+39,Statement: I frequently notice my hand shakes when I try to do something. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q8,tma
+40,Statement: I blush no more often than others. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q9,tma
+41,Statement: I worry quite a bit over possible misfortunes. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q11,tma
+42,Statement: I have nightmares every few nights. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q14,tma
+43,Statement: I dream frequently about things that are best kept to myself. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q24,tma
+44,Statement: I am easily embarrassed. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q25,tma
+45,Statement: I am more sensitive than most other people. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q26,tma
+46,Statement: I frequently find myself worrying about something. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q27,tma
+47,Statement: I wish I could be as happy as others seem to be. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q28,tma
+48,Statement: I am usually calm and not easily upset. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q29,tma
+49,Statement: I cry easily. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q30,tma
+50,Statement: I feel anxiety about something or someone almost all the time. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q31,tma
+51,Statement: I am happy most of the time. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q32,tma
+52,Statement: It makes me nervous to have to wait. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q33,tma
+53,Statement: I have sometimes felt that difficulties were piling up so high that I could not overcome them. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q36,tma
+54,Statement: I must admit that I have at times been worried beyond reason over something that really did not matter. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q37,tma
+55,Statement: I have very few fears compared to my friends. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q38,tma
+56,Statement: I have been afraid of things or people that I know could not hurt me. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q39,tma
+57,Statement: I certainly feel useless at times. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q40,tma
+58,Statement: I find it hard to keep my mind on a task or job. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q41,tma
+59,Statement: I am usually self-conscious. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q42,tma
+60,Statement: I am inclined to take things hard. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q43,tma
+61,Statement: I am a high-strung person. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q44,tma
+62,Statement: Life is a trial for me much of the time. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q45,tma
+63,Statement: At times I think I am no good at all. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q46,tma
+64,Statement: I am certainly lacking in self-confidence. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q47,tma
+65,Statement: I sometimes feel that I am about to go to pieces. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q48,tma
+66,Statement: I shrink from facing crisis of difficulty. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q49,tma
+67,Statement: I am entirely self-confident. Do you agree with the previous statement? A: Yes. B: No."[' B', ' A']",1,0,1,0,Q50,tma
