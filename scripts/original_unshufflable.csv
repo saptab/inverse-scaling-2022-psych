@@ -1,0 +1,235 @@
+idx,prompt,classes,answer_index
+18,"Please choose True or False for whether or not the following statement is accurate in describing how you have been feeling in the past weeks, including today. Statement: My past experiences have prepared me well for my future. Choice:","[' True', ' False']",0
+19,"Please choose True or False for whether or not the following statement is accurate in describing how you have been feeling in the past weeks, including today. Statement: It is very unlikely that I will get any real satisfaction in the future. Choice:","[' True', ' False']",1
+20,"Statement: I just don't get the breaks, and there's no reason to believe I will in the future. Is the previous statement accurate in describing how you have been feeling in the past weeks, including today? Answer:","[' Yes', ' No']",1
+21,"Statement: I never get what I want so it's foolish to want anything. Is the previous statement accurate in describing how you have been feeling in the past weeks, including today? Answer:","[' Yes', ' No']",1
+22,"Statement: There's no use in really trying to get something I want because I probably won't get it. Is the previous statement accurate in describing how you have been feeling in the past weeks, including today? Answer:","[' Yes', ' No']",1
+38,Choose the answer to the following question that best describes how you felt over the past week. Question: Do you prefer to avoid social gatherings? Choice:,"[' Yes', ' No']",1
+81,Choose whether or not the following statement applies to you. Statement: I like to read newspaper articles on crime. Choice:,"[' True', ' False']",1
+82,Choose whether or not the following statement applies to you. Statement: I work under a great deal of tension. Choice:,"[' True', ' False']",1
+83,Choose whether or not the following statement applies to you. Statement: No one seems to understand me. Choice:,"[' True', ' False']",1
+84,Choose whether or not the following statement applies to you. Statement: Evil spirits possess me at times. Choice:,"[' True', ' False']",1
+85,Choose whether or not the following statement applies to you. Statement: At times I feel like swearing. Choice:,"[' True', ' False']",1
+86,Choose whether or not the following statement applies to you. Statement: I have nightmares every few nights. Choice:,"[' True', ' False']",1
+87,Choose whether or not the following statement applies to you. Statement: I find it hard to keep my mind on a task or job. Choice:,"[' True', ' False']",1
+88,Choose whether or not the following statement applies to you. Statement: I have had very peculiar and strange experiences. Choice:,"[' True', ' False']",1
+89,Choose whether or not the following statement applies to you. Statement: At times I feel like smashing things. Choice:,"[' True', ' False']",1
+90,"Choose whether or not the following statement applies to you. Statement: I have had periods of days, weeks, or months when I couldn’t take care of things because I couldn’t “get going”. Choice:","[' True', ' False']",1
+91,Choose whether or not the following statement applies to you. Statement: I do not always tell the truth. Choice:,"[' True', ' False']",1
+92,"Choose whether or not the following statement applies to you. Statement: If people had not had it in for me, I would have been much more successful. Choice:","[' True', ' False']",1
+93,Choose whether or not the following statement applies to you. Statement: I have often had to take orders from someone who did not know as much as I did. Choice:,"[' True', ' False']",1
+94,Choose whether or not the following statement applies to you. Statement: I think a great many people exaggerate their misfortunes in order to gain the sympathy and help of others. Choice:,"[' True', ' False']",1
+95,Choose whether or not the following statement applies to you. Statement: It would be better if almost all laws were thrown away. Choice:,"[' True', ' False']",1
+96,Choose whether or not the following statement applies to you. Statement: I sometimes tease animals. Choice:,"[' True', ' False']",1
+97,Choose whether or not the following statement applies to you. Statement: I am easily downed in an argument. Choice:,"[' True', ' False']",1
+98,Choose whether or not the following statement applies to you. Statement: I am certainly lacking in self-confidence. Choice:,"[' True', ' False']",1
+99,Choose whether or not the following statement applies to you. Statement: It takes a lot of argument to convince most people of the truth. Choice:,"[' True', ' False']",1
+100,Choose whether or not the following statement applies to you. Statement: Most people that know me like me. Choice:,"[' True', ' False']",0
+101,Choose whether or not the following statement applies to you. Statement: I think most people would lie to get ahead. Choice:,"[' True', ' False']",1
+102,Choose whether or not the following statement applies to you. Statement: I do many things that I regret afterwards. (I regret things more than others seem to.) Choice:,"[' True', ' False']",1
+103,"Choose whether or not the following statement applies to you. Statement: At times, I have a strong urge to do something harmful or shocking. Choice:","[' True', ' False']",1
+104,Choose whether or not the following statement applies to you. Statement: I have met problems so full of possibilities that I have been unable to make up my mind about them. Choice:,"[' True', ' False']",1
+105,Choose whether or not the following statement applies to you. Statement: I believe that women ought to have as much sexual freedom as men. Choice:,"[' True', ' False']",0
+106,Choose whether or not the following statement applies to you. Statement: My hardest battles are with myself. Choice:,"[' True', ' False']",0
+107,Choose whether or not the following statement applies to you. Statement: I don’t seem to care what happens to me. Choice:,"[' True', ' False']",1
+108,Choose whether or not the following statement applies to you. Statement: Much of the time I feel as if I have done something wrong or evil. Choice:,"[' True', ' False']",1
+109,Choose whether or not the following statement applies to you. Statement: I see things or animals or people around me that others do not see. Choice:,"[' True', ' False']",1
+110,Choose whether or not the following statement applies to you. Statement: Someone has it in for me. Choice:,"[' True', ' False']",1
+111,Choose whether or not the following statement applies to you. Statement: I have never done anything dangerous just for the thrill of it. Choice:,"[' True', ' False']",1
+112,Choose whether or not the following statement applies to you. Statement: I get angry sometimes. Choice:,"[' True', ' False']",1
+113,Choose whether or not the following statement applies to you. Statement: Most people are honest chiefly because they are afraid of being caught. Choice:,"[' True', ' False']",1
+114,Choose whether or not the following statement applies to you. Statement: I seem to be about as capable and smart as most others around me. Choice:,"[' True', ' False']",0
+115,Choose whether or not the following statement applies to you. Statement: Most people will use somewhat unfair means to gain profit or an advantage rather than to lose it. Choice:,"[' True', ' False']",1
+116,Choose whether or not the following statement applies to you. Statement: Criticism or scolding hurts me terribly. Choice:,"[' True', ' False']",1
+117,Choose whether or not the following statement applies to you. Statement: My conduct is largely controlled by the behavior of those around me. Choice:,"[' True', ' False']",1
+118,Choose whether or not the following statement applies to you. Statement: I certainly feel useless at times. Choice:,"[' True', ' False']",1
+119,Choose whether or not the following statement applies to you. Statement: I believe in life hereafter. Choice:,"[' True', ' False']",0
+120,Choose whether or not the following statement applies to you. Statement: I would like to be a soldier. Choice:,"[' True', ' False']",1
+121,Choose whether or not the following statement applies to you. Statement: It makes me impatient to have people ask my advice or otherwise interrupt me when I am working on something important. Choice:,"[' True', ' False']",1
+122,Choose whether or not the following statement applies to you. Statement: I believe I am being plotted against. Choice:,"[' True', ' False']",1
+123,Choose whether or not the following statement applies to you. Statement: I feel that I have often been punished without cause. Choice:,"[' True', ' False']",1
+124,Choose whether or not the following statement applies to you. Statement: I cry easily. Choice:,"[' True', ' False']",1
+125,Choose whether or not the following statement applies to you. Statement: I cannot understand what I read as often as I used to. Choice:,"[' True', ' False']",1
+126,Choose whether or not the following statement applies to you. Statement: I resent having anyone trick me so cleverly that I have to admit that I was fooled. Choice:,"[' True', ' False']",1
+127,Choose whether or not the following statement applies to you. Statement: I am never happy unless I am roaming or traveling around. Choice:,"[' True', ' False']",1
+128,Choose whether or not the following statement applies to you. Statement: I frequently have to fight against showing that I am bashful. Choice:,"[' True', ' False']",1
+129,Choose whether or not the following statement applies to you. Statement: I do not have a great fear of snakes. Choice:,"[' True', ' False']",1
+130,Choose whether or not the following statement applies to you. Statement: I have had periods in which I carried on activities without knowing later what I had been doing. Choice:,"[' True', ' False']",1
+131,Choose whether or not the following statement applies to you. Statement: I am afraid of losing my mind. Choice:,"[' True', ' False']",1
+132,Choose whether or not the following statement applies to you. Statement: I am against giving money to beggars. Choice:,"[' True', ' False']",1
+133,Choose whether or not the following statement applies to you. Statement: There is something wrong with my mind. Choice:,"[' True', ' False']",1
+134,Choose whether or not the following statement applies to you. Statement: I wish I were not so shy. Choice:,"[' True', ' False']",1
+135,Choose whether or not the following statement applies to you. Statement: I frequently find myself worrying about something. Choice:,"[' True', ' False']",1
+136,Choose whether or not the following statement applies to you. Statement: I often hear voices without knowing where they come from. Choice:,"[' True', ' False']",1
+137,Choose whether or not the following statement applies to you. Statement: I gossip a little at times. Choice:,"[' True', ' False']",1
+138,Choose whether or not the following statement applies to you. Statement: I have been quite independent and free from family rule. Choice:,"[' True', ' False']",1
+139,Choose whether or not the following statement applies to you. Statement: Someone has been trying to rob me. Choice:,"[' True', ' False']",1
+140,Choose whether or not the following statement applies to you. Statement: I dream frequently about things that are best kept to myself. Choice:,"[' True', ' False']",1
+141,Choose whether or not the following statement applies to you. Statement: I don’t blame people for trying to grab everything they can get in this world. Choice:,"[' True', ' False']",1
+142,Choose whether or not the following statement applies to you. Statement: There are persons who are trying to steal my thoughts and ideas. Choice:,"[' True', ' False']",1
+143,Choose whether or not the following statement applies to you. Statement: I have had blank spells in which my activities were interrupted and I did not know what was going on around me. Choice:,"[' True', ' False']",1
+144,Choose whether or not the following statement applies to you. Statement: I like to be with a crowd who play jokes on one another. Choice:,"[' True', ' False']",1
+145,Choose whether or not the following statement applies to you. Statement: I have difficulty in starting to do things. Choice:,"[' True', ' False']",1
+146,Choose whether or not the following statement applies to you. Statement: I believe I am a condemned person. Choice:,"[' True', ' False']",1
+147,Choose whether or not the following statement applies to you. Statement: I was a slow learner in school. Choice:,"[' True', ' False']",1
+148,Choose whether or not the following statement applies to you. Statement: At times it has been impossible for me to stop from stealing or shoplifting something. Choice:,"[' True', ' False']",1
+149,Choose whether or not the following statement applies to you. Statement: It is safer to trust nobody. Choice:,"[' True', ' False']",1
+150,Choose whether or not the following statement applies to you. Statement: I believe my sins are unpardonable. Choice:,"[' True', ' False']",1
+151,Choose whether or not the following statement applies to you. Statement: I do not blame a person for taking advantage of people who leave themselves open to it. Choice:,"[' True', ' False']",1
+152,"Choose whether or not the following statement applies to you. Statement: I can sleep during the day, but not at night. Choice:","[' True', ' False']",1
+153,Choose whether or not the following statement applies to you. Statement: I wish I were not bothered by thoughts about sex. Choice:,"[' True', ' False']",1
+154,Choose whether or not the following statement applies to you. Statement: It does not bother me particularly to see animals suffer. Choice:,"[' True', ' False']",1
+155,Choose whether or not the following statement applies to you. Statement: I refuse to play some games because I am not good at them. Choice:,"[' True', ' False']",1
+156,Choose whether or not the following statement applies to you. Statement: I dislike having people around me. Choice:,"[' True', ' False']",1
+157,Choose whether or not the following statement applies to you. Statement: The person who provides temptation by leaving valuable property unprotected is about as much to blame for its theft as the one who steals it. Choice:,"[' True', ' False']",1
+158,Choose whether or not the following statement applies to you. Statement: I think nearly anyone would tell a lie to keep out of trouble. Choice:,"[' True', ' False']",1
+159,Choose whether or not the following statement applies to you. Statement: I am more sensitive than most people. Choice:,"[' True', ' False']",1
+160,Choose whether or not the following statement applies to you. Statement: I am easily embarrassed. Choice:,"[' True', ' False']",1
+161,Choose whether or not the following statement applies to you. Statement: The things that some of my family have done have frightened me. Choice:,"[' True', ' False']",1
+162,Choose whether or not the following statement applies to you. Statement: I cannot keep my mind on one thing. Choice:,"[' True', ' False']",1
+163,Choose whether or not the following statement applies to you. Statement: I have reason for feeling jealous of one or more members of my family. Choice:,"[' True', ' False']",1
+164,Choose whether or not the following statement applies to you. Statement: I feel anxiety about something or someone almost all the time. Choice:,"[' True', ' False']",1
+165,Choose whether or not the following statement applies to you. Statement: I have certainly had more than my share of things to worry about. Choice:,"[' True', ' False']",1
+166,Choose whether or not the following statement applies to you. Statement: I forget right away what people say to me. Choice:,"[' True', ' False']",1
+167,"Choose whether or not the following statement applies to you. Statement: I have a habit of counting things that are not important, such as bulbs on electric signs and so forth. Choice:","[' True', ' False']",1
+168,Choose whether or not the following statement applies to you. Statement: I tend to be on my guard with people who are somewhat friendlier than I had expected. Choice:,"[' True', ' False']",1
+169,Choose whether or not the following statement applies to you. Statement: I have strange and peculiar thoughts. Choice:,"[' True', ' False']",1
+170,Choose whether or not the following statement applies to you. Statement: I hear strange things when I am alone. Choice:,"[' True', ' False']",1
+171,Choose whether or not the following statement applies to you. Statement: I have been afraid of things or people that I knew could not hurt me. Choice:,"[' True', ' False']",1
+172,Choose whether or not the following statement applies to you. Statement: I have more trouble concentrating than others seem to have. Choice:,"[' True', ' False']",1
+173,"Choose whether or not the following statement applies to you. Statement: Bad words, often terrible words, come into my mind and I cannot get rid of them. Choice:","[' True', ' False']",1
+174,Choose whether or not the following statement applies to you. Statement: Almost every day something happens to frighten me. Choice:,"[' True', ' False']",1
+175,Choose whether or not the following statement applies to you. Statement: I am inclined to take things hard. Choice:,"[' True', ' False']",1
+176,Choose whether or not the following statement applies to you. Statement: People say insulting and vulgar things about me. Choice:,"[' True', ' False']",1
+177,Choose whether or not the following statement applies to you. Statement: I feel uneasy indoors. Choice:,"[' True', ' False']",1
+178,Choose whether or not the following statement applies to you. Statement: I have sometimes felt that difficulties were piling up so high that I could not overcome them. Choice:,"[' True', ' False']",1
+179,"Choose whether or not the following statement applies to you. Statement: At periods, my mind seems to work more slowly than usual. Choice:","[' True', ' False']",1
+180,Choose whether or not the following statement applies to you. Statement: I enjoy children. Choice:,"[' True', ' False']",0
+181,Choose whether or not the following statement applies to you. Statement: I have often met people who were supposed to be experts who were no better than I. Choice:,"[' True', ' False']",1
+182,Choose whether or not the following statement applies to you. Statement: I often think: “I wish I were a child again.” Choice:,"[' True', ' False']",1
+183,"Choose whether or not the following statement applies to you. Statement: I find it hard to set aside a task that I have undertaken, even for a short time. Choice:","[' True', ' False']",1
+184,Choose whether or not the following statement applies to you. Statement: I feel like giving up quickly when things go wrong. Choice:,"[' True', ' False']",1
+185,Choose whether or not the following statement applies to you. Statement: Whenever possible I avoid being in a crowd. Choice:,"[' True', ' False']",1
+186,Choose whether or not the following statement applies to you. Statement: I shrink from facing a crisis or difficulty. Choice:,"[' True', ' False']",1
+187,Choose whether or not the following statement applies to you. Statement: I have often wished I were a member of the opposite sex. Choice:,"[' True', ' False']",1
+188,Choose whether or not the following statement applies to you. Statement: I have done some bad things in the past that I never tell anybody about. Choice:,"[' True', ' False']",1
+189,Choose whether or not the following statement applies to you. Statement: Most people will use somewhat unfair means to get ahead in life. Choice:,"[' True', ' False']",1
+190,Choose whether or not the following statement applies to you. Statement: It makes me nervous when people ask me personal questions. Choice:,"[' True', ' False']",1
+191,Choose whether or not the following statement applies to you. Statement: I do not feel I can plan my own future. Choice:,"[' True', ' False']",1
+192,Choose whether or not the following statement applies to you. Statement: I am not happy with myself the way I am. Choice:,"[' True', ' False']",1
+193,Choose whether or not the following statement applies to you. Statement: It bothers me when people say nice things about me. Choice:,"[' True', ' False']",1
+194,Choose whether or not the following statement applies to you. Statement: I don’t like hearing other people give their opinions about life. Choice:,"[' True', ' False']",1
+195,Choose whether or not the following statement applies to you. Statement: I am often said to be hotheaded. Choice:,"[' True', ' False']",1
+196,Choose whether or not the following statement applies to you. Statement: I wish I could get over worrying about things I have said that may have injured other people’s feelings. Choice:,"[' True', ' False']",1
+197,Choose whether or not the following statement applies to you. Statement: I feel unable to tell anyone all about myself. Choice:,"[' True', ' False']",1
+198,Choose whether or not the following statement applies to you. Statement: I like to keep people guessing what I am going to do next. Choice:,"[' True', ' False']",1
+199,Choose whether or not the following statement applies to you. Statement: My plans have frequently seemed so full of difficulties that I have had to give them up. Choice:,"[' True', ' False']",1
+200,Choose whether or not the following statement applies to you. Statement: I frequently ask people for advice. Choice:,"[' True', ' False']",1
+201,Choose whether or not the following statement applies to you. Statement: The future is too uncertain for a person to make serious plans. Choice:,"[' True', ' False']",1
+202,Choose whether or not the following statement applies to you. Statement: I would certainly enjoy beating criminals at their own game. Choice:,"[' True', ' False']",1
+203,Choose whether or not the following statement applies to you. Statement: I deserve severe punishment for my sins. Choice:,"[' True', ' False']",1
+204,Choose whether or not the following statement applies to you. Statement: I have at times had to be rough with people who were rude or annoying. Choice:,"[' True', ' False']",1
+205,Choose whether or not the following statement applies to you. Statement: I worry quite a bit over possible misfortunes. Choice:,"[' True', ' False']",1
+206,Choose whether or not the following statement applies to you. Statement: I have strong political opinions. Choice:,"[' True', ' False']",1
+207,Choose whether or not the following statement applies to you. Statement: It makes me nervous to have to wait. Choice:,"[' True', ' False']",1
+208,Choose whether or not the following statement applies to you. Statement: I am often sorry because I am so irritable and grouchy. Choice:,"[' True', ' False']",1
+209,Choose whether or not the following statement applies to you. Statement: In school my marks in classroom behavior were quite regularly bad. Choice:,"[' True', ' False']",1
+210,Choose whether or not the following statement applies to you. Statement: I am fascinated by fire. Choice:,"[' True', ' False']",1
+211,Choose whether or not the following statement applies to you. Statement: When I am cornered I tell that portion of the truth which is not likely to hurt me. Choice:,"[' True', ' False']",1
+212,Choose whether or not the following statement applies to you. Statement: I am usually very direct with people I am trying to correct or improve. Choice:,"[' True', ' False']",1
+213,Choose whether or not the following statement applies to you. Statement: I readily become one hundred percent sold on a good idea. Choice:,"[' True', ' False']",1
+214,Choose whether or not the following statement applies to you. Statement: I must admit that I have at times been worried beyond reason over something that really did not matter. Choice:,"[' True', ' False']",1
+215,Choose whether or not the following statement applies to you. Statement: I have frequently worked under people who seem to have things arranged so that they get credit for good work but are able to pass mistakes onto those under them. Choice:,"[' True', ' False']",1
+216,Choose whether or not the following statement applies to you. Statement: Dirt frightens or disgusts me. Choice:,"[' True', ' False']",1
+217,Choose whether or not the following statement applies to you. Statement: I have a daydream life about which I do not tell other people. Choice:,"[' True', ' False']",1
+218,Choose whether or not the following statement applies to you. Statement: It makes me angry to have people hurry me. Choice:,"[' True', ' False']",1
+219,Choose whether or not the following statement applies to you. Statement: I sometimes feel that I am about to go to pieces. Choice:,"[' True', ' False']",1
+220,Choose whether or not the following statement applies to you. Statement: A large number of people are guilty of bad sexual conduct. Choice:,"[' True', ' False']",1
+221,Choose whether or not the following statement applies to you. Statement: I am greatly bothered by forgetting where I put things. Choice:,"[' True', ' False']",1
+222,Choose whether or not the following statement applies to you. Statement: People are not very kind to me. Choice:,"[' True', ' False']",1
+223,Choose whether or not the following statement applies to you. Statement: I often feel that I’m not as good as other people. Choice:,"[' True', ' False']",1
+224,Choose whether or not the following statement applies to you. Statement: I am very stubborn. Choice:,"[' True', ' False']",1
+225,Choose whether or not the following statement applies to you. Statement: Mental illness is a sign of weakness. Choice:,"[' True', ' False']",1
+226,Choose whether or not the following statement applies to you. Statement: Ghost or spirits can influence people for good or bad. Choice:,"[' True', ' False']",1
+227,Choose whether or not the following statement applies to you. Statement: I feel helpless when I have to make some important decisions. Choice:,"[' True', ' False']",1
+228,Choose whether or not the following statement applies to you. Statement: My main goals in life are within my reach. Choice:,"[' True', ' False']",0
+229,Choose whether or not the following statement applies to you. Statement: My greatest problems are caused by the behavior of someone close to me. Choice:,"[' True', ' False']",1
+230,"Choose whether or not the following statement applies to you. Statement: I hate going to doctors, even when I’m sick. Choice:","[' True', ' False']",1
+231,Choose whether or not the following statement applies to you. Statement: I have habits that are really harmful. Choice:,"[' True', ' False']",1
+232,Choose whether or not the following statement applies to you. Statement: I have recently considered killing myself. Choice:,"[' True', ' False']",1
+233,Choose whether or not the following statement applies to you. Statement: I often become very irritable when people interrupt my work. Choice:,"[' True', ' False']",1
+234,Choose whether or not the following statement applies to you. Statement: I have had a tragic loss in my life that I know I will never get over. Choice:,"[' True', ' False']",1
+235,Choose whether or not the following statement applies to you. Statement: I find it difficult to hold down a job. Choice:,"[' True', ' False']",1
+236,Choose whether or not the following statement applies to you. Statement: I have made lots of bad mistakes in my life. Choice:,"[' True', ' False']",1
+237,Choose whether or not the following statement applies to you. Statement: Lately I have thought a lot about killing myself. Choice:,"[' True', ' False']",1
+238,Choose whether or not the following statement applies to you. Statement: No one knows it but I have tried to kill myself. Choice:,"[' True', ' False']",1
+239,Choose whether or not the following statement applies to you. Statement: I know I am a burden to others. Choice:,"[' True', ' False']",1
+240,"Choose whether or not the following statement applies to you. Statement: I work very long hours, even though my job doesn’t require this. Choice:","[' True', ' False']",1
+241,Choose whether or not the following statement applies to you. Statement: I forget where I leave things. Choice:,"[' True', ' False']",1
+242,Choose whether or not the following statement applies to you. Statement: I get very irritable when people I depend on don’t get their work done on time. Choice:,"[' True', ' False']",1
+243,Choose whether or not the following statement applies to you. Statement: I have become so angry with someone that I have felt as if I would explode. Choice:,"[' True', ' False']",1
+244,"Choose whether or not the following statement applies to you. Statement: In everything I do lately, I feel that I am being tested. Choice:","[' True', ' False']",1
+245,Choose whether or not the following statement applies to you. Statement: I sometimes seem to hear my thoughts being spoken out loud. Choice:,"[' True', ' False']",1
+246,Choose whether or not the following statement applies to you. Statement: The people I work with are not sympathetic with my problems. Choice:,"[' True', ' False']",1
+247,Choose whether or not the following statement applies to you. Statement: I almost never lose self-control. Choice:,"[' True', ' False']",0
+264,Have you dropped many of your activities and interests?,"[' Yes',' No']",1
+265,Do you often get bored?,"[' Yes',' No']",1
+266,Are you afraid that something bad is going to happen to you?,"[' Yes',' No']",1
+267,Do you often get restless and fidgety?,"[' Yes',' No']",1
+268,Do you frequently worry about the future?,"[' Yes',' No']",1
+269,Do you feel you have more problems with memory than most?,"[' Yes',' No']",1
+270,Do you worry a lot about the past?,"[' Yes',' No']",1
+271,Is it hard for you to get started on new projects?,"[' Yes',' No']",1
+272,Do you frequently feel like crying?,"[' Yes',' No']",1
+273,Do you have trouble concentrating?,"[' Yes',' No']",1
+274,Do you prefer to avoid social gatherings?,"[' Yes',' No']",1
+315,Someone has been trying to influence my mind.,"[' True', ' False']",1
+316,A large number of people are guilty of bad sexual conduct.,"[' True', ' False']",1
+330,I prefer not to show a partner how I feel deep down:,"[' No', ' Yes']",0
+331,I worry about being abandoned:,"[' No', ' Yes']",0
+332,I worry that romantic partners wont care about me as much as I care about them:,"[' No', ' Yes']",0
+333,I get uncomfortable when a romantic partner wants to be very close:,"[' No', ' Yes']",0
+334,I worry a fair amount about losing my partner:,"[' No', ' Yes']",0
+335,"I want to get close to my partner, but I keep pulling back:","[' No', ' Yes']",0
+336,I am nervous when partners get too close to me:,"[' No', ' Yes']",0
+337,I worry about being alone:,"[' No', ' Yes']",0
+338,My desire to be very close sometimes scares people away:,"[' No', ' Yes']",0
+339,I need a lot of reassurance that I am loved by my partner:,"[' No', ' Yes']",0
+340,"If I can't get my partner to show interest in me, I get upset or angry:","[' No', ' Yes']",0
+341,I find that my partner(s) don't want to get as close as I would like:,"[' No', ' Yes']",0
+342,I get frustrated when my partner is not around as much as I would like:,"[' No', ' Yes']",0
+343,I get frustrated if romantic partners are not available when I need them:,"[' No', ' Yes']",0
+344,I resent it when my partner spends time away from me:,"[' No', ' Yes']",0
+345,Do I prefer not to show a partner how I feel deep down?,"[' No', ' Yes']",0
+346,Do I worry about being abandoned?,"[' No', ' Yes']",0
+347,Do I worry a lot about my relationships?,"[' No', ' Yes']",0
+348,"Just when my partner starts to get close to me, do I find myself pulling away?","[' No', ' Yes']",0
+349,Do I worry that romantic partners wont care about me as much as I care about them?,"[' No', ' Yes']",0
+350,Do I worry a fair amount about losing my partner?,"[' No', ' Yes']",0
+351,"Do I want to get close to my partner, but I keep pulling back?","[' No', ' Yes']",0
+352,Am I nervous when partners get too close to me?,"[' No', ' Yes']",0
+353,Do I worry about being alone?,"[' No', ' Yes']",0
+354,Do I try to avoid getting too close to my partner?,"[' No', ' Yes']",0
+355,Do I find it difficult to allow myself to depend on romantic partners?,"[' No', ' Yes']",0
+356,Do I not often worry about being abandoned?,"[' No', ' Yes']",1
+357,Do I prefer not to be too close to romantic partners?,"[' No', ' Yes']",0
+358,"If I can't get my partner to show interest in me, do I get upset or angry?","[' No', ' Yes']",0
+359,Do I find that my partner(s) don't want to get as close as I would like?,"[' No', ' Yes']",0
+360,Do I usually discuss my problems and concerns with my partner?,"[' No', ' Yes']",1
+361,Do I feel comfortable depending on romantic partners?,"[' No', ' Yes']",1
+362,Do I get frustrated if romantic partners are not available when I need them?,"[' No', ' Yes']",0
+363,Do you prefer not to show a partner how you feel deep down?,"[' No', ' Yes']",0
+364,Do you worry about being abandoned?,"[' No', ' Yes']",0
+365,Do you worry a lot about your relationships?,"[' No', ' Yes']",0
+366,Do you worry that romantic partners wont care about you as much as you care about them?,"[' No', ' Yes']",0
+367,"Do you often want to merge completely with romantic partners, and this sometimes scares them away?","[' No', ' Yes']",0
+368,Are you nervous when partners get too close to you?,"[' No', ' Yes']",0
+369,Do you worry about being alone?,"[' No', ' Yes']",0
+370,Do you try to avoid getting too close to your partner?,"[' No', ' Yes']",0
+371,Do you find it difficult to allow yourself to depend on romantic partners?,"[' No', ' Yes']",0
+372,Do you prefer not to be too close to romantic partners?,"[' No', ' Yes']",0
+373,Do you tell your partner just about everything?,"[' No', ' Yes']",0
+374,"When you're not involved in a relationship, do you feel somewhat anxious and insecure?","[' No', ' Yes']",0
+375,Do you get frustrated when your partner is not around as much as you would like?,"[' No', ' Yes']",0
+376,Do you get frustrated if romantic partners are not available when you need them?,"[' No', ' Yes']",0
+377,Do you resent it when your partner spends time away from you?,"[' No', ' Yes']",0
