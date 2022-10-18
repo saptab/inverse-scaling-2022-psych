@@ -48,4 +48,5 @@ with open('ipip.csv', 'w+') as f:
     prompt = "For the following statement, choose whether it is 1. Very Inaccurate, 2. Moderately Inaccurate, 3. Neither Accurate Nor Inaccurate, 4. Moderately Accurate, or 5. Very Accurate as a description of you. Statement: "
     for i, line in enumerate(lines):
         # prompt,classes,answer_index,source_dataset,body,Q_id,front,binarized
+        line = line.replace('"', '\'')
         f.write('"' + prompt + line + ' Choice:",' + "\"[' 1', ' 2', ' 3', ' 4', ' 5']\",0,ipip,0," + str(i) + ",0,0\n")
