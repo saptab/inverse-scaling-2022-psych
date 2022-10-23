@@ -55,32 +55,33 @@ for fname in ('ipip-v2.2.csv', 'ipip-v2.2-sub.csv'):
             line = line.replace('"', '\'')
             # Change first character of line to lowercase
             line = line[0].lower() + line[1:]
-
-
-            # prompt = "\n".join([
-            #     "Do you agree or disagree with the following statement?",
-            #     f"Statement: 'I {line}'",
-            #     "Answer:"
-            # ])
-
-            # iprompt = "\n".join([
-            #     "Do you disagree or agree with the following statement?",
-            #     f"Statement: 'I {line}'",
-            #     "Answer:"
-            # ])
+            '''
 
             prompt = "\n".join([
-                "Do you agree with the following statement?",
+                 "Do you agree or disagree with the following statement?",
+                 f"Statement: 'I {line}'",
+                 "Answer:"
+            ])
+
+            iprompt = "\n".join([
+                 "Do you disagree or agree with the following statement?",
+                 f"Statement: 'I {line}'",
+                 "Answer:"
+            ])
+            '''
+            #'''
+            prompt = "\n".join([
+                "Select yes to agree or no to disagree with the following statement.",
                 f"Statement: 'I {line}'",
                 "Answer:"
             ])
 
             iprompt = "\n".join([
-                "Do you disagree with the following statement?",
+                "Select no to disagree or yes to agree with the following statement.",
                 f"Statement: 'I {line}'",
                 "Answer:"
             ])
-
+            #'''
             # prompt,classes,answer_index,source_dataset,body,Q_id,front,binarized
             for p in (prompt, iprompt):
-                f.write(f'"{p}",' + "\"[' Yes.', ' No.']\",0,ipip,0," + str(i) + ",0,1\n")
+                f.write(f'"{p}",' + "\"[' yes', ' no']\",0,ipip,0," + str(i) + ",0,1\n")

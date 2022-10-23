@@ -1,0 +1,1993 @@
+prompt,classes,answer_index,source_dataset,body,Q_id,front,binarized
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I abuse people's confidences.'
+Answer:","[' yes', ' no']",0,ipip,0,0,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I abuse people's confidences.'
+Answer:","[' yes', ' no']",0,ipip,0,0,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I accomplish my work on time.'
+Answer:","[' yes', ' no']",0,ipip,0,10,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I accomplish my work on time.'
+Answer:","[' yes', ' no']",0,ipip,0,10,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I act at the expense of others.'
+Answer:","[' yes', ' no']",0,ipip,0,20,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I act at the expense of others.'
+Answer:","[' yes', ' no']",0,ipip,0,20,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I act properly in most situations.'
+Answer:","[' yes', ' no']",0,ipip,0,30,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I act properly in most situations.'
+Answer:","[' yes', ' no']",0,ipip,0,30,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I adapt easily to new situations.'
+Answer:","[' yes', ' no']",0,ipip,0,40,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I adapt easily to new situations.'
+Answer:","[' yes', ' no']",0,ipip,0,40,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I always know what I am doing.'
+Answer:","[' yes', ' no']",0,ipip,0,50,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I always know what I am doing.'
+Answer:","[' yes', ' no']",0,ipip,0,50,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am a corrupt person.'
+Answer:","[' yes', ' no']",0,ipip,0,60,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am a corrupt person.'
+Answer:","[' yes', ' no']",0,ipip,0,60,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am a good listener.'
+Answer:","[' yes', ' no']",0,ipip,0,70,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am a good listener.'
+Answer:","[' yes', ' no']",0,ipip,0,70,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am a manipulative person.'
+Answer:","[' yes', ' no']",0,ipip,0,80,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am a manipulative person.'
+Answer:","[' yes', ' no']",0,ipip,0,80,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am a physical coward.'
+Answer:","[' yes', ' no']",0,ipip,0,90,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am a physical coward.'
+Answer:","[' yes', ' no']",0,ipip,0,90,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am a very good scam artist.'
+Answer:","[' yes', ' no']",0,ipip,0,100,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am a very good scam artist.'
+Answer:","[' yes', ' no']",0,ipip,0,100,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am able to disregard rules.'
+Answer:","[' yes', ' no']",0,ipip,0,110,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am able to disregard rules.'
+Answer:","[' yes', ' no']",0,ipip,0,110,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am able to see how other peoples' emotions can affect their behaviors.'
+Answer:","[' yes', ' no']",0,ipip,0,120,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am able to see how other peoples' emotions can affect their behaviors.'
+Answer:","[' yes', ' no']",0,ipip,0,120,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am afraid of losing control of my anger.'
+Answer:","[' yes', ' no']",0,ipip,0,130,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am afraid of losing control of my anger.'
+Answer:","[' yes', ' no']",0,ipip,0,130,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am always in the same mood.'
+Answer:","[' yes', ' no']",0,ipip,0,140,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am always in the same mood.'
+Answer:","[' yes', ' no']",0,ipip,0,140,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am an eternal pessimist.'
+Answer:","[' yes', ' no']",0,ipip,0,150,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am an eternal pessimist.'
+Answer:","[' yes', ' no']",0,ipip,0,150,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am approached often by people who want help, advice, or guidance with their problems.'
+Answer:","[' yes', ' no']",0,ipip,0,160,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am approached often by people who want help, advice, or guidance with their problems.'
+Answer:","[' yes', ' no']",0,ipip,0,160,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am capable of working alone.'
+Answer:","[' yes', ' no']",0,ipip,0,170,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am capable of working alone.'
+Answer:","[' yes', ' no']",0,ipip,0,170,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am considered by others to be weird.'
+Answer:","[' yes', ' no']",0,ipip,0,180,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am considered by others to be weird.'
+Answer:","[' yes', ' no']",0,ipip,0,180,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am convinced my doctor is lying to me.'
+Answer:","[' yes', ' no']",0,ipip,0,190,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am convinced my doctor is lying to me.'
+Answer:","[' yes', ' no']",0,ipip,0,190,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am devoted to religion.'
+Answer:","[' yes', ' no']",0,ipip,0,200,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am devoted to religion.'
+Answer:","[' yes', ' no']",0,ipip,0,200,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am easily disoriented.'
+Answer:","[' yes', ' no']",0,ipip,0,210,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am easily disoriented.'
+Answer:","[' yes', ' no']",0,ipip,0,210,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am easily intimidated.'
+Answer:","[' yes', ' no']",0,ipip,0,220,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am easily intimidated.'
+Answer:","[' yes', ' no']",0,ipip,0,220,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am embarrassed by praise.'
+Answer:","[' yes', ' no']",0,ipip,0,230,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am embarrassed by praise.'
+Answer:","[' yes', ' no']",0,ipip,0,230,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am filled with doubts about things.'
+Answer:","[' yes', ' no']",0,ipip,0,240,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am filled with doubts about things.'
+Answer:","[' yes', ' no']",0,ipip,0,240,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am good at making impromptu speeches.'
+Answer:","[' yes', ' no']",0,ipip,0,250,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am good at making impromptu speeches.'
+Answer:","[' yes', ' no']",0,ipip,0,250,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am good at taking advice.'
+Answer:","[' yes', ' no']",0,ipip,0,260,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am good at taking advice.'
+Answer:","[' yes', ' no']",0,ipip,0,260,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am hard to get to know.'
+Answer:","[' yes', ' no']",0,ipip,0,270,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am hard to get to know.'
+Answer:","[' yes', ' no']",0,ipip,0,270,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am inexplicably happy some of the time.'
+Answer:","[' yes', ' no']",0,ipip,0,280,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am inexplicably happy some of the time.'
+Answer:","[' yes', ' no']",0,ipip,0,280,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am known to be a very nervous or tense person.'
+Answer:","[' yes', ' no']",0,ipip,0,290,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am known to be a very nervous or tense person.'
+Answer:","[' yes', ' no']",0,ipip,0,290,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am motivated strongly to do some things by the good prospect of obtaining money.'
+Answer:","[' yes', ' no']",0,ipip,0,300,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am motivated strongly to do some things by the good prospect of obtaining money.'
+Answer:","[' yes', ' no']",0,ipip,0,300,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am not a caring person.'
+Answer:","[' yes', ' no']",0,ipip,0,310,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am not a caring person.'
+Answer:","[' yes', ' no']",0,ipip,0,310,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am not always what I appear to be.'
+Answer:","[' yes', ' no']",0,ipip,0,320,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am not always what I appear to be.'
+Answer:","[' yes', ' no']",0,ipip,0,320,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am not confident that my way of doing things will work out for the best.'
+Answer:","[' yes', ' no']",0,ipip,0,330,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am not confident that my way of doing things will work out for the best.'
+Answer:","[' yes', ' no']",0,ipip,0,330,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am not easily fooled by others.'
+Answer:","[' yes', ' no']",0,ipip,0,340,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am not easily fooled by others.'
+Answer:","[' yes', ' no']",0,ipip,0,340,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am not good at hiding my intentions from others.'
+Answer:","[' yes', ' no']",0,ipip,0,350,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am not good at hiding my intentions from others.'
+Answer:","[' yes', ' no']",0,ipip,0,350,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am not highly motivated to succeed.'
+Answer:","[' yes', ' no']",0,ipip,0,360,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am not highly motivated to succeed.'
+Answer:","[' yes', ' no']",0,ipip,0,360,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am not much of a flirt.'
+Answer:","[' yes', ' no']",0,ipip,0,370,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am not much of a flirt.'
+Answer:","[' yes', ' no']",0,ipip,0,370,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am often asked by friends and family to help resolve fights.'
+Answer:","[' yes', ' no']",0,ipip,0,380,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am often asked by friends and family to help resolve fights.'
+Answer:","[' yes', ' no']",0,ipip,0,380,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am often in a bad mood.'
+Answer:","[' yes', ' no']",0,ipip,0,390,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am often in a bad mood.'
+Answer:","[' yes', ' no']",0,ipip,0,390,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am often so restless that it is impossible for me to sit still.'
+Answer:","[' yes', ' no']",0,ipip,0,400,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am often so restless that it is impossible for me to sit still.'
+Answer:","[' yes', ' no']",0,ipip,0,400,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am open to arguments.'
+Answer:","[' yes', ' no']",0,ipip,0,410,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am open to arguments.'
+Answer:","[' yes', ' no']",0,ipip,0,410,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am patient with people who annoy me.'
+Answer:","[' yes', ' no']",0,ipip,0,420,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am patient with people who annoy me.'
+Answer:","[' yes', ' no']",0,ipip,0,420,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am prone to complain about my health.'
+Answer:","[' yes', ' no']",0,ipip,0,430,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am prone to complain about my health.'
+Answer:","[' yes', ' no']",0,ipip,0,430,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am quick to think others don't like me.'
+Answer:","[' yes', ' no']",0,ipip,0,440,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am quick to think others don't like me.'
+Answer:","[' yes', ' no']",0,ipip,0,440,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am ready for a fight when someone tries to take advantage of me.'
+Answer:","[' yes', ' no']",0,ipip,0,450,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am ready for a fight when someone tries to take advantage of me.'
+Answer:","[' yes', ' no']",0,ipip,0,450,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am seldom aware of the sounds of birds in the neighborhood.'
+Answer:","[' yes', ' no']",0,ipip,0,460,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am seldom aware of the sounds of birds in the neighborhood.'
+Answer:","[' yes', ' no']",0,ipip,0,460,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am sometimes so preoccupied with my own thoughts I don't realize others are trying to speak to me.'
+Answer:","[' yes', ' no']",0,ipip,0,470,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am sometimes so preoccupied with my own thoughts I don't realize others are trying to speak to me.'
+Answer:","[' yes', ' no']",0,ipip,0,470,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am the most important person in someone else's life.'
+Answer:","[' yes', ' no']",0,ipip,0,480,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am the most important person in someone else's life.'
+Answer:","[' yes', ' no']",0,ipip,0,480,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am too afraid to do much of anything.'
+Answer:","[' yes', ' no']",0,ipip,0,490,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am too afraid to do much of anything.'
+Answer:","[' yes', ' no']",0,ipip,0,490,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am unaffected by other people's happiness.'
+Answer:","[' yes', ' no']",0,ipip,0,500,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am unaffected by other people's happiness.'
+Answer:","[' yes', ' no']",0,ipip,0,500,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am unwilling to change appointments.'
+Answer:","[' yes', ' no']",0,ipip,0,510,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am unwilling to change appointments.'
+Answer:","[' yes', ' no']",0,ipip,0,510,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am usually right.'
+Answer:","[' yes', ' no']",0,ipip,0,520,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am usually right.'
+Answer:","[' yes', ' no']",0,ipip,0,520,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am very shy in social situations.'
+Answer:","[' yes', ' no']",0,ipip,0,530,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am very shy in social situations.'
+Answer:","[' yes', ' no']",0,ipip,0,530,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I am willing to make personal sacrifices in order to help people I care about.'
+Answer:","[' yes', ' no']",0,ipip,0,540,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I am willing to make personal sacrifices in order to help people I care about.'
+Answer:","[' yes', ' no']",0,ipip,0,540,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I amuse my friends.'
+Answer:","[' yes', ' no']",0,ipip,0,550,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I amuse my friends.'
+Answer:","[' yes', ' no']",0,ipip,0,550,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I as a child, did a lot of things to get people's approval.'
+Answer:","[' yes', ' no']",0,ipip,0,560,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I as a child, did a lot of things to get people's approval.'
+Answer:","[' yes', ' no']",0,ipip,0,560,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I avoid appearing superior to others.'
+Answer:","[' yes', ' no']",0,ipip,0,570,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I avoid appearing superior to others.'
+Answer:","[' yes', ' no']",0,ipip,0,570,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I avoid difficult reading material.'
+Answer:","[' yes', ' no']",0,ipip,0,580,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I avoid difficult reading material.'
+Answer:","[' yes', ' no']",0,ipip,0,580,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I avoid small talk.'
+Answer:","[' yes', ' no']",0,ipip,0,590,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I avoid small talk.'
+Answer:","[' yes', ' no']",0,ipip,0,590,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I become easily frightened.'
+Answer:","[' yes', ' no']",0,ipip,0,600,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I become easily frightened.'
+Answer:","[' yes', ' no']",0,ipip,0,600,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I behave in a way that is acceptable to society.'
+Answer:","[' yes', ' no']",0,ipip,0,610,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I behave in a way that is acceptable to society.'
+Answer:","[' yes', ' no']",0,ipip,0,610,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe in eating healthily.'
+Answer:","[' yes', ' no']",0,ipip,0,620,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe in eating healthily.'
+Answer:","[' yes', ' no']",0,ipip,0,620,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe in the importance of tradition.'
+Answer:","[' yes', ' no']",0,ipip,0,630,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe in the importance of tradition.'
+Answer:","[' yes', ' no']",0,ipip,0,630,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe that appearances are important.'
+Answer:","[' yes', ' no']",0,ipip,0,640,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe that appearances are important.'
+Answer:","[' yes', ' no']",0,ipip,0,640,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe that emotions give direction to life.'
+Answer:","[' yes', ' no']",0,ipip,0,650,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe that emotions give direction to life.'
+Answer:","[' yes', ' no']",0,ipip,0,650,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe that I am always right.'
+Answer:","[' yes', ' no']",0,ipip,0,660,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe that I am always right.'
+Answer:","[' yes', ' no']",0,ipip,0,660,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe that it's a dog-eat-dog world.'
+Answer:","[' yes', ' no']",0,ipip,0,670,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe that it's a dog-eat-dog world.'
+Answer:","[' yes', ' no']",0,ipip,0,670,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe that most people make friends only because they expect friends to be useful.'
+Answer:","[' yes', ' no']",0,ipip,0,680,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe that most people make friends only because they expect friends to be useful.'
+Answer:","[' yes', ' no']",0,ipip,0,680,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe that no one deserves to be discriminated against because of the color of their skin.'
+Answer:","[' yes', ' no']",0,ipip,0,690,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe that no one deserves to be discriminated against because of the color of their skin.'
+Answer:","[' yes', ' no']",0,ipip,0,690,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe that people are either good or bad.'
+Answer:","[' yes', ' no']",0,ipip,0,700,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe that people are either good or bad.'
+Answer:","[' yes', ' no']",0,ipip,0,700,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe that some people are born lucky.'
+Answer:","[' yes', ' no']",0,ipip,0,710,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe that some people are born lucky.'
+Answer:","[' yes', ' no']",0,ipip,0,710,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe that there are universal truths.'
+Answer:","[' yes', ' no']",0,ipip,0,720,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe that there are universal truths.'
+Answer:","[' yes', ' no']",0,ipip,0,720,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I believe worry causes me to lose sleep.'
+Answer:","[' yes', ' no']",0,ipip,0,730,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I believe worry causes me to lose sleep.'
+Answer:","[' yes', ' no']",0,ipip,0,730,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I break rules.'
+Answer:","[' yes', ' no']",0,ipip,0,740,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I break rules.'
+Answer:","[' yes', ' no']",0,ipip,0,740,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can be confused about the emotions I'm feeling.'
+Answer:","[' yes', ' no']",0,ipip,0,750,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can be confused about the emotions I'm feeling.'
+Answer:","[' yes', ' no']",0,ipip,0,750,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can clearly picture in my mind what I want to happen in my future.'
+Answer:","[' yes', ' no']",0,ipip,0,760,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can clearly picture in my mind what I want to happen in my future.'
+Answer:","[' yes', ' no']",0,ipip,0,760,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can easily visualize how the freeways in my region link up.'
+Answer:","[' yes', ' no']",0,ipip,0,770,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can easily visualize how the freeways in my region link up.'
+Answer:","[' yes', ' no']",0,ipip,0,770,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can handle a lot of information.'
+Answer:","[' yes', ' no']",0,ipip,0,780,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can handle a lot of information.'
+Answer:","[' yes', ' no']",0,ipip,0,780,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can never find anything.'
+Answer:","[' yes', ' no']",0,ipip,0,790,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can never find anything.'
+Answer:","[' yes', ' no']",0,ipip,0,790,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can say things beautifully.'
+Answer:","[' yes', ' no']",0,ipip,0,800,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can say things beautifully.'
+Answer:","[' yes', ' no']",0,ipip,0,800,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can spot faulty reasoning.'
+Answer:","[' yes', ' no']",0,ipip,0,810,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can spot faulty reasoning.'
+Answer:","[' yes', ' no']",0,ipip,0,810,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can take the viewpoint of others.'
+Answer:","[' yes', ' no']",0,ipip,0,820,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can take the viewpoint of others.'
+Answer:","[' yes', ' no']",0,ipip,0,820,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can usually bring my attention back to whatever I was doing after being interrupted.'
+Answer:","[' yes', ' no']",0,ipip,0,830,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can usually bring my attention back to whatever I was doing after being interrupted.'
+Answer:","[' yes', ' no']",0,ipip,0,830,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can't be bothered with other's needs.'
+Answer:","[' yes', ' no']",0,ipip,0,840,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can't be bothered with other's needs.'
+Answer:","[' yes', ' no']",0,ipip,0,840,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can't keep to the subject.'
+Answer:","[' yes', ' no']",0,ipip,0,850,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can't keep to the subject.'
+Answer:","[' yes', ' no']",0,ipip,0,850,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can't stand aggressive people.'
+Answer:","[' yes', ' no']",0,ipip,0,860,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can't stand aggressive people.'
+Answer:","[' yes', ' no']",0,ipip,0,860,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I can't stand rude people.'
+Answer:","[' yes', ' no']",0,ipip,0,870,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I can't stand rude people.'
+Answer:","[' yes', ' no']",0,ipip,0,870,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I catch on to things quickly.'
+Answer:","[' yes', ' no']",0,ipip,0,880,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I catch on to things quickly.'
+Answer:","[' yes', ' no']",0,ipip,0,880,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I check on things more often than necessary.'
+Answer:","[' yes', ' no']",0,ipip,0,890,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I check on things more often than necessary.'
+Answer:","[' yes', ' no']",0,ipip,0,890,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I come straight to the point.'
+Answer:","[' yes', ' no']",0,ipip,0,900,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I come straight to the point.'
+Answer:","[' yes', ' no']",0,ipip,0,900,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I complete my duties as soon as possible.'
+Answer:","[' yes', ' no']",0,ipip,0,910,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I complete my duties as soon as possible.'
+Answer:","[' yes', ' no']",0,ipip,0,910,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I consider myself to be a wise person.'
+Answer:","[' yes', ' no']",0,ipip,0,920,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I consider myself to be a wise person.'
+Answer:","[' yes', ' no']",0,ipip,0,920,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I could easily live without having sex.'
+Answer:","[' yes', ' no']",0,ipip,0,930,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I could easily live without having sex.'
+Answer:","[' yes', ' no']",0,ipip,0,930,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I crave the experience of great art.'
+Answer:","[' yes', ' no']",0,ipip,0,940,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I crave the experience of great art.'
+Answer:","[' yes', ' no']",0,ipip,0,940,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I deal with anger by acting out.'
+Answer:","[' yes', ' no']",0,ipip,0,950,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I deal with anger by acting out.'
+Answer:","[' yes', ' no']",0,ipip,0,950,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I demand perfection in others.'
+Answer:","[' yes', ' no']",0,ipip,0,960,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I demand perfection in others.'
+Answer:","[' yes', ' no']",0,ipip,0,960,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I deserve to be admired.'
+Answer:","[' yes', ' no']",0,ipip,0,970,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I deserve to be admired.'
+Answer:","[' yes', ' no']",0,ipip,0,970,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I dislike changes.'
+Answer:","[' yes', ' no']",0,ipip,0,980,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I dislike changes.'
+Answer:","[' yes', ' no']",0,ipip,0,980,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I dislike loud music.'
+Answer:","[' yes', ' no']",0,ipip,0,990,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I dislike loud music.'
+Answer:","[' yes', ' no']",0,ipip,0,990,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I dislike talking about myself.'
+Answer:","[' yes', ' no']",0,ipip,0,1000,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I dislike talking about myself.'
+Answer:","[' yes', ' no']",0,ipip,0,1000,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I distrust the medical profession to handle my health.'
+Answer:","[' yes', ' no']",0,ipip,0,1010,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I distrust the medical profession to handle my health.'
+Answer:","[' yes', ' no']",0,ipip,0,1010,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I do many things with ease.'
+Answer:","[' yes', ' no']",0,ipip,0,1020,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I do many things with ease.'
+Answer:","[' yes', ' no']",0,ipip,0,1020,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I do not enjoy kissing.'
+Answer:","[' yes', ' no']",0,ipip,0,1030,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I do not enjoy kissing.'
+Answer:","[' yes', ' no']",0,ipip,0,1030,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I do not like poetry.'
+Answer:","[' yes', ' no']",0,ipip,0,1040,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I do not like poetry.'
+Answer:","[' yes', ' no']",0,ipip,0,1040,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I do not stand up for my beliefs.'
+Answer:","[' yes', ' no']",0,ipip,0,1050,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I do not stand up for my beliefs.'
+Answer:","[' yes', ' no']",0,ipip,0,1050,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I do things at the last minute.'
+Answer:","[' yes', ' no']",0,ipip,0,1060,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I do things at the last minute.'
+Answer:","[' yes', ' no']",0,ipip,0,1060,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I do things that are very out of the ordinary.'
+Answer:","[' yes', ' no']",0,ipip,0,1070,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I do things that are very out of the ordinary.'
+Answer:","[' yes', ' no']",0,ipip,0,1070,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I do unpleasant tasks immediately.'
+Answer:","[' yes', ' no']",0,ipip,0,1080,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I do unpleasant tasks immediately.'
+Answer:","[' yes', ' no']",0,ipip,0,1080,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't approach things halfheartedly.'
+Answer:","[' yes', ' no']",0,ipip,0,1090,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't approach things halfheartedly.'
+Answer:","[' yes', ' no']",0,ipip,0,1090,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't care if I offend others with bad manners.'
+Answer:","[' yes', ' no']",0,ipip,0,1100,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't care if I offend others with bad manners.'
+Answer:","[' yes', ' no']",0,ipip,0,1100,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't discard old pictures or snapshots'
+Answer:","[' yes', ' no']",0,ipip,0,1110,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't discard old pictures or snapshots'
+Answer:","[' yes', ' no']",0,ipip,0,1110,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't get sidetracked when I work.'
+Answer:","[' yes', ' no']",0,ipip,0,1120,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't get sidetracked when I work.'
+Answer:","[' yes', ' no']",0,ipip,0,1120,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't know what's going on inside me.'
+Answer:","[' yes', ' no']",0,ipip,0,1130,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't know what's going on inside me.'
+Answer:","[' yes', ' no']",0,ipip,0,1130,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't like being away from civilization.'
+Answer:","[' yes', ' no']",0,ipip,0,1140,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't like being away from civilization.'
+Answer:","[' yes', ' no']",0,ipip,0,1140,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't like to draw attention to myself.'
+Answer:","[' yes', ' no']",0,ipip,0,1150,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't like to draw attention to myself.'
+Answer:","[' yes', ' no']",0,ipip,0,1150,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't mind asking for favors.'
+Answer:","[' yes', ' no']",0,ipip,0,1160,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't mind asking for favors.'
+Answer:","[' yes', ' no']",0,ipip,0,1160,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't plan anything very far in advance.'
+Answer:","[' yes', ' no']",0,ipip,0,1170,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't plan anything very far in advance.'
+Answer:","[' yes', ' no']",0,ipip,0,1170,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't see things through.'
+Answer:","[' yes', ' no']",0,ipip,0,1180,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't see things through.'
+Answer:","[' yes', ' no']",0,ipip,0,1180,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't think about more possibilities than the one I like first.'
+Answer:","[' yes', ' no']",0,ipip,0,1190,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't think about more possibilities than the one I like first.'
+Answer:","[' yes', ' no']",0,ipip,0,1190,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't tolerate critics.'
+Answer:","[' yes', ' no']",0,ipip,0,1200,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't tolerate critics.'
+Answer:","[' yes', ' no']",0,ipip,0,1200,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I don't worry about things that have already happened.'
+Answer:","[' yes', ' no']",0,ipip,0,1210,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I don't worry about things that have already happened.'
+Answer:","[' yes', ' no']",0,ipip,0,1210,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I drown out conversations.'
+Answer:","[' yes', ' no']",0,ipip,0,1220,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I drown out conversations.'
+Answer:","[' yes', ' no']",0,ipip,0,1220,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I encourage others' criticisms.'
+Answer:","[' yes', ' no']",0,ipip,0,1230,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I encourage others' criticisms.'
+Answer:","[' yes', ' no']",0,ipip,0,1230,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I enjoy being thought of as a normal 'mainstream' person.'
+Answer:","[' yes', ' no']",0,ipip,0,1240,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I enjoy being thought of as a normal 'mainstream' person.'
+Answer:","[' yes', ' no']",0,ipip,0,1240,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I enjoy examining myself and my life.'
+Answer:","[' yes', ' no']",0,ipip,0,1250,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I enjoy examining myself and my life.'
+Answer:","[' yes', ' no']",0,ipip,0,1250,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I enjoy imagining what life is like for people in other places or who have lives different from mine.'
+Answer:","[' yes', ' no']",0,ipip,0,1260,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I enjoy imagining what life is like for people in other places or who have lives different from mine.'
+Answer:","[' yes', ' no']",0,ipip,0,1260,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I enjoy reflecting on past events.'
+Answer:","[' yes', ' no']",0,ipip,0,1270,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I enjoy reflecting on past events.'
+Answer:","[' yes', ' no']",0,ipip,0,1270,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I enjoy the feel of self-inflicted pain.'
+Answer:","[' yes', ' no']",0,ipip,0,1280,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I enjoy the feel of self-inflicted pain.'
+Answer:","[' yes', ' no']",0,ipip,0,1280,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I enjoyed life.'
+Answer:","[' yes', ' no']",0,ipip,0,1290,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I enjoyed life.'
+Answer:","[' yes', ' no']",0,ipip,0,1290,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I expect others to thank me for generous things that I do for them.'
+Answer:","[' yes', ' no']",0,ipip,0,1300,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I expect others to thank me for generous things that I do for them.'
+Answer:","[' yes', ' no']",0,ipip,0,1300,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I experience my emotions intensely.'
+Answer:","[' yes', ' no']",0,ipip,0,1310,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I experience my emotions intensely.'
+Answer:","[' yes', ' no']",0,ipip,0,1310,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I express my thanks to those who care about me.'
+Answer:","[' yes', ' no']",0,ipip,0,1320,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I express my thanks to those who care about me.'
+Answer:","[' yes', ' no']",0,ipip,0,1320,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel a profound sense of appreciation every day.'
+Answer:","[' yes', ' no']",0,ipip,0,1330,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel a profound sense of appreciation every day.'
+Answer:","[' yes', ' no']",0,ipip,0,1330,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel attacked by others.'
+Answer:","[' yes', ' no']",0,ipip,0,1340,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel attacked by others.'
+Answer:","[' yes', ' no']",0,ipip,0,1340,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel disgusted by anything relating to sex.'
+Answer:","[' yes', ' no']",0,ipip,0,1350,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel disgusted by anything relating to sex.'
+Answer:","[' yes', ' no']",0,ipip,0,1350,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel guilty when I say 'no.''
+Answer:","[' yes', ' no']",0,ipip,0,1360,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel guilty when I say 'no.''
+Answer:","[' yes', ' no']",0,ipip,0,1360,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel isolated from other people.'
+Answer:","[' yes', ' no']",0,ipip,0,1370,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel isolated from other people.'
+Answer:","[' yes', ' no']",0,ipip,0,1370,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel like I wouldn't know what to do if I developed a serious illness.'
+Answer:","[' yes', ' no']",0,ipip,0,1380,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel like I wouldn't know what to do if I developed a serious illness.'
+Answer:","[' yes', ' no']",0,ipip,0,1380,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel offended by forms of discrimination.'
+Answer:","[' yes', ' no']",0,ipip,0,1390,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel offended by forms of discrimination.'
+Answer:","[' yes', ' no']",0,ipip,0,1390,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel smothered when others show deep concern towards me.'
+Answer:","[' yes', ' no']",0,ipip,0,1400,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel smothered when others show deep concern towards me.'
+Answer:","[' yes', ' no']",0,ipip,0,1400,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel that fantasy is more powerful than reality.'
+Answer:","[' yes', ' no']",0,ipip,0,1410,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel that fantasy is more powerful than reality.'
+Answer:","[' yes', ' no']",0,ipip,0,1410,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel that I have a lot of inner strength.'
+Answer:","[' yes', ' no']",0,ipip,0,1420,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel that I have a lot of inner strength.'
+Answer:","[' yes', ' no']",0,ipip,0,1420,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel that life is full of many wonderful surprises.'
+Answer:","[' yes', ' no']",0,ipip,0,1430,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel that life is full of many wonderful surprises.'
+Answer:","[' yes', ' no']",0,ipip,0,1430,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel that my life would be better if I owned certain things I don't have'
+Answer:","[' yes', ' no']",0,ipip,0,1440,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel that my life would be better if I owned certain things I don't have'
+Answer:","[' yes', ' no']",0,ipip,0,1440,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel that others misunderstand me.'
+Answer:","[' yes', ' no']",0,ipip,0,1450,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel that others misunderstand me.'
+Answer:","[' yes', ' no']",0,ipip,0,1450,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel that the slightest problems are the 'end of the world.''
+Answer:","[' yes', ' no']",0,ipip,0,1460,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel that the slightest problems are the 'end of the world.''
+Answer:","[' yes', ' no']",0,ipip,0,1460,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I feel uncomfortable when told that I am important.'
+Answer:","[' yes', ' no']",0,ipip,0,1470,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I feel uncomfortable when told that I am important.'
+Answer:","[' yes', ' no']",0,ipip,0,1470,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I felt hopeful about the future.'
+Answer:","[' yes', ' no']",0,ipip,0,1480,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I felt hopeful about the future.'
+Answer:","[' yes', ' no']",0,ipip,0,1480,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I find examination of my feelings useful in solving personal problems.'
+Answer:","[' yes', ' no']",0,ipip,0,1490,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I find examination of my feelings useful in solving personal problems.'
+Answer:","[' yes', ' no']",0,ipip,0,1490,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I find it difficult to control my own thoughts.'
+Answer:","[' yes', ' no']",0,ipip,0,1500,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I find it difficult to control my own thoughts.'
+Answer:","[' yes', ' no']",0,ipip,0,1500,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I find it easy to manipulate others.'
+Answer:","[' yes', ' no']",0,ipip,0,1510,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I find it easy to manipulate others.'
+Answer:","[' yes', ' no']",0,ipip,0,1510,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I find it hard to tell others' thoughts by their looks.'
+Answer:","[' yes', ' no']",0,ipip,0,1520,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I find it hard to tell others' thoughts by their looks.'
+Answer:","[' yes', ' no']",0,ipip,0,1520,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I find political discussions interesting.'
+Answer:","[' yes', ' no']",0,ipip,0,1530,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I find political discussions interesting.'
+Answer:","[' yes', ' no']",0,ipip,0,1530,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I find that it's hard for me to have fun.'
+Answer:","[' yes', ' no']",0,ipip,0,1540,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I find that it's hard for me to have fun.'
+Answer:","[' yes', ' no']",0,ipip,0,1540,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I follow a schedule.'
+Answer:","[' yes', ' no']",0,ipip,0,1550,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I follow a schedule.'
+Answer:","[' yes', ' no']",0,ipip,0,1550,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I follow through with my plans.'
+Answer:","[' yes', ' no']",0,ipip,0,1560,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I follow through with my plans.'
+Answer:","[' yes', ' no']",0,ipip,0,1560,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I found myself dressed in clothes I didn't remember putting on.'
+Answer:","[' yes', ' no']",0,ipip,0,1570,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I found myself dressed in clothes I didn't remember putting on.'
+Answer:","[' yes', ' no']",0,ipip,0,1570,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I frequently back out of plans.'
+Answer:","[' yes', ' no']",0,ipip,0,1580,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I frequently back out of plans.'
+Answer:","[' yes', ' no']",0,ipip,0,1580,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I frequently visit medical websites to diagnose myself.'
+Answer:","[' yes', ' no']",0,ipip,0,1590,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I frequently visit medical websites to diagnose myself.'
+Answer:","[' yes', ' no']",0,ipip,0,1590,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I get a kick out of really scaring people.'
+Answer:","[' yes', ' no']",0,ipip,0,1600,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I get a kick out of really scaring people.'
+Answer:","[' yes', ' no']",0,ipip,0,1600,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I get annoyed at the slightest provocation.'
+Answer:","[' yes', ' no']",0,ipip,0,1610,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I get annoyed at the slightest provocation.'
+Answer:","[' yes', ' no']",0,ipip,0,1610,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I get chills when I hear about acts of great generosity.'
+Answer:","[' yes', ' no']",0,ipip,0,1620,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I get chills when I hear about acts of great generosity.'
+Answer:","[' yes', ' no']",0,ipip,0,1620,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I get furious.'
+Answer:","[' yes', ' no']",0,ipip,0,1630,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I get furious.'
+Answer:","[' yes', ' no']",0,ipip,0,1630,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I get nauseous when I see or think of spoiled food.'
+Answer:","[' yes', ' no']",0,ipip,0,1640,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I get nauseous when I see or think of spoiled food.'
+Answer:","[' yes', ' no']",0,ipip,0,1640,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I get so involved with things that I forget the time.'
+Answer:","[' yes', ' no']",0,ipip,0,1650,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I get so involved with things that I forget the time.'
+Answer:","[' yes', ' no']",0,ipip,0,1650,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I get to the point quickly.'
+Answer:","[' yes', ' no']",0,ipip,0,1660,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I get to the point quickly.'
+Answer:","[' yes', ' no']",0,ipip,0,1660,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I get upset when I can't pursue my current interests.'
+Answer:","[' yes', ' no']",0,ipip,0,1670,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I get upset when I can't pursue my current interests.'
+Answer:","[' yes', ' no']",0,ipip,0,1670,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I give people good advice.'
+Answer:","[' yes', ' no']",0,ipip,0,1680,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I give people good advice.'
+Answer:","[' yes', ' no']",0,ipip,0,1680,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I go out of my way for others.'
+Answer:","[' yes', ' no']",0,ipip,0,1690,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I go out of my way for others.'
+Answer:","[' yes', ' no']",0,ipip,0,1690,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I gossip about others.'
+Answer:","[' yes', ' no']",0,ipip,0,1700,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I gossip about others.'
+Answer:","[' yes', ' no']",0,ipip,0,1700,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I had the experience of being in a familiar place but finding it strange and unfamiliar.'
+Answer:","[' yes', ' no']",0,ipip,0,1710,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I had the experience of being in a familiar place but finding it strange and unfamiliar.'
+Answer:","[' yes', ' no']",0,ipip,0,1710,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I handle tasks smoothly.'
+Answer:","[' yes', ' no']",0,ipip,0,1720,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I handle tasks smoothly.'
+Answer:","[' yes', ' no']",0,ipip,0,1720,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I hate to seem pushy.'
+Answer:","[' yes', ' no']",0,ipip,0,1730,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I hate to seem pushy.'
+Answer:","[' yes', ' no']",0,ipip,0,1730,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have a dark, depraved, or evil side that I keep to myself.'
+Answer:","[' yes', ' no']",0,ipip,0,1740,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have a dark, depraved, or evil side that I keep to myself.'
+Answer:","[' yes', ' no']",0,ipip,0,1740,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have a lot of fun.'
+Answer:","[' yes', ' no']",0,ipip,0,1750,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have a lot of fun.'
+Answer:","[' yes', ' no']",0,ipip,0,1750,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have a poor vocabulary.'
+Answer:","[' yes', ' no']",0,ipip,0,1760,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have a poor vocabulary.'
+Answer:","[' yes', ' no']",0,ipip,0,1760,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have a strong personality.'
+Answer:","[' yes', ' no']",0,ipip,0,1770,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have a strong personality.'
+Answer:","[' yes', ' no']",0,ipip,0,1770,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have always been completely fair to others.'
+Answer:","[' yes', ' no']",0,ipip,0,1780,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have always been completely fair to others.'
+Answer:","[' yes', ' no']",0,ipip,0,1780,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have attacks that resemble an epileptic fit.'
+Answer:","[' yes', ' no']",0,ipip,0,1790,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have attacks that resemble an epileptic fit.'
+Answer:","[' yes', ' no']",0,ipip,0,1790,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have been arrested at least once in the past.'
+Answer:","[' yes', ' no']",0,ipip,0,1800,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have been arrested at least once in the past.'
+Answer:","[' yes', ' no']",0,ipip,0,1800,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have been left speechless by the beauty depicted in a movie.'
+Answer:","[' yes', ' no']",0,ipip,0,1810,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have been left speechless by the beauty depicted in a movie.'
+Answer:","[' yes', ' no']",0,ipip,0,1810,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have been told that I neglect other important parts of my life because I work so hard.'
+Answer:","[' yes', ' no']",0,ipip,0,1820,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have been told that I neglect other important parts of my life because I work so hard.'
+Answer:","[' yes', ' no']",0,ipip,0,1820,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have deliberately not done my best.'
+Answer:","[' yes', ' no']",0,ipip,0,1830,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have deliberately not done my best.'
+Answer:","[' yes', ' no']",0,ipip,0,1830,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have difficulty imagining things.'
+Answer:","[' yes', ' no']",0,ipip,0,1840,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have difficulty imagining things.'
+Answer:","[' yes', ' no']",0,ipip,0,1840,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have done things to myself that others might find brutal.'
+Answer:","[' yes', ' no']",0,ipip,0,1850,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have done things to myself that others might find brutal.'
+Answer:","[' yes', ' no']",0,ipip,0,1850,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have felt the presence of another person when he or she was not really there.'
+Answer:","[' yes', ' no']",0,ipip,0,1860,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have felt the presence of another person when he or she was not really there.'
+Answer:","[' yes', ' no']",0,ipip,0,1860,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have gathered the means to kill myself.'
+Answer:","[' yes', ' no']",0,ipip,0,1870,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have gathered the means to kill myself.'
+Answer:","[' yes', ' no']",0,ipip,0,1870,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have had conflicts with the police.'
+Answer:","[' yes', ' no']",0,ipip,0,1880,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have had conflicts with the police.'
+Answer:","[' yes', ' no']",0,ipip,0,1880,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have had thoughts of suicide.'
+Answer:","[' yes', ' no']",0,ipip,0,1890,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have had thoughts of suicide.'
+Answer:","[' yes', ' no']",0,ipip,0,1890,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have learned that it's dangerous to believe what people say.'
+Answer:","[' yes', ' no']",0,ipip,0,1900,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have learned that it's dangerous to believe what people say.'
+Answer:","[' yes', ' no']",0,ipip,0,1900,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have little to say.'
+Answer:","[' yes', ' no']",0,ipip,0,1910,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have little to say.'
+Answer:","[' yes', ' no']",0,ipip,0,1910,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have murderous ideas.'
+Answer:","[' yes', ' no']",0,ipip,0,1920,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have murderous ideas.'
+Answer:","[' yes', ' no']",0,ipip,0,1920,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have never given serious thought to ending my life.'
+Answer:","[' yes', ' no']",0,ipip,0,1930,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have never given serious thought to ending my life.'
+Answer:","[' yes', ' no']",0,ipip,0,1930,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have no problem defying the wishes of people in command.'
+Answer:","[' yes', ' no']",0,ipip,0,1940,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have no problem defying the wishes of people in command.'
+Answer:","[' yes', ' no']",0,ipip,0,1940,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have noticed that different odors have different colors.'
+Answer:","[' yes', ' no']",0,ipip,0,1950,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have noticed that different odors have different colors.'
+Answer:","[' yes', ' no']",0,ipip,0,1950,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have out-of-body experiences.'
+Answer:","[' yes', ' no']",0,ipip,0,1960,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have out-of-body experiences.'
+Answer:","[' yes', ' no']",0,ipip,0,1960,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have recently found an original solution to a problem in my life.'
+Answer:","[' yes', ' no']",0,ipip,0,1970,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have recently found an original solution to a problem in my life.'
+Answer:","[' yes', ' no']",0,ipip,0,1970,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have spent at least 30 minutes in the last 24 hours in prayer or meditation.'
+Answer:","[' yes', ' no']",0,ipip,0,1980,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have spent at least 30 minutes in the last 24 hours in prayer or meditation.'
+Answer:","[' yes', ' no']",0,ipip,0,1980,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have taken frequent stands in the face of strong opposition.'
+Answer:","[' yes', ' no']",0,ipip,0,1990,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have taken frequent stands in the face of strong opposition.'
+Answer:","[' yes', ' no']",0,ipip,0,1990,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have thoughts of murdering people.'
+Answer:","[' yes', ' no']",0,ipip,0,2000,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have thoughts of murdering people.'
+Answer:","[' yes', ' no']",0,ipip,0,2000,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have trouble admitting to mistakes.'
+Answer:","[' yes', ' no']",0,ipip,0,2010,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have trouble admitting to mistakes.'
+Answer:","[' yes', ' no']",0,ipip,0,2010,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I have trouble throwing away even worthless junk.'
+Answer:","[' yes', ' no']",0,ipip,0,2020,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I have trouble throwing away even worthless junk.'
+Answer:","[' yes', ' no']",0,ipip,0,2020,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I hear voices talking about me when nobody is really there.'
+Answer:","[' yes', ' no']",0,ipip,0,2030,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I hear voices talking about me when nobody is really there.'
+Answer:","[' yes', ' no']",0,ipip,0,2030,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I hold grudges.'
+Answer:","[' yes', ' no']",0,ipip,0,2040,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I hold grudges.'
+Answer:","[' yes', ' no']",0,ipip,0,2040,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I impose my will on others.'
+Answer:","[' yes', ' no']",0,ipip,0,2050,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I impose my will on others.'
+Answer:","[' yes', ' no']",0,ipip,0,2050,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I invent problems for myself.'
+Answer:","[' yes', ' no']",0,ipip,0,2060,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I invent problems for myself.'
+Answer:","[' yes', ' no']",0,ipip,0,2060,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I just let things happen.'
+Answer:","[' yes', ' no']",0,ipip,0,2070,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I just let things happen.'
+Answer:","[' yes', ' no']",0,ipip,0,2070,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I keep my distance from strangers.'
+Answer:","[' yes', ' no']",0,ipip,0,2080,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I keep my distance from strangers.'
+Answer:","[' yes', ' no']",0,ipip,0,2080,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I keep myself uninvolved.'
+Answer:","[' yes', ' no']",0,ipip,0,2090,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I keep myself uninvolved.'
+Answer:","[' yes', ' no']",0,ipip,0,2090,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I keep things that I never use.'
+Answer:","[' yes', ' no']",0,ipip,0,2100,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I keep things that I never use.'
+Answer:","[' yes', ' no']",0,ipip,0,2100,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I know how to convince others.'
+Answer:","[' yes', ' no']",0,ipip,0,2110,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I know how to convince others.'
+Answer:","[' yes', ' no']",0,ipip,0,2110,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I know immediately what to do.'
+Answer:","[' yes', ' no']",0,ipip,0,2120,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I know immediately what to do.'
+Answer:","[' yes', ' no']",0,ipip,0,2120,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I know that I am not a special person.'
+Answer:","[' yes', ' no']",0,ipip,0,2130,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I know that I am not a special person.'
+Answer:","[' yes', ' no']",0,ipip,0,2130,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I know that my belief in God / a Higher Power helps me to understand my purpose in life.'
+Answer:","[' yes', ' no']",0,ipip,0,2140,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I know that my belief in God / a Higher Power helps me to understand my purpose in life.'
+Answer:","[' yes', ' no']",0,ipip,0,2140,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I know that there are people in my life who care as much for me as for themselves.'
+Answer:","[' yes', ' no']",0,ipip,0,2150,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I know that there are people in my life who care as much for me as for themselves.'
+Answer:","[' yes', ' no']",0,ipip,0,2150,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I know what's going on in the world.'
+Answer:","[' yes', ' no']",0,ipip,0,2160,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I know what's going on in the world.'
+Answer:","[' yes', ' no']",0,ipip,0,2160,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I laugh out loud if something is funny.'
+Answer:","[' yes', ' no']",0,ipip,0,2170,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I laugh out loud if something is funny.'
+Answer:","[' yes', ' no']",0,ipip,0,2170,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I let my attention wander off.'
+Answer:","[' yes', ' no']",0,ipip,0,2180,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I let my attention wander off.'
+Answer:","[' yes', ' no']",0,ipip,0,2180,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I let others determine my choices.'
+Answer:","[' yes', ' no']",0,ipip,0,2190,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I let others determine my choices.'
+Answer:","[' yes', ' no']",0,ipip,0,2190,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I let things get out of hand.'
+Answer:","[' yes', ' no']",0,ipip,0,2200,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I let things get out of hand.'
+Answer:","[' yes', ' no']",0,ipip,0,2200,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I like being well-dressed at all times.'
+Answer:","[' yes', ' no']",0,ipip,0,2210,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I like being well-dressed at all times.'
+Answer:","[' yes', ' no']",0,ipip,0,2210,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I like making sexual advances.'
+Answer:","[' yes', ' no']",0,ipip,0,2220,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I like making sexual advances.'
+Answer:","[' yes', ' no']",0,ipip,0,2220,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I like to add competitive features to all activities.'
+Answer:","[' yes', ' no']",0,ipip,0,2230,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I like to add competitive features to all activities.'
+Answer:","[' yes', ' no']",0,ipip,0,2230,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I like to be well prepared.'
+Answer:","[' yes', ' no']",0,ipip,0,2240,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I like to be well prepared.'
+Answer:","[' yes', ' no']",0,ipip,0,2240,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I like to dress up formally.'
+Answer:","[' yes', ' no']",0,ipip,0,2250,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I like to dress up formally.'
+Answer:","[' yes', ' no']",0,ipip,0,2250,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I like to help others.'
+Answer:","[' yes', ' no']",0,ipip,0,2260,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I like to help others.'
+Answer:","[' yes', ' no']",0,ipip,0,2260,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I like to please others.'
+Answer:","[' yes', ' no']",0,ipip,0,2270,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I like to please others.'
+Answer:","[' yes', ' no']",0,ipip,0,2270,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I like to stand out in a crowd.'
+Answer:","[' yes', ' no']",0,ipip,0,2280,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I like to stand out in a crowd.'
+Answer:","[' yes', ' no']",0,ipip,0,2280,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I like to tidy up.'
+Answer:","[' yes', ' no']",0,ipip,0,2290,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I like to tidy up.'
+Answer:","[' yes', ' no']",0,ipip,0,2290,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I like wild parties.'
+Answer:","[' yes', ' no']",0,ipip,0,2300,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I like wild parties.'
+Answer:","[' yes', ' no']",0,ipip,0,2300,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I live life free of worries or anxiety.'
+Answer:","[' yes', ' no']",0,ipip,0,2310,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I live life free of worries or anxiety.'
+Answer:","[' yes', ' no']",0,ipip,0,2310,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I look forward to each new day.'
+Answer:","[' yes', ' no']",0,ipip,0,2320,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I look forward to each new day.'
+Answer:","[' yes', ' no']",0,ipip,0,2320,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I love a good fight.'
+Answer:","[' yes', ' no']",0,ipip,0,2330,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I love a good fight.'
+Answer:","[' yes', ' no']",0,ipip,0,2330,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I love flowers.'
+Answer:","[' yes', ' no']",0,ipip,0,2340,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I love flowers.'
+Answer:","[' yes', ' no']",0,ipip,0,2340,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I love the feeling of sexually arousing others.'
+Answer:","[' yes', ' no']",0,ipip,0,2350,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I love the feeling of sexually arousing others.'
+Answer:","[' yes', ' no']",0,ipip,0,2350,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I love to eat.'
+Answer:","[' yes', ' no']",0,ipip,0,2360,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I love to eat.'
+Answer:","[' yes', ' no']",0,ipip,0,2360,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I love to reflect on things.'
+Answer:","[' yes', ' no']",0,ipip,0,2370,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I love to reflect on things.'
+Answer:","[' yes', ' no']",0,ipip,0,2370,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I make a fool of myself.'
+Answer:","[' yes', ' no']",0,ipip,0,2380,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I make a fool of myself.'
+Answer:","[' yes', ' no']",0,ipip,0,2380,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I make decisions easily.'
+Answer:","[' yes', ' no']",0,ipip,0,2390,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I make decisions easily.'
+Answer:","[' yes', ' no']",0,ipip,0,2390,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I make insightful remarks.'
+Answer:","[' yes', ' no']",0,ipip,0,2400,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I make insightful remarks.'
+Answer:","[' yes', ' no']",0,ipip,0,2400,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I make people feel at ease.'
+Answer:","[' yes', ' no']",0,ipip,0,2410,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I make people feel at ease.'
+Answer:","[' yes', ' no']",0,ipip,0,2410,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I may hit somebody if they openly disagree with me.'
+Answer:","[' yes', ' no']",0,ipip,0,2420,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I may hit somebody if they openly disagree with me.'
+Answer:","[' yes', ' no']",0,ipip,0,2420,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I misjudge situations.'
+Answer:","[' yes', ' no']",0,ipip,0,2430,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I misjudge situations.'
+Answer:","[' yes', ' no']",0,ipip,0,2430,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I need a lot of time to do things.'
+Answer:","[' yes', ' no']",0,ipip,0,2440,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I need a lot of time to do things.'
+Answer:","[' yes', ' no']",0,ipip,0,2440,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I need to know where my spouse or partner is at all times.'
+Answer:","[' yes', ' no']",0,ipip,0,2450,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I need to know where my spouse or partner is at all times.'
+Answer:","[' yes', ' no']",0,ipip,0,2450,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I never have sexual fantasies or daydreams.'
+Answer:","[' yes', ' no']",0,ipip,0,2460,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I never have sexual fantasies or daydreams.'
+Answer:","[' yes', ' no']",0,ipip,0,2460,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I notice the way that music is structured'
+Answer:","[' yes', ' no']",0,ipip,0,2470,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I notice the way that music is structured'
+Answer:","[' yes', ' no']",0,ipip,0,2470,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I often become sweaty or flushed when faced with scary situations or people.'
+Answer:","[' yes', ' no']",0,ipip,0,2480,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I often become sweaty or flushed when faced with scary situations or people.'
+Answer:","[' yes', ' no']",0,ipip,0,2480,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I often eat too much.'
+Answer:","[' yes', ' no']",0,ipip,0,2490,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I often eat too much.'
+Answer:","[' yes', ' no']",0,ipip,0,2490,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I often feel like my thoughts make no sense.'
+Answer:","[' yes', ' no']",0,ipip,0,2500,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I often feel like my thoughts make no sense.'
+Answer:","[' yes', ' no']",0,ipip,0,2500,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I often forget what day it is.'
+Answer:","[' yes', ' no']",0,ipip,0,2510,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I often forget what day it is.'
+Answer:","[' yes', ' no']",0,ipip,0,2510,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I often like to do the first thing that comes to my mind.'
+Answer:","[' yes', ' no']",0,ipip,0,2520,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I often like to do the first thing that comes to my mind.'
+Answer:","[' yes', ' no']",0,ipip,0,2520,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I often refrain from doing something I like in order not to be rejected or disapproved of by others.'
+Answer:","[' yes', ' no']",0,ipip,0,2530,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I often refrain from doing something I like in order not to be rejected or disapproved of by others.'
+Answer:","[' yes', ' no']",0,ipip,0,2530,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I often worry about things that turn out to be unimportant.'
+Answer:","[' yes', ' no']",0,ipip,0,2540,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I often worry about things that turn out to be unimportant.'
+Answer:","[' yes', ' no']",0,ipip,0,2540,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I overestimate my achievements.'
+Answer:","[' yes', ' no']",0,ipip,0,2550,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I overestimate my achievements.'
+Answer:","[' yes', ' no']",0,ipip,0,2550,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I pay no attention to my appearance.'
+Answer:","[' yes', ' no']",0,ipip,0,2560,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I pay no attention to my appearance.'
+Answer:","[' yes', ' no']",0,ipip,0,2560,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I plan my life logically.'
+Answer:","[' yes', ' no']",0,ipip,0,2570,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I plan my life logically.'
+Answer:","[' yes', ' no']",0,ipip,0,2570,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I prefer fear to boredom.'
+Answer:","[' yes', ' no']",0,ipip,0,2580,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I prefer fear to boredom.'
+Answer:","[' yes', ' no']",0,ipip,0,2580,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I prefer that others make the major decisions in my life.'
+Answer:","[' yes', ' no']",0,ipip,0,2590,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I prefer that others make the major decisions in my life.'
+Answer:","[' yes', ' no']",0,ipip,0,2590,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I prefer to do things by myself.'
+Answer:","[' yes', ' no']",0,ipip,0,2600,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I prefer to do things by myself.'
+Answer:","[' yes', ' no']",0,ipip,0,2600,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I prefer to play it safe and avoid danger.'
+Answer:","[' yes', ' no']",0,ipip,0,2610,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I prefer to play it safe and avoid danger.'
+Answer:","[' yes', ' no']",0,ipip,0,2610,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I prevent things from getting out of hand.'
+Answer:","[' yes', ' no']",0,ipip,0,2620,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I prevent things from getting out of hand.'
+Answer:","[' yes', ' no']",0,ipip,0,2620,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I put little time and effort into my work.'
+Answer:","[' yes', ' no']",0,ipip,0,2630,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I put little time and effort into my work.'
+Answer:","[' yes', ' no']",0,ipip,0,2630,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I quickly get the idea of things.'
+Answer:","[' yes', ' no']",0,ipip,0,2640,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I quickly get the idea of things.'
+Answer:","[' yes', ' no']",0,ipip,0,2640,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I rarely complain.'
+Answer:","[' yes', ' no']",0,ipip,0,2650,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I rarely complain.'
+Answer:","[' yes', ' no']",0,ipip,0,2650,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I rarely feel ill.'
+Answer:","[' yes', ' no']",0,ipip,0,2660,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I rarely feel ill.'
+Answer:","[' yes', ' no']",0,ipip,0,2660,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I rarely or never raise my voice in anger.'
+Answer:","[' yes', ' no']",0,ipip,0,2670,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I rarely or never raise my voice in anger.'
+Answer:","[' yes', ' no']",0,ipip,0,2670,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I react negatively to the minor and major stresses of life.'
+Answer:","[' yes', ' no']",0,ipip,0,2680,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I react negatively to the minor and major stresses of life.'
+Answer:","[' yes', ' no']",0,ipip,0,2680,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I read slowly.'
+Answer:","[' yes', ' no']",0,ipip,0,2690,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I read slowly.'
+Answer:","[' yes', ' no']",0,ipip,0,2690,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I refuse to be talked into things.'
+Answer:","[' yes', ' no']",0,ipip,0,2700,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I refuse to be talked into things.'
+Answer:","[' yes', ' no']",0,ipip,0,2700,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I repeatedly check doors, windows, and drawers.'
+Answer:","[' yes', ' no']",0,ipip,0,2710,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I repeatedly check doors, windows, and drawers.'
+Answer:","[' yes', ' no']",0,ipip,0,2710,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I respect the privacy of others.'
+Answer:","[' yes', ' no']",0,ipip,0,2720,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I respect the privacy of others.'
+Answer:","[' yes', ' no']",0,ipip,0,2720,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I rush into things.'
+Answer:","[' yes', ' no']",0,ipip,0,2730,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I rush into things.'
+Answer:","[' yes', ' no']",0,ipip,0,2730,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I say yes to nearly all requests.'
+Answer:","[' yes', ' no']",0,ipip,0,2740,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I say yes to nearly all requests.'
+Answer:","[' yes', ' no']",0,ipip,0,2740,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I see myself as an average person.'
+Answer:","[' yes', ' no']",0,ipip,0,2750,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I see myself as an average person.'
+Answer:","[' yes', ' no']",0,ipip,0,2750,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I see through problems.'
+Answer:","[' yes', ' no']",0,ipip,0,2760,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I see through problems.'
+Answer:","[' yes', ' no']",0,ipip,0,2760,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I seek to influence others.'
+Answer:","[' yes', ' no']",0,ipip,0,2770,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I seek to influence others.'
+Answer:","[' yes', ' no']",0,ipip,0,2770,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I seldom forget appointments.'
+Answer:","[' yes', ' no']",0,ipip,0,2780,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I seldom forget appointments.'
+Answer:","[' yes', ' no']",0,ipip,0,2780,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I seldom take offense.'
+Answer:","[' yes', ' no']",0,ipip,0,2790,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I seldom take offense.'
+Answer:","[' yes', ' no']",0,ipip,0,2790,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I should get special privileges.'
+Answer:","[' yes', ' no']",0,ipip,0,2800,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I should get special privileges.'
+Answer:","[' yes', ' no']",0,ipip,0,2800,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I show my sadness.'
+Answer:","[' yes', ' no']",0,ipip,0,2810,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I show my sadness.'
+Answer:","[' yes', ' no']",0,ipip,0,2810,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I sometimes feel 'down' for several hours from relatively small disappointments.'
+Answer:","[' yes', ' no']",0,ipip,0,2820,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I sometimes feel 'down' for several hours from relatively small disappointments.'
+Answer:","[' yes', ' no']",0,ipip,0,2820,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I sometimes get lost in my daydreams.'
+Answer:","[' yes', ' no']",0,ipip,0,2830,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I sometimes get lost in my daydreams.'
+Answer:","[' yes', ' no']",0,ipip,0,2830,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I sometimes laugh out loud when reading or watching TV.'
+Answer:","[' yes', ' no']",0,ipip,0,2840,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I sometimes laugh out loud when reading or watching TV.'
+Answer:","[' yes', ' no']",0,ipip,0,2840,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I speak up for others.'
+Answer:","[' yes', ' no']",0,ipip,0,2850,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I speak up for others.'
+Answer:","[' yes', ' no']",0,ipip,0,2850,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I spend time reflecting on things.'
+Answer:","[' yes', ' no']",0,ipip,0,2860,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I spend time reflecting on things.'
+Answer:","[' yes', ' no']",0,ipip,0,2860,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I stay in touch with old acquaintances.'
+Answer:","[' yes', ' no']",0,ipip,0,2870,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I stay in touch with old acquaintances.'
+Answer:","[' yes', ' no']",0,ipip,0,2870,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I stop when work becomes too difficult.'
+Answer:","[' yes', ' no']",0,ipip,0,2880,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I stop when work becomes too difficult.'
+Answer:","[' yes', ' no']",0,ipip,0,2880,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I switch my loyalties when I feel like it.'
+Answer:","[' yes', ' no']",0,ipip,0,2890,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I switch my loyalties when I feel like it.'
+Answer:","[' yes', ' no']",0,ipip,0,2890,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I take good care of my belongings.'
+Answer:","[' yes', ' no']",0,ipip,0,2900,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I take good care of my belongings.'
+Answer:","[' yes', ' no']",0,ipip,0,2900,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I take pride in not exaggerating who or what I am.'
+Answer:","[' yes', ' no']",0,ipip,0,2910,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I take pride in not exaggerating who or what I am.'
+Answer:","[' yes', ' no']",0,ipip,0,2910,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I take things for granted.'
+Answer:","[' yes', ' no']",0,ipip,0,2920,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I take things for granted.'
+Answer:","[' yes', ' no']",0,ipip,0,2920,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I talk about others to stir up conflict.'
+Answer:","[' yes', ' no']",0,ipip,0,2930,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I talk about others to stir up conflict.'
+Answer:","[' yes', ' no']",0,ipip,0,2930,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I talk without thinking.'
+Answer:","[' yes', ' no']",0,ipip,0,2940,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I talk without thinking.'
+Answer:","[' yes', ' no']",0,ipip,0,2940,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I tend to be admired by others.'
+Answer:","[' yes', ' no']",0,ipip,0,2950,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I tend to be admired by others.'
+Answer:","[' yes', ' no']",0,ipip,0,2950,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I tend to find social situations confusing.'
+Answer:","[' yes', ' no']",0,ipip,0,2960,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I tend to find social situations confusing.'
+Answer:","[' yes', ' no']",0,ipip,0,2960,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I tend to talk sarcastically.'
+Answer:","[' yes', ' no']",0,ipip,0,2970,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I tend to talk sarcastically.'
+Answer:","[' yes', ' no']",0,ipip,0,2970,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I think ahead.'
+Answer:","[' yes', ' no']",0,ipip,0,2980,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I think ahead.'
+Answer:","[' yes', ' no']",0,ipip,0,2980,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I think my sex drive is stronger than most other people.'
+Answer:","[' yes', ' no']",0,ipip,0,2990,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I think my sex drive is stronger than most other people.'
+Answer:","[' yes', ' no']",0,ipip,0,2990,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I think that everyone should be responsible for their own behaviors.'
+Answer:","[' yes', ' no']",0,ipip,0,3000,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I think that everyone should be responsible for their own behaviors.'
+Answer:","[' yes', ' no']",0,ipip,0,3000,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I think that my life is extremely interesting.'
+Answer:","[' yes', ' no']",0,ipip,0,3010,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I think that my life is extremely interesting.'
+Answer:","[' yes', ' no']",0,ipip,0,3010,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I thought that my life had been a failure.'
+Answer:","[' yes', ' no']",0,ipip,0,3020,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I thought that my life had been a failure.'
+Answer:","[' yes', ' no']",0,ipip,0,3020,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I treat others badly.'
+Answer:","[' yes', ' no']",0,ipip,0,3030,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I treat others badly.'
+Answer:","[' yes', ' no']",0,ipip,0,3030,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I try hard to treat others with respect.'
+Answer:","[' yes', ' no']",0,ipip,0,3040,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I try hard to treat others with respect.'
+Answer:","[' yes', ' no']",0,ipip,0,3040,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I try to avoid complex people.'
+Answer:","[' yes', ' no']",0,ipip,0,3050,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I try to avoid complex people.'
+Answer:","[' yes', ' no']",0,ipip,0,3050,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I try to get rid of my prejudices.'
+Answer:","[' yes', ' no']",0,ipip,0,3060,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I try to get rid of my prejudices.'
+Answer:","[' yes', ' no']",0,ipip,0,3060,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I try to meet people I find attractive.'
+Answer:","[' yes', ' no']",0,ipip,0,3070,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I try to meet people I find attractive.'
+Answer:","[' yes', ' no']",0,ipip,0,3070,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I try to understand myself.'
+Answer:","[' yes', ' no']",0,ipip,0,3080,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I try to understand myself.'
+Answer:","[' yes', ' no']",0,ipip,0,3080,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I understand things quickly.'
+Answer:","[' yes', ' no']",0,ipip,0,3090,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I understand things quickly.'
+Answer:","[' yes', ' no']",0,ipip,0,3090,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I use my brain.'
+Answer:","[' yes', ' no']",0,ipip,0,3100,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I use my brain.'
+Answer:","[' yes', ' no']",0,ipip,0,3100,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I usually enjoy being with people.'
+Answer:","[' yes', ' no']",0,ipip,0,3110,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I usually enjoy being with people.'
+Answer:","[' yes', ' no']",0,ipip,0,3110,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I usually notice visual details in the environment.'
+Answer:","[' yes', ' no']",0,ipip,0,3120,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I usually notice visual details in the environment.'
+Answer:","[' yes', ' no']",0,ipip,0,3120,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I wake each morning to feelings of tremendous sadness.'
+Answer:","[' yes', ' no']",0,ipip,0,3130,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I wake each morning to feelings of tremendous sadness.'
+Answer:","[' yes', ' no']",0,ipip,0,3130,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I want to be different from others.'
+Answer:","[' yes', ' no']",0,ipip,0,3140,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I want to be different from others.'
+Answer:","[' yes', ' no']",0,ipip,0,3140,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I want to have the last word.'
+Answer:","[' yes', ' no']",0,ipip,0,3150,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I want to have the last word.'
+Answer:","[' yes', ' no']",0,ipip,0,3150,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I want to understand things.'
+Answer:","[' yes', ' no']",0,ipip,0,3160,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I want to understand things.'
+Answer:","[' yes', ' no']",0,ipip,0,3160,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I was down in the dumps.'
+Answer:","[' yes', ' no']",0,ipip,0,3170,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I was down in the dumps.'
+Answer:","[' yes', ' no']",0,ipip,0,3170,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I watch out for possible danger.'
+Answer:","[' yes', ' no']",0,ipip,0,3180,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I watch out for possible danger.'
+Answer:","[' yes', ' no']",0,ipip,0,3180,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I when with a group, have difficulties selecting a good topic to talk about.'
+Answer:","[' yes', ' no']",0,ipip,0,3190,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I when with a group, have difficulties selecting a good topic to talk about.'
+Answer:","[' yes', ' no']",0,ipip,0,3190,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I will do just about anything to please people.'
+Answer:","[' yes', ' no']",0,ipip,0,3200,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I will do just about anything to please people.'
+Answer:","[' yes', ' no']",0,ipip,0,3200,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I wish I could more easily show my negative feelings.'
+Answer:","[' yes', ' no']",0,ipip,0,3210,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I wish I could more easily show my negative feelings.'
+Answer:","[' yes', ' no']",0,ipip,0,3210,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I wonder who I really am.'
+Answer:","[' yes', ' no']",0,ipip,0,3220,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I wonder who I really am.'
+Answer:","[' yes', ' no']",0,ipip,0,3220,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I work on improving myself.'
+Answer:","[' yes', ' no']",0,ipip,0,3230,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I work on improving myself.'
+Answer:","[' yes', ' no']",0,ipip,0,3230,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I worry about people taking my possessions.'
+Answer:","[' yes', ' no']",0,ipip,0,3240,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I worry about people taking my possessions.'
+Answer:","[' yes', ' no']",0,ipip,0,3240,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I would be described by my friends as brave.'
+Answer:","[' yes', ' no']",0,ipip,0,3250,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I would be described by my friends as brave.'
+Answer:","[' yes', ' no']",0,ipip,0,3250,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I would describe myself as a normal person.'
+Answer:","[' yes', ' no']",0,ipip,0,3260,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I would describe myself as a normal person.'
+Answer:","[' yes', ' no']",0,ipip,0,3260,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I would find it difficult to ask for a salary increase.'
+Answer:","[' yes', ' no']",0,ipip,0,3270,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I would find it difficult to ask for a salary increase.'
+Answer:","[' yes', ' no']",0,ipip,0,3270,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I would like to try bungee jumping.'
+Answer:","[' yes', ' no']",0,ipip,0,3280,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I would like to try bungee jumping.'
+Answer:","[' yes', ' no']",0,ipip,0,3280,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I would never be described as arrogant.'
+Answer:","[' yes', ' no']",0,ipip,0,3290,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I would never be described as arrogant.'
+Answer:","[' yes', ' no']",0,ipip,0,3290,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I would not enjoy being a famous celebrity.'
+Answer:","[' yes', ' no']",0,ipip,0,3300,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I would not enjoy being a famous celebrity.'
+Answer:","[' yes', ' no']",0,ipip,0,3300,0,1
+"Select yes to agree or no to disagree with the following statement.
+Statement: 'I would rather avoid using manufactured goods.'
+Answer:","[' yes', ' no']",0,ipip,0,3310,0,1
+"Select no to disagree or yes to agree with the following statement.
+Statement: 'I would rather avoid using manufactured goods.'
+Answer:","[' yes', ' no']",0,ipip,0,3310,0,1
