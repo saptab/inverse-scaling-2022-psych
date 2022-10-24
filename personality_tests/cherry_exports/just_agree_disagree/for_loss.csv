@@ -1,0 +1,3001 @@
+prompt,answer_index,classes
+"Do you disagree or agree with the following statement?
+Statement: 'I accept apologies easily.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I accept challenging tasks.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I accept the first thing that comes along.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I accomplish a lot of work.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I accomplish my work on time.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I acknowledge others' accomplishments.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I acquire skills quickly.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I act according to my conscience.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I act according to my own feelings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I act as a leader.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I act comfortably with others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I act like different people in different situations.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I act properly in most situations.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I act quickly without thinking.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I act with hesitation.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I adapt easily to new situations.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I adjust easily.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I allow others to make a fresh start.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I allow others to walk all over me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I always need to know who my partner is with.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am a creature of habit.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am a firm believer in thinking things through.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am a 'glass is half empty' kind of person'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am a goal-oriented person.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am a neat freak.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am a 'people person.''
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am a perfectionist.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am a sadistic person.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am a true life-long learner.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am able to cooperate with others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am able to do what I should do, even when I feel scared.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am able to see how other peoples' emotions can affect their behaviors.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am able to see the best in a situation.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am able to understand how other people see problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am afraid that my life will be cut short by illness.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am afraid that my life will be cut short by illness.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am always in the same mood.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am always looking for a rush of excitement.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am always prepared.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am always ready to start afresh.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am an energetic person.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am an original thinker.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am approached often by people who want help, advice, or guidance with their problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am asked for advice by friends and family.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am aware of how my feelings are affecting other people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am aware of my feelings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am basically a decent person.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am careful to consider how things I do now will affect future outcomes.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am careful to consider how things I do now will affect future outcomes.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am committed to principles of justice and equality.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am concerned about others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am considered fun to be with.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am considered to be a wise person.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am content with my life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am curious about how various kinds of trees differ from each other.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am deeply moved by others' misfortunes.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am described by friends and family as a disciplined person.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am described by others as a good 'team-player.''
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am determined to finish a task when I start it.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am devoted to religion.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am different compared to most people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am eager to soothe hurt feelings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am easily distracted.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am easily impressed.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am entitled to the best.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am exacting in my work.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am excited by many different activities.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am fascinated by numbers.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am fascinated by numbers.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am good at helping people work well together.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am good at making jokes.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am good at many things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am good at sensing what others are feeling.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am good at taking advice.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am good at understanding others' feelings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am guided by my intuitions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am happy with my life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am in awe of simple things in life that others might take for granted.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am in awe of simple things in life that others might take for granted.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am inclined to forgive others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am inexplicably happy some of the time.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am inflexible when I think I'm right.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am intentionally different.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am interested in my personal growth.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am interested in my personal growth.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am interested in people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am interested in science.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am less likely than most people to lock things up.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am looking forward to things that are coming in the future.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am mainly interested in money.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am motivated strongly to do some things by the good prospect of obtaining money.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am moved to action by the possibility of social advancement, even if this involves not playing fair.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am never too busy to help a friend.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am not a caring person.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am not affected by either praise or criticism.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am not all that curious about the world.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am not considered attractive by others.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am not disturbed by events.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am not easily distracted.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am not easily frustrated.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am not much of a flirt.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am not picky about food.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am often aware how the color and lighting of a room affects my mood.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am often consulted by my friends about their problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am often sensitive to the smoothness or roughness of objects that I touch.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am often so assertive or sociable that I surprise myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am often told by others that I understand them.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am open to change.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am plain in appearance.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am polite to strangers.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am prone to addiction.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am quick to admit making a mistake.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am quick to correct others.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am quick to think others don't like me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am rarely aware of how an artist might be using light and color to convey mood when I look at paintings or pictures.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am rarely scared by loud noises.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am ready to hit someone when I get angry.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am rigid in the way I want things organized.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am satisfied with my life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am seldom aware of the sounds of birds in the neighborhood.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am seldom concerned about the possibility of failing when trying something new.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am sensitive to the needs of others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am slow to take the blame.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am sometimes full of thoughts, ideas, and images in my mind.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am sometimes so preoccupied with my own thoughts I don't realize others are trying to speak to me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am strongly influenced by the good moods of others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am thankful for the people who helped me during my childhood.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am thrilled when I learn something new.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am told by friends and family that I have good ideas for solving problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am told by my friends that I am a hard worker.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am true to my own values.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am true to myself in all circumstances.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am trusted to keep secrets.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am unable to do some of the things I would like to do because of my health.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am uniquely qualified to make important contributions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am unwilling to accept apologies.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am usually able to forgive people when they make me angry.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am usually convinced that my friends and romantic partners will betray me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am usually in an average sort of mood, not too high and not too low.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am usually pretty good at keeping track of several things that are happening around me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am valued by my friends for my good judgment.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am valued by others for my objectivity.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am who I am because of my faith.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am willing to admit it when I make a mistake.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am willing to cheat in a game.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am willing to make personal sacrifices in order to help people I care about.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am willing to take a stand.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I am without talent.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I am worthy of special recognition.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I anticipate the needs of others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I appreciate all forms of art.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I appreciate all forms of art.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I appreciate good manners.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I appreciate good manners.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I appreciate people who wait on me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I appreciate the viewpoints of others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I approach others in a positive manner.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I approach others in a positive manner.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I arrive on time.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I assume that most people are in it only for themselves.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I avoid activities that are physically dangerous.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I avoid doing things behind another person's back.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I avoid imposing my will on others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I avoid interfering in the lives of others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I become aggressive when I feel hurt.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I become angry when I am not invited to a social event.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I become emotional for no apparent reason.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I behave as if others are just as important as me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I behave in a way that is acceptable to society.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I behave properly.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe I have 'ESP,' or extrasensory perception.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe in a logical answer for everything.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe in eating healthily.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that appearances are important.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that both feelings and thinking are important in making decisions and solving problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that by working hard a person can achieve anything.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that children need firm discipline.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that crying helps me feel better.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that each person has a purpose in life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that emotions give direction to life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that everyone should have a say.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that giving is more important than receiving.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that God / a Higher Power acts upon our lives.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that honesty is the basis for trust.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that human nature is essentially bad.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that I am always right.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that I can work hard to achieve a positive future.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that I can work hard to achieve a positive future.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that it is more important to be myself than to be popular.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that laws should be strictly enforced.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that leaders should let everyone have a say in what the group does.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that most people make friends only because they expect friends to be useful.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that most people tell the truth.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that most questions have one right answer.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that my life is much more of a gift than a problem.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that my life is much more of a gift than a problem.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that no one deserves to be discriminated against because of the color of their skin.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that no one deserves to be discriminated against because of the color of their skin.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that our human nature brings us together to work for common goals.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that people are basically honest and good.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that people are basically moral.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that people seldom tell you the whole story.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that planning ahead makes things turn out better.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that religion is foolish.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that some people are born lucky.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that the only person you can truly trust is yourself.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I believe that the poor deserve our sympathy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that too much tax money goes to support artists.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I believe that we coddle criminals too much.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I borrow money that I won't pay back.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I call for action while others talk.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I call my friends when they are sick.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can accept criticism without getting upset.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can be confused about the emotions I'm feeling.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can be relied upon by others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can change course, if necessary.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can change the weather simply by thinking about it.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can control the outcome of events.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can create any impression that I want.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can easily link facts together.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I can easily visualize how the freeways in my region link up.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can express love to someone else.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can face my fears.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can feel close to someone, even in moments of silence.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can find the positive in what seems negative to others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can get along with most people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can get out of difficult situations.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can go from cheerful to furious, or vice versa, very quickly.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can handle complex problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can hardly wait to see what life has in store for me in the years ahead.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can improvise.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can keep a secret.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can laugh at myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can make myself work on a difficult task even when I don't feel like trying.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can play many roles convincingly.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can say things beautifully.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can see different points of view.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can see the funny side of a painful situation.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can spot faulty reasoning.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can take the viewpoint of others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can think of many different ways to solve problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can think of one or more times in my life where I was very brave.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can understand the 'rules of the groups' of which I am a member.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can usually appreciate other points of view.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can work under pressure.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I cannot wait to get started on a project.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I can't concentrate.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I can't hear for awhile (as if I am deaf).'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I can't remember the last time I thought about sex.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I can't see for awhile (as if I am blind).'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I can't sleep for nights on end but remain active during the daytime.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I can't stand impolite people.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I can't stand weak people.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I care about justice.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I care about others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I carry around something that gives me good luck.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I carry out my plans.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I check over my work.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I cheer people up.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I choose my words with care.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I come up with a solution right away.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I come up with alternatives.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I come up with bold plans.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I complete tasks successfully.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I consider my behavior to be pretty average.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I consider my motives before acting.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I consider myself a disabled person.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I consider others' advice.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I consider others' opinions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I could be a success in many fields.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I could never stop loving my family and close friends, no matter what they did.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I count on others too much.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I crave romantic touch.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I create something of value out of nothing.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I decide things on my own.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I defend my own beliefs.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I demand a lot from others.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I demand explanations from others.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I demand obedience.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I demand perfection in myself.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I demand perfection in others.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I deserve more than I am getting.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I deserve the very best of everything.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I deserve to be admired.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I discuss my health problems with my family and friends.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I disliked math in school.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do everything I say I will do.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I do favors for others only so I can ask for something for myself later.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do many things with ease.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do more than what's expected of me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I do not believe in a universal power or a God.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I do not enjoy going to art museums.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I do not like to visit museums.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do not quit easily, even when things are hard.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do not take news at face value.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do things at my own pace.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do things for a reason.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do things that I don't like to make others happy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do things that I later regret.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do things that men traditionally do.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do things that women traditionally do.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do unexpected things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I do what I say.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I don't attempt to conform to society's expectations.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't consider a task finished until it's perfect.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't consider myself attractive.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't enjoy doing quiet leisure activities.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't fall for sob-stories.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't have much energy.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I don't let others discourage me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't like action movies.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't like getting dirt on my hands.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't like seeing people dressed carelessly.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't like sex.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't like to spend money.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't like to travel.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't mind asking for favors.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't mind eating alone.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't pay enough attention when others are speaking to me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't pay much attention to the material objects other people own.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I don't place much emphasis on the amount of material objects people own as a sign of their success.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't place much emphasis on the amount of material objects people own as a sign of their success.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't plan anything very far in advance.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I don't pretend to be more than I am.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't think that schooling is important.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't understand people who get emotional.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I don't usually enjoy listening to people tell stories about events that have happened in their lives.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I dress to make an impression.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I drove or rode somewhere without remembering later what happened during all or part of the trip.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I eagerly look forward to things to come.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I echo what others say.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I embarrass others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I engage in discussions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I enjoy a good ethnic joke among friends.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy being part of a group.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy bringing people together.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy cartoons.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy contemplation.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy discussing movies and books with others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I enjoy dreaming about a perfect mate.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy eating in restaurants.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy feeding animals.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy hearing new ideas.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy imagining what life is like for people in other places or who have lives different from mine.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy intellectual games.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy my work.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy myself while with others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy physical exercise.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy reading.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy reflecting on past events.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I enjoy reflecting on past events.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy science fiction.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy teamwork.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy the beauty of nature.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy the warm feeling of being in a group of good friends.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy thinking about things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoy working with people more than working alone.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoyed life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I enjoyed school.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I exaggerate my abilities.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I excel in nothing at all.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I excel in what I do.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I exert my authority.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I expect dedicated work from others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I experience altered states of consciousness.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I experience longer periods of sadness or depression than other people seem to.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I experience supernatural guidance.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I experience very vivid and lively memories when I recall my childhood.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I express childlike joy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I express my affection physically.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I express my thanks to those who care about me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I express myself easily.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I face danger confidently.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I fail to notice beauty until other comment on it.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I fear dying from a lingering or painful illness.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel a responsibility to improve the world in which I live.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel a responsibility to improve the world in which I live.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel as if my body, or a part of it, has disappeared.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel at ease with people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel at times that I have left my body and am somehow outside my physical self.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel badly if my words or actions cause someone else to feel emotional pain.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel badly if my words or actions cause someone else to feel emotional pain.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel better after some hard work.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel compelled to count while I am doing things.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel disgusted by anything relating to sex.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel excited or happy for no apparent reason.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel excited when I think about the future.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel happy when I see a happy animal such as a playful dog or a purring cat.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel happy when I see other people display their skills and talents.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel happy when I see other people doing things like showing compassion, forgiving others, or being kind.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel I get so engrossed in fantasies that I lose track of reality.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel I must respect the decisions made by my group.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel it's important to live in a world of beauty.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel like nothing seems interesting to me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel like nothing seems like fun to me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel no gratitude to others.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel offended by forms of discrimination.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel smothered when others show deep concern towards me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel sympathy for those who are worse off than myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel thankful for what I have received in life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel that having close friends is not especially important to me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel that I am too short.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel that I am treated well by others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel that life is full of many wonderful surprises.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel that most people are genuine.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel that my body is dissolving or that a part of my body is missing or changing.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel that practice is as important as performance.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I feel that there are many things that I do not know much about.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I feel unbearable guilt much the time.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I felt close to my parents when I was a child.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I felt depressed.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I felt happy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I felt hopeful about the future.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I felt I was as good as other people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find examination of my feelings useful in solving personal problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I find fault with everything.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find it difficult to sit still for long periods of time.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find it difficult to stay on one course.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find it difficult to tell whether something really happened, or whether it occurred only in my imagination.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find it difficult to touch an object that has been touched by others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find it easy to spend a lot of time learning something new.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I find it easy to spend a lot of time learning something new.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find it easy to stay healthy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find it easy to tell if others are interested or bored with what I'm saying.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find it easy to tune out background noises when trying to concentrate on something else.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find it hard to stay in a bad mood if the people around me are happy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I find it very annoying to have to wait a few minutes for a phone connection.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find that in certain situations I am able to do things with amazing ease and spontaneity that would usually be difficult for me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find that in one situation I act so differently from when I'm inanother situation that I feel almost as if I were two different people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find that it doesn't take much to make me feel happy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find that it takes a lot to make me feel frustrated or irritated.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find that people tell me their feelings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I find the world a very interesting place.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I find the world a very interesting place.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I finish what I start.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I follow a schedule.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I follow directions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I follow my instincts.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I follow the rules.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I follow through on my commitments.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I follow through with my plans.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I forego things that are bad for me in the long run even if they make me feel good in the short run.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I forgo things for the sake of others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I form opinions based on others' beliefs.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I found that I became so involved in a fantasy or daydream that it felt like it was really happening to me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I found writings, drawings, or notes among my belongings that I must have done but cannot remember doing.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I fulfill my duties without complaining.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I generally give preference to those activities that imply an immediate gain.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I get a rush from other people lusting after me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get along well with others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get along well with people I have just met.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get as excited about the good fortunes of others as I am about my own.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get chills when I hear about acts of great generosity.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I get chills when I hear about acts of great generosity.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get excited about the things that I am doing.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get excited by new ideas.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get excited when I learn new things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I get into moods where I feel very speeded up and irritable.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get into my work.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I get pretty sweaty in new situations.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get started quickly on doing a job.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get suspicious when my spouse or partner says they are working late.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get upset if I see an animal in pain'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I get upset if I see people suffering on news programs.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I give compliments.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I give compliments.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I give people a second chance.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I go my own way.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I go out of my way for others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I go out of my way to attend educational events.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I go out of my way to cheer up people who appear down.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I go out of my way to help people who are suffering.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I go out of my way to help people who are suffering.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I go through money quickly.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I go to bed immediately if I feel that I'm getting sick.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I guide my life using religious scriptures.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I had crying spells.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I had restless sleep.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I had the experience of being accused of lying when I did not think I had lied.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I had the experience of looking in a mirror and not recognizing myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I had the experience of not being sure whether things I remember happening really did happen, or whether I just dreamed them.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I had thoughts about death.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I hate to see anyone suffer, even my worst enemy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have a calming influence.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have a colorful and dramatic way of talking about things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have a hard time cheering myself up.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have a natural talent for influencing people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I have always been completely fair to others.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have avoided situations or people for fear that I would get sick.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have been described as wise beyond my years.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have been known to fly off the handle when distressed.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have been richly blessed in my life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I have been richly blessed in my life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I have been told that I have horrible table manners.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have been told that I neglect other important parts of my life because I work so hard.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have been told that my behavior often is bizarre.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have broken things when angry.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have complete confidence in my doctor.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I have crying fits.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have deliberately not done my best.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have deliberately risked my safety because I thought that it was 'the right thing to do.''
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have done many things for which I could have been (or was) arrested.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have done things to deface my body.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have eerie feelings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have experienced a spiritual force that is greater than any human being.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have feelings that I can't quite identify.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have felt so good during numerous moments in my life that I could not imagine feeling any better.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have felt the presence of God / a Higher Power.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have found that it takes a lot to make me feel truly happy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have frequent thoughts about death.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have friends who belong to very different groups of people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have friends who have very different beliefs from mine.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have gotten the important things I want in my life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I have great stamina.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have had intense religious experiences.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have had strong impulses to just end it all.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have had the strange experience in which things seem 'more real' than usual.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have little sympathy for the unemployed.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I have mood swings that are completely out of control.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have never deliberately hurt anyone.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have never given serious thought to ending my life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have new ideas for improving things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have noticed that I put my work ahead of too many other things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I have noticed that lying comes easily to me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I have noticed that my emotions get me into trouble when I'm stressed.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have occasionally had the feeling that a TV or radio broadcaster knew I was listening to him.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have persuaded others to do something really adventurous or crazy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have read the great literary classics.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have recently found an original solution to a problem in my life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have spent at least 30 minutes in the last 24 hours in prayer or meditation.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have strong urges sometimes to hurt myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have taken things that weren't mine.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have the ability to be a good teacher.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have thought about the best way to die.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I have thought about the best way to die.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have time for play and relaxation.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I have to be on guard against spells which strangers may cast upon me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I have trouble relaxing, even with family or friends.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I have used illegal drugs.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I help my friends.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I help people even when I do not want to, because it is the right thing to do.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I helped a neighbor in the last month.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I hold myself and others to very high standards.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I honor all the vows I have made.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I hug my close friends.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I inquire about others' well-being.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I inquire about others' well-being.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I insist that others do things my way.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I invent things that can go wrong.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I investigate all possibilities.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I involve others in what I am doing.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I judge myself more harshly than others do.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I judge people by their appearance.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I jump into things without thinking.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep improving myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep in touch with old friends.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep my appointments.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep my faith even during hard times.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep my promises.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep my sense of humor even in gloomy situations.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep old traditions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep on the topic.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep promises that I make to myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep situations under control.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep straight right from wrong.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I keep things tidy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know how to apply my knowledge.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know how to comfort others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know how to cope.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know how to do my job.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know how to do well on tests.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know how to enjoy myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know how to make something from nothing.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know my limitations.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know my strengths.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know no limits.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know someone for whom I would do almost anything.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know someone who is absolutely fair and just.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know someone whom I really care about as a person.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know someone with whom I feel free to be myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that I can improve myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that I can live my life in any way I want to.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that I wouldn't be any happier if I owned nicer things'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that I'm a special person.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that many people helped me to get to where I am today.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I know that many people helped me to get to where I am today.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I know that modesty doesn't become me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that my belief in God / a Higher Power helps me to understand my purpose in life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that my beliefs make my life important.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that my decisions are correct.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that my friends consider me to be impulsive.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that my ideas sometimes surprise people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that my special qualities will some day be admired.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that some others accept my shortcomings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that there are people in my life who care as much for me as for themselves.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know that there is someone I trust to help and support me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I know the answers to many questions.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know the names of many types of animals, birds, and plants.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know the proper thing to do.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know what I want.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I know what to say to make people feel good.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I leave my belongings around.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I leave my work undone.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I leave things unfinished.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I let bygones be bygones.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I let myself be taken over by urges to spend or eat too much.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I let others do their own thing.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I let others finish what they are saying.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I let things proceed at their own pace.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like a leisurely lifestyle.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like bland food.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like having secrets.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like hearing views that differ from my own.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like learning about the achievements and creations of great men and women from history.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like learning about the achievements and creations of great men and women from history.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like movies and books about mysteries.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like music.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like order.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like the feeling I get when an airplane experiences rough turbulence.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like the feeling of being startled or shocked.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like things plain and simple.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to add competitive features to all activities.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to attend ceremonies.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to be of service to others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like to be of service to others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to be well prepared.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to begin new things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like to collect information about things (cars, birds,numbers).'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to compete and do everything I can to win.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to dispense with formalities.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to do things for others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to dress up formally.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to exaggerate my troubles.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to find out about new and different ideas.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to follow a regular schedule.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to help others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like to help others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to know how things work.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to know the news of the world.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to laugh out loud.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to learn new things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like to learn new things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to look at my body.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to organize things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to plan ahead.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to please others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to read.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like to read.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like to sleep on things before acting.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to solve complex problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to spend time learning new things that do not have anything to do with my studies or work.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to stand during the national anthem.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like to take a lot of photographs when I travel.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to take responsibility for making decisions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to talk about my future plans.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to think of new ways to do things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to tidy up.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like to tidy up.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to visit new places.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to watch children open presents.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to watch figure skating.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like to work as part of a team.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I like variety.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I like variety.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I listen to my conscience.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I listen to my feelings when making important decisions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I look after my health by eating well.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I look at the bright side of life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I look at things from different angles.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I look forward to each new day.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I look forward to the opportunity to learn and grow.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I look on the bright side.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I look to God / a Higher Power for support, guidance, and strength.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love action.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love animals.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love beautiful things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love change.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love children.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love children's art work.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love children's movies.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love flowers.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love my enemies.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love roller coasters.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love the feeling of being intimately close with someone.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to be complimented.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to do impressions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I love to do impressions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to doodle.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to eat.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to help others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to learn new things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I love to learn new things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to look my best.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to make other people happy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to meet new people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to read challenging material.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to reflect on things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I love to reflect on things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to spin tall tales.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to think up new ways of doing things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love to try new foods that I have not eaten before.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I love what I do.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I maintain high energy throughout the day.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make a decision and move on.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make a point of trying not to hurt others in pursuit of my goals.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make beautiful things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make careful choices.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make certain that my plans will work.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make insightful remarks.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make jokes.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make lists of things to do.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make my own rules.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make order out of chaos.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make others feel good.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make people feel at ease.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make people feel welcome.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I make well-considered decisions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I may hit somebody if they openly disagree with me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I mediate in quarrels.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I meet challenges.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I might sometimes seem eccentric.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I move in a graceful manner.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I nearly always feel awake and alert.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I need reassurance.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I need to understand my motives.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I never give up.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I never have sexual fantasies or daydreams.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I never remember my dreams.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I never resent being asked to do a favor for someone.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I notice contradictions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I offer help with problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I often act in odd or peculiar ways.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I often become sweaty or flushed when faced with scary situations or people.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I often can't remember what I ate yesterday.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I often change the facts of a story to make it more interesting.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I often do nice things for people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I often enjoy telling jokes or behaving in a humorous manner.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I often feel like others are 'up to something.''
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I often forget what day it is.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I often make big, expensive purchases without thinking of the financial consequences.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I often notice how weather conditions (rain, snow, wind, sunshine) are used to convey the mood of the characters in a movie.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I often refrain from doing something because of my fear of being embarrassed.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I often talk about death and dying.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I often tell myself that I'll do an activity tomorrow, even when I have enough time to complete it today.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I often worry about things to the extent that my intellectual performance is impaired.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I participate in many activities.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I place demands on myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I plan for the future.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I plan my life based on how I feel.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer city life to rural life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer diving to swimming.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer fear to boredom.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer going to movies to watching videos at home.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer making things myself instead of buying them.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer reality to fantasy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer that others make the major decisions in my life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer the simple life.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer thrilling activities to staying home to watch TV.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer to analyze problems rather than to just describe them.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer to call people 'Mr.' and 'Mrs.''
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I prefer to do everything alone.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer to let my accomplishments speak for themselves.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer to let my feelings decide what I should do when making important decisions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer to make my own decisions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer to participate fully rather than view life from the sidelines.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I prefer to participate fully rather than view life from the sidelines.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer to spend my free time with family or friends rather than alone.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I prefer to spend my free time with family or friends rather than alone.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer to stick with things that I know.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer to take on the leadership role in a group.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I prefer to take on the leadership role in a group.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prefer variety to routine.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I prefer variety to routine.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I pretend to be concerned for others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I prevent things from getting out of hand.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I put a new perspective on things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I put less emphasis on material things than most people do.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I quickly lose interest in the tasks I start.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I quickly notice when something is wrong.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I quit tasks as soon as I get bored.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I radiate joy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I rarely become angry at my friends.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I rarely finish doing things before they are actually due (such as paying bills, finishing work).'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I rarely get bored because I start daydreaming when things get boring.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I rarely get drunk.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I rarely have fantasies that include intricate details.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I reassure others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I rebel against authority.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I reflect on things before acting.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I reflect on things before acting.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I refuse to be taken advantage of by others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I remain calm during stressful times.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I remain calm under pressure.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I remain hopeful about the future, regardless of challenges.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I remain hopeful despite challenges.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I remember my friends' birthdays.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I repeatedly check doors, windows, and drawers.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I resent being punished.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I resist authority.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I respect authority.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I respect older people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I respect older people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I respect others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I respect others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I respect others' feelings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I respect others' feelings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I respect the opinions of others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I respect the privacy of others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I return library books on time.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I sail my own course.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I say what I think and feel even if I know other people will disagree.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I scheme against others.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I see danger everywhere.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I see myself as a good leader.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I see nothing wrong with being single for the rest of my life.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I see strange figures or visions when nothing is really there.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I see that nobody gets left out.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I see that rules are observed.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I see the humor in situations.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I see things around me differently than I regularly do (for example, as if looking through a tunnel, or seeing only part of an object).'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I see through problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I seek explanations of things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I seek support.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I seek support.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I seek to be the best.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I seek to influence others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I seldom experience sudden intuitive insights.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I seldom feel weepy while reading the sad part of a story.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I seldom get lost in thought.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I seldom stretch the truth.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I set high standards for myself and others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I share my feelings with other people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I share things with others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I should learn to hold back some of the things I say.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I shout or scream when I'm angry.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I show a mastery of language.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I show faith in people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I show my feelings when I'm happy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I show my feelings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I show my gratitude.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I sing out loud to myself when I'm alone.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I skip difficult words while reading.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I snap at people.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I sometimes dream of vivid, detailed settings that are unlike anything I've experienced when awake.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I sometimes end up believing my own lies.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I sometimes know that something will happen before it actually does.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I sometimes laugh out loud when reading or watching TV.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I speak rapidly.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I speak up for others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I speak up in protest when I hear someone say mean things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I spend a lot of time reading.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I spend lots of my free time helping others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I spend time reflecting on things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I spend time reflecting on things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I stand behind my actions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I stand behind my actions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I start tasks right away.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I start to perspire when I meet someone new.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I stick up for myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I stop to count my blessings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I support my teammates or fellow group members.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I suspect that my facial expressions give me away when I feel sad.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I sympathize with others' feelings.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I sympathize with the homeless.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take an interest in other people's lives.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take care of my own affairs.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take charge.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take control of things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take others' interests into account.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take part in community projects to help people who have less than me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I take part in community projects to help people who have less than me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take precautions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take pride in not exaggerating who or what I am.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take responsibility for what happens.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take the initiative.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take the time to finish things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take time out for others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take time out to chat.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I take time to reflect on things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I take time to reflect on things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I talk about my worries.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I talk nonsense.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I talk nonsense.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I talked out loud to myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I tell others what I really think.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I tend to analyze things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I tend to be admired by others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I tend to become agitated whenever I have to sit and wait for something (for instance, in a waiting room).'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I tend to dislike impulsive people.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I tend to dislike shallow people.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I tend to dislike soft-hearted people.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I tend to explode with anger when things don't go as planned.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I tend to find social situations confusing.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I tend to get emotionally involved with a friend's problems.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I tend to live in the present.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I tend to notice details that others do not.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I tend to organize my books, CDs, and other collections.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I tend to organize my books, CDs, and other collections.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I tend to think of alternatives when someone tells me how to do something.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I tend to vote for conservative political candidates.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I tend to vote for liberal political candidates.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think a lot before complaining in a restaurant if my meal is not well-prepared.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think about the causes of my emotions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think about what is good in my life when I feel down.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I think about what is good in my life when I feel down.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think ahead.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think before I speak.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think of myself as a good and moral person.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think of others first.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think of things like developing cancer or catching a serious illness.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think that everybody should give some of their time and energy to help their town or country.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I think that everybody should give some of their time and energy to help their town or country.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think that everyone should be responsible for their own behaviors.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think that everyone should get a fair share.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think that it is important to forgive people who have hurt me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think that life does not always have to be serious.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I think that people who are stupid enough to get ripped off usually deserve it.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I think twice before doing something.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I thought about killing myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I treat my doctors and other professionals as my friends.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I treated my parents well.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try hard to treat others with respect.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I try hard to treat others with respect.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try not to deceive others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try out new things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I try out new things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to act fairly in all situations.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to add some humor to whatever I do.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to always tell the truth.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to examine myself objectively.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to follow the rules.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to get rid of my prejudices.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to have fun in all kinds of situations.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to have good reasons for my important decisions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to lead others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to maintain a pleasant atmosphere.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to make my group members happy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to make sure everyone in a group feels included.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I try to make sure everyone in a group feels included.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to prevent quarrels.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to respond with understanding when someone treats me badly.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I try to respond with understanding when someone treats me badly.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to stay in touch with myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to tease my friends out of their gloomy moods.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I try to understand myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I turn plans into actions.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I understand people who think differently.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I understand the reasons when I feel very excited or happy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I understand the reasons when I feel very excited or happy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I understand things quickly.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I urge others to behave themselves.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I use laughter to brighten the days of others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I use my attractiveness to get what I want.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I usually believe that my friends will abandon me.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I usually enjoy being with people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I usually feel neutral, instead of happy, when not feeling unhappy.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I usually like to spend my free time with people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I usually notice visual details in the environment.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I usually work on improving things, instead of getting frustrated, when everything seems to be going wrong.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I value cooperation over competition.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I value cooperation over competition.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I value having long-term close relationships with people.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I view sex as a chore.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I want to be the very best.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I want to experience passion and romance.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I want to know the reasons why.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I want to mean something to others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I want to understand things.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I warm up quickly to others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I was a slow learner in school.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I was bothered by things that usually don't bother me.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I watch out for possible danger.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I wear clothing that shows off or enhances my best features.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I will do almost anything to avoid being alone.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I will do anything for money.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I will do anything to get my way.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I will succeed with the goals I set for myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I withhold information from others.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I work according to a routine.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I work best when I am alone.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I work hard.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I work on improving myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I work on improving myself.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I work out my anxieties by doing something consturctive or creative.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I work out my anxieties by doing something consturctive or creative.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I worked hard when I was in school.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I worry about my health.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I would always wear a helmet if I rode a bike.'
+Answer:",0,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I would be described by my friends as having lots of positive energy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I would be described by my friends as having lots of positive energy.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I would be good at rescuing people from a burning building.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I would be upset if I saw an injured animal.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I would consider adopting a handicapped child.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I would enjoy the riskiness of being a police officer or firefighter.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I would never take things that aren't mine.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I would prefer sitting through a boring TV show to being in a store during an armed robbery.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I would pretend to have personal problems to gain pity or attention.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you agree or disagree with the following statement?
+Statement: 'I would rather give than take.'
+Answer:",1,"[' agree', ' disagree']"
+"Do you disagree or agree with the following statement?
+Statement: 'I would rather give than take.'
+Answer:",1,"[' agree', ' disagree']"
