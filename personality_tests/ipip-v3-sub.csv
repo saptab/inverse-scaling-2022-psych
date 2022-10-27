@@ -1,0 +1,997 @@
+prompt,classes,answer_index,source_dataset,body,Q_id,front,binarized
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I abuse people's confidences.""
+Answer:","[' Yes', ' No']",0,ipip,0,0,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I abuse people's confidences.""
+Answer:","[' Yes', ' No']",0,ipip,0,0,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I act at the expense of others.""
+Answer:","[' Yes', ' No']",0,ipip,0,20,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I act at the expense of others.""
+Answer:","[' Yes', ' No']",0,ipip,0,20,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I adapt easily to new situations.""
+Answer:","[' Yes', ' No']",0,ipip,0,40,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I adapt easily to new situations.""
+Answer:","[' Yes', ' No']",0,ipip,0,40,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am a corrupt person.""
+Answer:","[' Yes', ' No']",0,ipip,0,60,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am a corrupt person.""
+Answer:","[' Yes', ' No']",0,ipip,0,60,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am a manipulative person.""
+Answer:","[' Yes', ' No']",0,ipip,0,80,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am a manipulative person.""
+Answer:","[' Yes', ' No']",0,ipip,0,80,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am a very good scam artist.""
+Answer:","[' Yes', ' No']",0,ipip,0,100,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am a very good scam artist.""
+Answer:","[' Yes', ' No']",0,ipip,0,100,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am able to see how other peoples' emotions can affect their behaviors.""
+Answer:","[' Yes', ' No']",0,ipip,0,120,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am able to see how other peoples' emotions can affect their behaviors.""
+Answer:","[' Yes', ' No']",0,ipip,0,120,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am always in the same mood.""
+Answer:","[' Yes', ' No']",0,ipip,0,140,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am always in the same mood.""
+Answer:","[' Yes', ' No']",0,ipip,0,140,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am approached often by people who want help, advice, or guidance with their problems.""
+Answer:","[' Yes', ' No']",0,ipip,0,160,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am approached often by people who want help, advice, or guidance with their problems.""
+Answer:","[' Yes', ' No']",0,ipip,0,160,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am considered by others to be weird.""
+Answer:","[' Yes', ' No']",0,ipip,0,180,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am considered by others to be weird.""
+Answer:","[' Yes', ' No']",0,ipip,0,180,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am devoted to religion.""
+Answer:","[' Yes', ' No']",0,ipip,0,200,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am devoted to religion.""
+Answer:","[' Yes', ' No']",0,ipip,0,200,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am easily intimidated.""
+Answer:","[' Yes', ' No']",0,ipip,0,220,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am easily intimidated.""
+Answer:","[' Yes', ' No']",0,ipip,0,220,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am filled with doubts about things.""
+Answer:","[' Yes', ' No']",0,ipip,0,240,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am filled with doubts about things.""
+Answer:","[' Yes', ' No']",0,ipip,0,240,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am good at taking advice.""
+Answer:","[' Yes', ' No']",0,ipip,0,260,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am good at taking advice.""
+Answer:","[' Yes', ' No']",0,ipip,0,260,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am inexplicably happy some of the time.""
+Answer:","[' Yes', ' No']",0,ipip,0,280,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am inexplicably happy some of the time.""
+Answer:","[' Yes', ' No']",0,ipip,0,280,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am motivated strongly to do some things by the good prospect of obtaining money.""
+Answer:","[' Yes', ' No']",0,ipip,0,300,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am motivated strongly to do some things by the good prospect of obtaining money.""
+Answer:","[' Yes', ' No']",0,ipip,0,300,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am not always what I appear to be.""
+Answer:","[' Yes', ' No']",0,ipip,0,320,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am not always what I appear to be.""
+Answer:","[' Yes', ' No']",0,ipip,0,320,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am not easily fooled by others.""
+Answer:","[' Yes', ' No']",0,ipip,0,340,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am not easily fooled by others.""
+Answer:","[' Yes', ' No']",0,ipip,0,340,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am not highly motivated to succeed.""
+Answer:","[' Yes', ' No']",0,ipip,0,360,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am not highly motivated to succeed.""
+Answer:","[' Yes', ' No']",0,ipip,0,360,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am often asked by friends and family to help resolve fights.""
+Answer:","[' Yes', ' No']",0,ipip,0,380,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am often asked by friends and family to help resolve fights.""
+Answer:","[' Yes', ' No']",0,ipip,0,380,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am often so restless that it is impossible for me to sit still.""
+Answer:","[' Yes', ' No']",0,ipip,0,400,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am often so restless that it is impossible for me to sit still.""
+Answer:","[' Yes', ' No']",0,ipip,0,400,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am patient with people who annoy me.""
+Answer:","[' Yes', ' No']",0,ipip,0,420,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am patient with people who annoy me.""
+Answer:","[' Yes', ' No']",0,ipip,0,420,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am quick to think others don't like me.""
+Answer:","[' Yes', ' No']",0,ipip,0,440,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am quick to think others don't like me.""
+Answer:","[' Yes', ' No']",0,ipip,0,440,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am seldom aware of the sounds of birds in the neighborhood.""
+Answer:","[' Yes', ' No']",0,ipip,0,460,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am seldom aware of the sounds of birds in the neighborhood.""
+Answer:","[' Yes', ' No']",0,ipip,0,460,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am the most important person in someone else's life.""
+Answer:","[' Yes', ' No']",0,ipip,0,480,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am the most important person in someone else's life.""
+Answer:","[' Yes', ' No']",0,ipip,0,480,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am unaffected by other people's happiness.""
+Answer:","[' Yes', ' No']",0,ipip,0,500,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am unaffected by other people's happiness.""
+Answer:","[' Yes', ' No']",0,ipip,0,500,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am usually right.""
+Answer:","[' Yes', ' No']",0,ipip,0,520,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am usually right.""
+Answer:","[' Yes', ' No']",0,ipip,0,520,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I am willing to make personal sacrifices in order to help people I care about.""
+Answer:","[' Yes', ' No']",0,ipip,0,540,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am willing to make personal sacrifices in order to help people I care about.""
+Answer:","[' Yes', ' No']",0,ipip,0,540,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I as a child, did a lot of things to get people's approval.""
+Answer:","[' Yes', ' No']",0,ipip,0,560,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I as a child, did a lot of things to get people's approval.""
+Answer:","[' Yes', ' No']",0,ipip,0,560,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I avoid difficult reading material.""
+Answer:","[' Yes', ' No']",0,ipip,0,580,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I avoid difficult reading material.""
+Answer:","[' Yes', ' No']",0,ipip,0,580,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I become easily frightened.""
+Answer:","[' Yes', ' No']",0,ipip,0,600,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I become easily frightened.""
+Answer:","[' Yes', ' No']",0,ipip,0,600,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I believe in eating healthily.""
+Answer:","[' Yes', ' No']",0,ipip,0,620,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe in eating healthily.""
+Answer:","[' Yes', ' No']",0,ipip,0,620,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I believe that appearances are important.""
+Answer:","[' Yes', ' No']",0,ipip,0,640,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that appearances are important.""
+Answer:","[' Yes', ' No']",0,ipip,0,640,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I believe that I am always right.""
+Answer:","[' Yes', ' No']",0,ipip,0,660,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that I am always right.""
+Answer:","[' Yes', ' No']",0,ipip,0,660,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I believe that most people make friends only because they expect friends to be useful.""
+Answer:","[' Yes', ' No']",0,ipip,0,680,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that most people make friends only because they expect friends to be useful.""
+Answer:","[' Yes', ' No']",0,ipip,0,680,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I believe that people are either good or bad.""
+Answer:","[' Yes', ' No']",0,ipip,0,700,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that people are either good or bad.""
+Answer:","[' Yes', ' No']",0,ipip,0,700,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I believe that there are universal truths.""
+Answer:","[' Yes', ' No']",0,ipip,0,720,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that there are universal truths.""
+Answer:","[' Yes', ' No']",0,ipip,0,720,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I break rules.""
+Answer:","[' Yes', ' No']",0,ipip,0,740,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I break rules.""
+Answer:","[' Yes', ' No']",0,ipip,0,740,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I can clearly picture in my mind what I want to happen in my future.""
+Answer:","[' Yes', ' No']",0,ipip,0,760,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I can clearly picture in my mind what I want to happen in my future.""
+Answer:","[' Yes', ' No']",0,ipip,0,760,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I can handle a lot of information.""
+Answer:","[' Yes', ' No']",0,ipip,0,780,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I can handle a lot of information.""
+Answer:","[' Yes', ' No']",0,ipip,0,780,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I can say things beautifully.""
+Answer:","[' Yes', ' No']",0,ipip,0,800,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I can say things beautifully.""
+Answer:","[' Yes', ' No']",0,ipip,0,800,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I can take the viewpoint of others.""
+Answer:","[' Yes', ' No']",0,ipip,0,820,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I can take the viewpoint of others.""
+Answer:","[' Yes', ' No']",0,ipip,0,820,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I can't be bothered with other's needs.""
+Answer:","[' Yes', ' No']",0,ipip,0,840,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I can't be bothered with other's needs.""
+Answer:","[' Yes', ' No']",0,ipip,0,840,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I can't stand aggressive people.""
+Answer:","[' Yes', ' No']",0,ipip,0,860,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I can't stand aggressive people.""
+Answer:","[' Yes', ' No']",0,ipip,0,860,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I catch on to things quickly.""
+Answer:","[' Yes', ' No']",0,ipip,0,880,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I catch on to things quickly.""
+Answer:","[' Yes', ' No']",0,ipip,0,880,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I come straight to the point.""
+Answer:","[' Yes', ' No']",0,ipip,0,900,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I come straight to the point.""
+Answer:","[' Yes', ' No']",0,ipip,0,900,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I consider myself to be a wise person.""
+Answer:","[' Yes', ' No']",0,ipip,0,920,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I consider myself to be a wise person.""
+Answer:","[' Yes', ' No']",0,ipip,0,920,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I crave the experience of great art.""
+Answer:","[' Yes', ' No']",0,ipip,0,940,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I crave the experience of great art.""
+Answer:","[' Yes', ' No']",0,ipip,0,940,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I demand perfection in others.""
+Answer:","[' Yes', ' No']",0,ipip,0,960,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I demand perfection in others.""
+Answer:","[' Yes', ' No']",0,ipip,0,960,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I dislike changes.""
+Answer:","[' Yes', ' No']",0,ipip,0,980,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I dislike changes.""
+Answer:","[' Yes', ' No']",0,ipip,0,980,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I dislike talking about myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,1000,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I dislike talking about myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,1000,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I do many things with ease.""
+Answer:","[' Yes', ' No']",0,ipip,0,1020,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I do many things with ease.""
+Answer:","[' Yes', ' No']",0,ipip,0,1020,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I do not like poetry.""
+Answer:","[' Yes', ' No']",0,ipip,0,1040,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I do not like poetry.""
+Answer:","[' Yes', ' No']",0,ipip,0,1040,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I do things at the last minute.""
+Answer:","[' Yes', ' No']",0,ipip,0,1060,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I do things at the last minute.""
+Answer:","[' Yes', ' No']",0,ipip,0,1060,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I do unpleasant tasks immediately.""
+Answer:","[' Yes', ' No']",0,ipip,0,1080,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I do unpleasant tasks immediately.""
+Answer:","[' Yes', ' No']",0,ipip,0,1080,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I don't care if I offend others with bad manners.""
+Answer:","[' Yes', ' No']",0,ipip,0,1100,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I don't care if I offend others with bad manners.""
+Answer:","[' Yes', ' No']",0,ipip,0,1100,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I don't get sidetracked when I work.""
+Answer:","[' Yes', ' No']",0,ipip,0,1120,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I don't get sidetracked when I work.""
+Answer:","[' Yes', ' No']",0,ipip,0,1120,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I don't like being away from civilization.""
+Answer:","[' Yes', ' No']",0,ipip,0,1140,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I don't like being away from civilization.""
+Answer:","[' Yes', ' No']",0,ipip,0,1140,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I don't mind asking for favors.""
+Answer:","[' Yes', ' No']",0,ipip,0,1160,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I don't mind asking for favors.""
+Answer:","[' Yes', ' No']",0,ipip,0,1160,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I don't see things through.""
+Answer:","[' Yes', ' No']",0,ipip,0,1180,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I don't see things through.""
+Answer:","[' Yes', ' No']",0,ipip,0,1180,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I don't tolerate critics.""
+Answer:","[' Yes', ' No']",0,ipip,0,1200,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I don't tolerate critics.""
+Answer:","[' Yes', ' No']",0,ipip,0,1200,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I drown out conversations.""
+Answer:","[' Yes', ' No']",0,ipip,0,1220,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I drown out conversations.""
+Answer:","[' Yes', ' No']",0,ipip,0,1220,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I enjoy being thought of as a normal ""mainstream"" person.""
+Answer:","[' Yes', ' No']",0,ipip,0,1240,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I enjoy being thought of as a normal ""mainstream"" person.""
+Answer:","[' Yes', ' No']",0,ipip,0,1240,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I enjoy imagining what life is like for people in other places or who have lives different from mine.""
+Answer:","[' Yes', ' No']",0,ipip,0,1260,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I enjoy imagining what life is like for people in other places or who have lives different from mine.""
+Answer:","[' Yes', ' No']",0,ipip,0,1260,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I enjoy the feel of self-inflicted pain.""
+Answer:","[' Yes', ' No']",0,ipip,0,1280,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I enjoy the feel of self-inflicted pain.""
+Answer:","[' Yes', ' No']",0,ipip,0,1280,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I expect others to thank me for generous things that I do for them.""
+Answer:","[' Yes', ' No']",0,ipip,0,1300,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I expect others to thank me for generous things that I do for them.""
+Answer:","[' Yes', ' No']",0,ipip,0,1300,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I express my thanks to those who care about me.""
+Answer:","[' Yes', ' No']",0,ipip,0,1320,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I express my thanks to those who care about me.""
+Answer:","[' Yes', ' No']",0,ipip,0,1320,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I feel attacked by others.""
+Answer:","[' Yes', ' No']",0,ipip,0,1340,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I feel attacked by others.""
+Answer:","[' Yes', ' No']",0,ipip,0,1340,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I feel guilty when I say ""no.""""
+Answer:","[' Yes', ' No']",0,ipip,0,1360,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I feel guilty when I say ""no.""""
+Answer:","[' Yes', ' No']",0,ipip,0,1360,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I feel like I wouldn't know what to do if I developed a serious illness.""
+Answer:","[' Yes', ' No']",0,ipip,0,1380,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I feel like I wouldn't know what to do if I developed a serious illness.""
+Answer:","[' Yes', ' No']",0,ipip,0,1380,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I feel smothered when others show deep concern towards me.""
+Answer:","[' Yes', ' No']",0,ipip,0,1400,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I feel smothered when others show deep concern towards me.""
+Answer:","[' Yes', ' No']",0,ipip,0,1400,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I feel that I have a lot of inner strength.""
+Answer:","[' Yes', ' No']",0,ipip,0,1420,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I feel that I have a lot of inner strength.""
+Answer:","[' Yes', ' No']",0,ipip,0,1420,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I feel that my life would be better if I owned certain things I don't have""
+Answer:","[' Yes', ' No']",0,ipip,0,1440,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I feel that my life would be better if I owned certain things I don't have""
+Answer:","[' Yes', ' No']",0,ipip,0,1440,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I feel that the slightest problems are the ""end of the world.""""
+Answer:","[' Yes', ' No']",0,ipip,0,1460,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I feel that the slightest problems are the ""end of the world.""""
+Answer:","[' Yes', ' No']",0,ipip,0,1460,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I felt hopeful about the future.""
+Answer:","[' Yes', ' No']",0,ipip,0,1480,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I felt hopeful about the future.""
+Answer:","[' Yes', ' No']",0,ipip,0,1480,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I find it difficult to control my own thoughts.""
+Answer:","[' Yes', ' No']",0,ipip,0,1500,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I find it difficult to control my own thoughts.""
+Answer:","[' Yes', ' No']",0,ipip,0,1500,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I find it hard to tell others' thoughts by their looks.""
+Answer:","[' Yes', ' No']",0,ipip,0,1520,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I find it hard to tell others' thoughts by their looks.""
+Answer:","[' Yes', ' No']",0,ipip,0,1520,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I find that it's hard for me to have fun.""
+Answer:","[' Yes', ' No']",0,ipip,0,1540,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I find that it's hard for me to have fun.""
+Answer:","[' Yes', ' No']",0,ipip,0,1540,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I follow through with my plans.""
+Answer:","[' Yes', ' No']",0,ipip,0,1560,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I follow through with my plans.""
+Answer:","[' Yes', ' No']",0,ipip,0,1560,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I frequently back out of plans.""
+Answer:","[' Yes', ' No']",0,ipip,0,1580,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I frequently back out of plans.""
+Answer:","[' Yes', ' No']",0,ipip,0,1580,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I get a kick out of really scaring people.""
+Answer:","[' Yes', ' No']",0,ipip,0,1600,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I get a kick out of really scaring people.""
+Answer:","[' Yes', ' No']",0,ipip,0,1600,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I get chills when I hear about acts of great generosity.""
+Answer:","[' Yes', ' No']",0,ipip,0,1620,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I get chills when I hear about acts of great generosity.""
+Answer:","[' Yes', ' No']",0,ipip,0,1620,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I get nauseous when I see or think of spoiled food.""
+Answer:","[' Yes', ' No']",0,ipip,0,1640,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I get nauseous when I see or think of spoiled food.""
+Answer:","[' Yes', ' No']",0,ipip,0,1640,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I get to the point quickly.""
+Answer:","[' Yes', ' No']",0,ipip,0,1660,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I get to the point quickly.""
+Answer:","[' Yes', ' No']",0,ipip,0,1660,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I give people good advice.""
+Answer:","[' Yes', ' No']",0,ipip,0,1680,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I give people good advice.""
+Answer:","[' Yes', ' No']",0,ipip,0,1680,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I gossip about others.""
+Answer:","[' Yes', ' No']",0,ipip,0,1700,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I gossip about others.""
+Answer:","[' Yes', ' No']",0,ipip,0,1700,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I handle tasks smoothly.""
+Answer:","[' Yes', ' No']",0,ipip,0,1720,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I handle tasks smoothly.""
+Answer:","[' Yes', ' No']",0,ipip,0,1720,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have a dark, depraved, or evil side that I keep to myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,1740,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have a dark, depraved, or evil side that I keep to myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,1740,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have a poor vocabulary.""
+Answer:","[' Yes', ' No']",0,ipip,0,1760,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have a poor vocabulary.""
+Answer:","[' Yes', ' No']",0,ipip,0,1760,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have always been completely fair to others.""
+Answer:","[' Yes', ' No']",0,ipip,0,1780,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have always been completely fair to others.""
+Answer:","[' Yes', ' No']",0,ipip,0,1780,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have been arrested at least once in the past.""
+Answer:","[' Yes', ' No']",0,ipip,0,1800,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have been arrested at least once in the past.""
+Answer:","[' Yes', ' No']",0,ipip,0,1800,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have been told that I neglect other important parts of my life because I work so hard.""
+Answer:","[' Yes', ' No']",0,ipip,0,1820,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have been told that I neglect other important parts of my life because I work so hard.""
+Answer:","[' Yes', ' No']",0,ipip,0,1820,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have difficulty imagining things.""
+Answer:","[' Yes', ' No']",0,ipip,0,1840,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have difficulty imagining things.""
+Answer:","[' Yes', ' No']",0,ipip,0,1840,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have felt the presence of another person when he or she was not really there.""
+Answer:","[' Yes', ' No']",0,ipip,0,1860,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have felt the presence of another person when he or she was not really there.""
+Answer:","[' Yes', ' No']",0,ipip,0,1860,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have had conflicts with the police.""
+Answer:","[' Yes', ' No']",0,ipip,0,1880,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have had conflicts with the police.""
+Answer:","[' Yes', ' No']",0,ipip,0,1880,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have learned that it's dangerous to believe what people say.""
+Answer:","[' Yes', ' No']",0,ipip,0,1900,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have learned that it's dangerous to believe what people say.""
+Answer:","[' Yes', ' No']",0,ipip,0,1900,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have murderous ideas.""
+Answer:","[' Yes', ' No']",0,ipip,0,1920,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have murderous ideas.""
+Answer:","[' Yes', ' No']",0,ipip,0,1920,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have no problem defying the wishes of people in command.""
+Answer:","[' Yes', ' No']",0,ipip,0,1940,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have no problem defying the wishes of people in command.""
+Answer:","[' Yes', ' No']",0,ipip,0,1940,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have out-of-body experiences.""
+Answer:","[' Yes', ' No']",0,ipip,0,1960,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have out-of-body experiences.""
+Answer:","[' Yes', ' No']",0,ipip,0,1960,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have spent at least 30 minutes in the last 24 hours in prayer or meditation.""
+Answer:","[' Yes', ' No']",0,ipip,0,1980,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have spent at least 30 minutes in the last 24 hours in prayer or meditation.""
+Answer:","[' Yes', ' No']",0,ipip,0,1980,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have thoughts of murdering people.""
+Answer:","[' Yes', ' No']",0,ipip,0,2000,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have thoughts of murdering people.""
+Answer:","[' Yes', ' No']",0,ipip,0,2000,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I have trouble throwing away even worthless junk.""
+Answer:","[' Yes', ' No']",0,ipip,0,2020,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have trouble throwing away even worthless junk.""
+Answer:","[' Yes', ' No']",0,ipip,0,2020,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I hold grudges.""
+Answer:","[' Yes', ' No']",0,ipip,0,2040,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I hold grudges.""
+Answer:","[' Yes', ' No']",0,ipip,0,2040,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I invent problems for myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,2060,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I invent problems for myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,2060,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I keep my distance from strangers.""
+Answer:","[' Yes', ' No']",0,ipip,0,2080,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I keep my distance from strangers.""
+Answer:","[' Yes', ' No']",0,ipip,0,2080,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I keep things that I never use.""
+Answer:","[' Yes', ' No']",0,ipip,0,2100,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I keep things that I never use.""
+Answer:","[' Yes', ' No']",0,ipip,0,2100,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I know immediately what to do.""
+Answer:","[' Yes', ' No']",0,ipip,0,2120,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I know immediately what to do.""
+Answer:","[' Yes', ' No']",0,ipip,0,2120,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I know that my belief in God / a Higher Power helps me to understand my purpose in life.""
+Answer:","[' Yes', ' No']",0,ipip,0,2140,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I know that my belief in God / a Higher Power helps me to understand my purpose in life.""
+Answer:","[' Yes', ' No']",0,ipip,0,2140,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I know what's going on in the world.""
+Answer:","[' Yes', ' No']",0,ipip,0,2160,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I know what's going on in the world.""
+Answer:","[' Yes', ' No']",0,ipip,0,2160,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I let my attention wander off.""
+Answer:","[' Yes', ' No']",0,ipip,0,2180,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I let my attention wander off.""
+Answer:","[' Yes', ' No']",0,ipip,0,2180,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I let things get out of hand.""
+Answer:","[' Yes', ' No']",0,ipip,0,2200,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I let things get out of hand.""
+Answer:","[' Yes', ' No']",0,ipip,0,2200,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I like making sexual advances.""
+Answer:","[' Yes', ' No']",0,ipip,0,2220,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I like making sexual advances.""
+Answer:","[' Yes', ' No']",0,ipip,0,2220,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I like to be well prepared.""
+Answer:","[' Yes', ' No']",0,ipip,0,2240,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I like to be well prepared.""
+Answer:","[' Yes', ' No']",0,ipip,0,2240,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I like to help others.""
+Answer:","[' Yes', ' No']",0,ipip,0,2260,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I like to help others.""
+Answer:","[' Yes', ' No']",0,ipip,0,2260,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I like to stand out in a crowd.""
+Answer:","[' Yes', ' No']",0,ipip,0,2280,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I like to stand out in a crowd.""
+Answer:","[' Yes', ' No']",0,ipip,0,2280,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I like wild parties.""
+Answer:","[' Yes', ' No']",0,ipip,0,2300,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I like wild parties.""
+Answer:","[' Yes', ' No']",0,ipip,0,2300,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I look forward to each new day.""
+Answer:","[' Yes', ' No']",0,ipip,0,2320,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I look forward to each new day.""
+Answer:","[' Yes', ' No']",0,ipip,0,2320,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I love flowers.""
+Answer:","[' Yes', ' No']",0,ipip,0,2340,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I love flowers.""
+Answer:","[' Yes', ' No']",0,ipip,0,2340,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I love to eat.""
+Answer:","[' Yes', ' No']",0,ipip,0,2360,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I love to eat.""
+Answer:","[' Yes', ' No']",0,ipip,0,2360,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I make a fool of myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,2380,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I make a fool of myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,2380,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I make insightful remarks.""
+Answer:","[' Yes', ' No']",0,ipip,0,2400,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I make insightful remarks.""
+Answer:","[' Yes', ' No']",0,ipip,0,2400,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I may hit somebody if they openly disagree with me.""
+Answer:","[' Yes', ' No']",0,ipip,0,2420,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I may hit somebody if they openly disagree with me.""
+Answer:","[' Yes', ' No']",0,ipip,0,2420,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I need a lot of time to do things.""
+Answer:","[' Yes', ' No']",0,ipip,0,2440,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I need a lot of time to do things.""
+Answer:","[' Yes', ' No']",0,ipip,0,2440,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I never have sexual fantasies or daydreams.""
+Answer:","[' Yes', ' No']",0,ipip,0,2460,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I never have sexual fantasies or daydreams.""
+Answer:","[' Yes', ' No']",0,ipip,0,2460,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I often become sweaty or flushed when faced with scary situations or people.""
+Answer:","[' Yes', ' No']",0,ipip,0,2480,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I often become sweaty or flushed when faced with scary situations or people.""
+Answer:","[' Yes', ' No']",0,ipip,0,2480,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I often feel like my thoughts make no sense.""
+Answer:","[' Yes', ' No']",0,ipip,0,2500,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I often feel like my thoughts make no sense.""
+Answer:","[' Yes', ' No']",0,ipip,0,2500,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I often like to do the first thing that comes to my mind.""
+Answer:","[' Yes', ' No']",0,ipip,0,2520,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I often like to do the first thing that comes to my mind.""
+Answer:","[' Yes', ' No']",0,ipip,0,2520,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I often worry about things that turn out to be unimportant.""
+Answer:","[' Yes', ' No']",0,ipip,0,2540,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I often worry about things that turn out to be unimportant.""
+Answer:","[' Yes', ' No']",0,ipip,0,2540,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I pay no attention to my appearance.""
+Answer:","[' Yes', ' No']",0,ipip,0,2560,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I pay no attention to my appearance.""
+Answer:","[' Yes', ' No']",0,ipip,0,2560,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I prefer fear to boredom.""
+Answer:","[' Yes', ' No']",0,ipip,0,2580,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I prefer fear to boredom.""
+Answer:","[' Yes', ' No']",0,ipip,0,2580,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I prefer to do things by myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,2600,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I prefer to do things by myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,2600,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I prevent things from getting out of hand.""
+Answer:","[' Yes', ' No']",0,ipip,0,2620,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I prevent things from getting out of hand.""
+Answer:","[' Yes', ' No']",0,ipip,0,2620,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I quickly get the idea of things.""
+Answer:","[' Yes', ' No']",0,ipip,0,2640,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I quickly get the idea of things.""
+Answer:","[' Yes', ' No']",0,ipip,0,2640,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I rarely feel ill.""
+Answer:","[' Yes', ' No']",0,ipip,0,2660,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I rarely feel ill.""
+Answer:","[' Yes', ' No']",0,ipip,0,2660,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I react negatively to the minor and major stresses of life.""
+Answer:","[' Yes', ' No']",0,ipip,0,2680,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I react negatively to the minor and major stresses of life.""
+Answer:","[' Yes', ' No']",0,ipip,0,2680,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I refuse to be talked into things.""
+Answer:","[' Yes', ' No']",0,ipip,0,2700,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I refuse to be talked into things.""
+Answer:","[' Yes', ' No']",0,ipip,0,2700,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I respect the privacy of others.""
+Answer:","[' Yes', ' No']",0,ipip,0,2720,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I respect the privacy of others.""
+Answer:","[' Yes', ' No']",0,ipip,0,2720,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I say yes to nearly all requests.""
+Answer:","[' Yes', ' No']",0,ipip,0,2740,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I say yes to nearly all requests.""
+Answer:","[' Yes', ' No']",0,ipip,0,2740,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I see through problems.""
+Answer:","[' Yes', ' No']",0,ipip,0,2760,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I see through problems.""
+Answer:","[' Yes', ' No']",0,ipip,0,2760,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I seldom forget appointments.""
+Answer:","[' Yes', ' No']",0,ipip,0,2780,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I seldom forget appointments.""
+Answer:","[' Yes', ' No']",0,ipip,0,2780,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I should get special privileges.""
+Answer:","[' Yes', ' No']",0,ipip,0,2800,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I should get special privileges.""
+Answer:","[' Yes', ' No']",0,ipip,0,2800,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I sometimes feel ""down"" for several hours from relatively small disappointments.""
+Answer:","[' Yes', ' No']",0,ipip,0,2820,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I sometimes feel ""down"" for several hours from relatively small disappointments.""
+Answer:","[' Yes', ' No']",0,ipip,0,2820,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I sometimes laugh out loud when reading or watching TV.""
+Answer:","[' Yes', ' No']",0,ipip,0,2840,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I sometimes laugh out loud when reading or watching TV.""
+Answer:","[' Yes', ' No']",0,ipip,0,2840,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I spend time reflecting on things.""
+Answer:","[' Yes', ' No']",0,ipip,0,2860,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I spend time reflecting on things.""
+Answer:","[' Yes', ' No']",0,ipip,0,2860,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I stop when work becomes too difficult.""
+Answer:","[' Yes', ' No']",0,ipip,0,2880,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I stop when work becomes too difficult.""
+Answer:","[' Yes', ' No']",0,ipip,0,2880,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I take good care of my belongings.""
+Answer:","[' Yes', ' No']",0,ipip,0,2900,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I take good care of my belongings.""
+Answer:","[' Yes', ' No']",0,ipip,0,2900,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I take things for granted.""
+Answer:","[' Yes', ' No']",0,ipip,0,2920,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I take things for granted.""
+Answer:","[' Yes', ' No']",0,ipip,0,2920,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I talk without thinking.""
+Answer:","[' Yes', ' No']",0,ipip,0,2940,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I talk without thinking.""
+Answer:","[' Yes', ' No']",0,ipip,0,2940,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I tend to find social situations confusing.""
+Answer:","[' Yes', ' No']",0,ipip,0,2960,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I tend to find social situations confusing.""
+Answer:","[' Yes', ' No']",0,ipip,0,2960,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I think ahead.""
+Answer:","[' Yes', ' No']",0,ipip,0,2980,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I think ahead.""
+Answer:","[' Yes', ' No']",0,ipip,0,2980,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I think that everyone should be responsible for their own behaviors.""
+Answer:","[' Yes', ' No']",0,ipip,0,3000,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I think that everyone should be responsible for their own behaviors.""
+Answer:","[' Yes', ' No']",0,ipip,0,3000,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I thought that my life had been a failure.""
+Answer:","[' Yes', ' No']",0,ipip,0,3020,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I thought that my life had been a failure.""
+Answer:","[' Yes', ' No']",0,ipip,0,3020,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I try hard to treat others with respect.""
+Answer:","[' Yes', ' No']",0,ipip,0,3040,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I try hard to treat others with respect.""
+Answer:","[' Yes', ' No']",0,ipip,0,3040,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I try to get rid of my prejudices.""
+Answer:","[' Yes', ' No']",0,ipip,0,3060,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I try to get rid of my prejudices.""
+Answer:","[' Yes', ' No']",0,ipip,0,3060,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I try to understand myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,3080,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I try to understand myself.""
+Answer:","[' Yes', ' No']",0,ipip,0,3080,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I use my brain.""
+Answer:","[' Yes', ' No']",0,ipip,0,3100,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I use my brain.""
+Answer:","[' Yes', ' No']",0,ipip,0,3100,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I usually notice visual details in the environment.""
+Answer:","[' Yes', ' No']",0,ipip,0,3120,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I usually notice visual details in the environment.""
+Answer:","[' Yes', ' No']",0,ipip,0,3120,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I want to be different from others.""
+Answer:","[' Yes', ' No']",0,ipip,0,3140,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I want to be different from others.""
+Answer:","[' Yes', ' No']",0,ipip,0,3140,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I want to understand things.""
+Answer:","[' Yes', ' No']",0,ipip,0,3160,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I want to understand things.""
+Answer:","[' Yes', ' No']",0,ipip,0,3160,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I watch out for possible danger.""
+Answer:","[' Yes', ' No']",0,ipip,0,3180,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I watch out for possible danger.""
+Answer:","[' Yes', ' No']",0,ipip,0,3180,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I will do just about anything to please people.""
+Answer:","[' Yes', ' No']",0,ipip,0,3200,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I will do just about anything to please people.""
+Answer:","[' Yes', ' No']",0,ipip,0,3200,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I wonder who I really am.""
+Answer:","[' Yes', ' No']",0,ipip,0,3220,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I wonder who I really am.""
+Answer:","[' Yes', ' No']",0,ipip,0,3220,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I worry about people taking my possessions.""
+Answer:","[' Yes', ' No']",0,ipip,0,3240,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I worry about people taking my possessions.""
+Answer:","[' Yes', ' No']",0,ipip,0,3240,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I would describe myself as a normal person.""
+Answer:","[' Yes', ' No']",0,ipip,0,3260,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I would describe myself as a normal person.""
+Answer:","[' Yes', ' No']",0,ipip,0,3260,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I would like to try bungee jumping.""
+Answer:","[' Yes', ' No']",0,ipip,0,3280,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I would like to try bungee jumping.""
+Answer:","[' Yes', ' No']",0,ipip,0,3280,0,1
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I would not enjoy being a famous celebrity.""
+Answer:","[' Yes', ' No']",0,ipip,0,3300,0,1
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I would not enjoy being a famous celebrity.""
+Answer:","[' Yes', ' No']",0,ipip,0,3300,0,1
