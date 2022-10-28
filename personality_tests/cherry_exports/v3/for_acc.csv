@@ -1,0 +1,394 @@
+prompt,answer_index,classes
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I accept challenging tasks.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I accept people as they are.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I accept the consequences of my actions.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I acknowledge others' accomplishments.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I act according to my conscience.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I act as a leader.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am asked for advice by friends and family.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am asked for favors by my friends and family.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am committed to principles of justice and equality.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am good at making impromptu speeches.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am more likely to be fast and careless than to be slow and plodding.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am never at a loss for words.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am open to change.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am pretty trusting of others' motives.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am trusted by other people.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I am trusted to keep secrets.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I appreciate good manners.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I appreciate people who wait on me.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I appreciate the viewpoints of others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I approach others in a positive manner.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I ask questions that nobody else does.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that criminals should receive help rather than punishment.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that everyone should have a say.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that everyone's rights are equally important.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that honesty is the basis for trust.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that laws should be strictly enforced.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that most people tell the truth.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that others have good intentions.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that people are basically honest and good.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I believe that there are universal truths.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I can be relied upon by others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I can be trusted to keep my promises.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I can improvise.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I can take a joke.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I care about others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I consider others' advice.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I consider others' opinions.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I defend my own beliefs.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I do things for no apparent reason.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I do what I say.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I don't let others cut in front of me in line.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I don't like being interrupted.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I don't lose my head.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I don't pretend to be more than I am.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I enjoy crude jokes.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I enjoy games of strategy.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I enjoy taking my clothes off in front of others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I enjoy teamwork.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I enjoy thought-provoking movies.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I expect dedicated work from others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I express myself easily.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I feel I must respect the decisions made by my group.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I follow my instincts.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I follow orders.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I formulate ideas clearly.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I give people a second chance.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I go out of my way for others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I go out of my way to cheer up people who appear down.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I handle tasks smoothly.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have always been completely fair to others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have complete confidence in my doctor.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have little patience for slackers.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have no objection to stepping on other people's toes if it is to my advantage.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I have read the great literary classics.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I help my friends.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I hold myself and others to very high standards.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I honor all the vows I have made.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I inquire about others' well-being.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I investigate all possibilities.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I keep promises that I make to myself.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I keep the peace.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I like having secrets.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I like to take responsibility for making decisions.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I love surprise parties.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I make a point of trying not to hurt others in pursuit of my goals.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I make order out of chaos.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I must try to maintain harmony within my group.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I need things explained only once.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I never spend more than I can afford.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I offend no one.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I only want service from the top-qualified person in the field.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I prefer to make my own decisions.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I prefer to observe formalities.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I protect myself from threat or danger.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I rarely lose my composure.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I remain on guard to keep from being tricked or manipulated.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I respect authority.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I respect older people.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I respect others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I respect others' feelings.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I respect the opinions of others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I respect the privacy of others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I see that nobody gets left out.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I see that nobody gets left out.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I see that rules are observed.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I seek to be the best.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I seldom become irritated in response to what a person says.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I seldom get lost in thought.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I seldom take offense.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I share things with others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I speak up for others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I stand behind my actions.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I support my teammates or fellow group members.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I take care of my own affairs.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I take good care of my belongings.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I take others' interests into account.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I take precautions.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I take responsibility for what happens.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I think of others first.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I treat all races and religions equally.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I trust others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I try hard to protect myself from threats or dangers.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I try hard to treat others with respect.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I try not to deceive others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I try to add some humor to whatever I do.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I try to always be open and honest about my feelings.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I try to always tell the truth.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I try to maintain a pleasant atmosphere.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I try to meet people I find attractive.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I turn plans into actions.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I want every detail taken care of.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I want things to proceed according to plan.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I want to be the very best.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I will do anything for others.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you agree with the following statement, then please answer ""Yes"". If you disagree with that statement, then please answer ""No"".
+Statement: ""I won't let others dominate me.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I would be upset if my success came at someone else's expense.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I would do anything to get an adrenaline rush.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I would feel very badly for a long time if I were to steal from someone.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I would love to take off on a trip with no planned route or timetable.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I would never take things that aren't mine.""
+Answer:",1,"[' Yes', ' No']"
+"Follow my instructions and read a statement to answer accordingly. If you disagree with the following statement, then please answer ""No"". If you agree with that statement, then please answer ""Yes"".
+Statement: ""I would rather buy something I need than borrow it from someone else.""
+Answer:",1,"[' Yes', ' No']"
